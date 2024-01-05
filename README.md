@@ -2,9 +2,9 @@
 
 ### Resize the root partition to ensure you have enough free space:
 
-chmod a+x setup-grow-rootfs.sh
+chmod a+x grow-rootfs.sh
 
-sudo env RESIZEROOT=200 ./setup-grow-rootfs.sh
+sudo env RESIZEROOT=200 ./grow-rootfs.sh
 
 ### Install oneAPI base kit using the APT package manager
 
@@ -22,7 +22,15 @@ sudo apt install linux-tools-common linux-tools-$(uname -r)
 
 ## Enabling C6
 
-echo "0" |sudo tee /sys/devices/system/cpu/cpu*/cpuidle/state3/disable
+echo "0" | sudo tee /sys/devices/system/cpu/cpu*/cpuidle/state3/disable
+
+## Compile
+
+make
+
+## Alternative, just run setup.sh 
+
+bash setup.sh
 
 ## Experiment
 
