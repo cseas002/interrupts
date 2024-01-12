@@ -86,6 +86,7 @@ int main(int argc, char const *argv[]) {
             printf("%s\n", buffer);
             send(new_socket, hello, strlen(hello), 0);
             printf("Hello message sent on port 8080\n");
+            break;
         }
 
         // Close the connected socket on port 8080
@@ -109,6 +110,7 @@ int main(int argc, char const *argv[]) {
             printf("%s\n", buffer);
             send(new_socket, hello, strlen(hello), 0);
             printf("Hello message sent on port 8081\n");
+            break;
         }
 
         // Close the connected socket on port 8081
