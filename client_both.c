@@ -2,10 +2,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
 #include <sys/socket.h>
 #include <unistd.h>
 #include <signal.h>
 #include <sys/time.h>
+#include <math.h>
 #define PORT 8080
 #define PORT2 8081
 
@@ -13,6 +15,22 @@
 void sigpipe_handler(int signo)
 {
     // Do nothing, just ignore the signal
+}
+
+// Function to generate Poisson-distributed random numbers
+int poissonRandomNumber(double lambda)
+{
+    double L = exp(-lambda);
+    double p = 1.0;
+    int k = 0;
+
+    do
+    {
+        k++;
+        p *= ((double)rand() / RAND_MAX);
+    } while (p > L);
+
+    return k - 1;
 }
 
 int send_request(int client_fd, char *hello, char *buffer, int port)
@@ -103,6 +121,11 @@ int main(int argc, char const *argv[])
     signal(SIGPIPE, sigpipe_handler);
     long time_taken, total_time = 0;
 
+    // Seed the random number generator
+    srand((unsigned int)time(NULL));
+    int sleep_usecs_min = 100;
+    int sleep_usecs_max = 600;
+
     for (int i = 0; i < repetitions; i++)
     {
         // Send request to port 8080
@@ -110,7 +133,10 @@ int main(int argc, char const *argv[])
         if (time_taken == -1)
             break;
 
-        usleep(100);
+        // Generate sleep duration based on Poisson distribution
+        int poissonValue = poissonRandomNumber(1.0); // Adjust lambda as needed
+        int sleep_duration = sleep_usecs_min + poissonValue % (sleep_usecs_max - sleep_usecs_min + 1);
+        usleep(sleep_duration);
 
         // Send request to port 8081
         time_taken = send_request(client_fd2, hello, buffer, 8081);

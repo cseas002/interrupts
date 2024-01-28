@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cd
-git clone -y git@github.com:cseas002/interrupts.git
-cd interrupts
+# cd
+# git clone -y git@github.com:cseas002/interrupts.git
+# cd interrupts
 chmod a+x grow-rootfs.sh
 sudo env RESIZEROOT=200 ./grow-rootfs.sh
 wget -O- https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS.PUB | gpg --dearmor | sudo tee /usr/share/keyrings/oneapi-archive-keyring.gpg > /dev/null
