@@ -172,7 +172,7 @@ int main(int argc, char const *argv[])
     // Read parameters from the file using the function
     readParameters(argv[1], &serv_addr_ip, &sleep_usecs, &repetitions, &poisson, &pre_request);
 
-    printf("Parameters:\nServer IP address: %s\nSleep microseconds: %d\nRepetitions: %d\nPoisson Distribution: %d\nSend Pre request: %d\n\n\n", serv_addr_ip, sleep_usecs, repetitions, poisson, pre_request);
+    printf("Parameters:\n Server IP address: %s\nSleep microseconds: %d\nRepetitions: %d\nPoisson Distribution: %d\nSend Pre request: %d\n", serv_addr_ip, sleep_usecs, repetitions, poisson, pre_request);
 
     // Create socket for port 8080
     if ((client_fd1 = socket(AF_INET, SOCK_STREAM, 0)) < 0)

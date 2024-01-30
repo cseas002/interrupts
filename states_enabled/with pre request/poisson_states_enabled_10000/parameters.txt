@@ -1,0 +1,5 @@
+server_ip 10.10.1.1
+sleep_usecs 10000
+repetitions 100
+poisson true
+pre_request true

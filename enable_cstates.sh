@@ -4,5 +4,5 @@
 # Disable c states
 for i in {1..3}
 do 
-echo 1 | sudo tee /sys/devices/system/cpu/cpu*/cpuidle/state$i/disable
+echo 0 | sudo tee /sys/devices/system/cpu/cpu*/cpuidle/state$i/disable
 done
