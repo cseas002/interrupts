@@ -38,7 +38,7 @@ start_processes() {
     taskset -c 1 ./server &
     taskset -c 1 ./server2 &
     # Run the command and use turbostat as well
-    sudo turbostat --show sysfs,CPU --hide POLL,C1,C1E,C6,POLL% -cpu 1 -q -o $folder_name/turbostat_output.txt ssh -A cseas002@node1 "./client_both parameters.txt" >> $folder_name/output.txt
+    sudo turbostat --show sysfs,CPU --hide POLL,C1,C1E,C6,POLL% -cpu 1 -q -o $folder_name/turbostat_output.txt ssh -A cseas002@node1 "./client_both parameters.txt" 2> $folder_name/times.txt >> $folder_name/output.txt
     stop_processes
 }
 
