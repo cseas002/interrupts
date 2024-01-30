@@ -1,8 +1,22 @@
 #!/bin/bash
 
+if [ "$#" -ne 1 ]; then
+        echo "Usage: $0 <folder_name>"
+        exit 1
+fi
+
+save_folder_name=$1
+
+if [ -d "$save_folder_name" ]; then
+    echo "Error: Folder '$save_folder_name' already exists. Exiting."
+    exit 1
+fi
+
+mkdir $save_folder_name
+
 for sleep_val in 1000 10000 100000 1000000; do
     for pre_request in true false; do
-        parent_folder_name="Pre-req=${pre_request}"
+        parent_folder_name="${save_folder_name}/Pre-req=${pre_request}"
         mkdir -p $parent_folder_name
         for state in enable disable; do
             # Make the folder State_${state}
