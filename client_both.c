@@ -9,6 +9,7 @@
 #include <sys/time.h>
 #include <math.h>
 #include <stdbool.h>
+#include <gsl/gsl_randist.h>
 #define PORT 8080
 #define PORT2 8081
 
@@ -74,21 +75,119 @@ void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs,
     fclose(param_file);
 }
 
-// Function to generate Poisson-distributed random numbers
-int poissonRandomNumber(double lambda)
+int *get_poisson_numbers(int repetitions, int sleep_usecs)
 {
-    double L = exp(-lambda);
-    double p = 1.0;
-    int k = 0;
+    // Construct the command to execute the Python script with parameters
+    char command[100];
+    snprintf(command, sizeof(command), "python poisson.py %d %d", repetitions, sleep_usecs);
 
-    do
+    // Execute the Python script
+    int status = system(command);
+
+    if (status == 0)
     {
-        k++;
-        p *= ((double)rand() / RAND_MAX);
-    } while (p > L);
+        // printf("Python script executed successfully.\n");
 
-    return k;
+        // Read Poisson numbers from the file
+        FILE *file = fopen("poisson_numbers.txt", "r");
+        if (file == NULL)
+        {
+            fprintf(stderr, "Error opening file poisson_numbers.txt\n");
+            exit(EXIT_FAILURE);
+        }
+
+        // Count the number of lines in the file
+        int count = 0;
+        int c;
+        while ((c = fgetc(file)) != EOF)
+        {
+            if (c == '\n')
+            {
+                count++;
+            }
+        }
+
+        // Allocate memory for the array
+        int *poisson_numbers = (int *)malloc(count * sizeof(int));
+        if (poisson_numbers == NULL)
+        {
+            fprintf(stderr, "Error allocating memory\n");
+            exit(EXIT_FAILURE);
+        }
+
+        // Rewind the file and read numbers into the array
+        rewind(file);
+        for (int i = 0; i < count; ++i)
+        {
+            fscanf(file, "%d", &poisson_numbers[i]);
+        }
+
+        // Close the file
+        fclose(file);
+
+        return poisson_numbers;
+    }
+    else
+    {
+        fprintf(stderr, "Error executing Python script.\n");
+        exit(EXIT_FAILURE);
+    }
 }
+
+// // Function to generate Poisson-distributed random numbers
+// int poissonRandomNumber(double lambda)
+// {
+//     double initial_lambda = lambda;
+//     lambda = initial_lambda / (initial_lambda / 100);
+//     double L = exp(-lambda);
+//     double p = 1.0;
+//     int k = 0;
+
+//     do
+//     {
+//         k++;
+//         p *= ((double)rand() / RAND_MAX);
+//     } while (p > L);
+
+//     return k * (lambda * 100);
+// }
+
+// double poisson_distribution(int k, double average)
+// {
+//     // Calculate e^(-lambda) * lambda^k / k!
+//     return exp(-average) * pow(average, k) / tgamma(k + 1);
+// }
+
+// void generate_poisson_numbers(int k, double average, int *result)
+// {
+//     for (int i = 0; i < k; ++i)
+//     {
+//         double L = exp(-average);
+//         double p = 1.0;
+//         int x = -1;
+
+//         do
+//         {
+//             ++x;
+//             p *= ((double)rand() / (RAND_MAX));
+//         } while (p > L);
+
+//         result[i] = x;
+//     }
+// }
+
+// void generate_poisson_numbers(int k, double average, unsigned int seed, int *result)
+// {
+//     gsl_rng *rng = gsl_rng_alloc(gsl_rng_default);
+//     gsl_rng_set(rng, seed);
+
+//     for (int i = 0; i < k; ++i)
+//     {
+//         result[i] = gsl_ran_poisson(rng, average);
+//     }
+
+//     gsl_rng_free(rng);
+// }
 
 int send_request(bool read_message, int client_fd, char *hello, char *buffer, int port)
 {
@@ -233,6 +332,19 @@ int main(int argc, char const *argv[])
         return 1;
     }
 
+    int *poisson_numbers = get_poisson_numbers(repetitions, sleep_usecs);
+    // if (poisson)
+    // {
+    //     // Allocate memory for the result array
+    //     poisson_numbers = (int *)malloc(repetitions * sizeof(int));
+
+    //     // Seed the random number generator
+    //     unsigned int seed = (unsigned int)time(NULL);
+
+    //     // Generate Poisson numbers
+    //     generate_poisson_numbers(repetitions, sleep_usecs, seed, poisson_numbers);
+    // }
+
     // Seed the random number generator for the Poisson distribution
     srand((unsigned int)time(NULL));
     // // Sleep for microseconds between one third of sleeping time until three times the sleeping time
@@ -263,8 +375,10 @@ int main(int argc, char const *argv[])
         // Generate sleep duration based on Poisson distribution
         if (poisson)
         {
-            int sleep_duration = poissonRandomNumber(sleep_usecs);
-            usleep(sleep_duration);
+            // int sleep_duration = poissonRandomNumber(sleep_usecs);
+            // int sleep_duration = poisson_distribution(repetitions, sleep_usecs);
+            fprintf(stderr, "Time sleep: %d\n", poisson_numbers[i]);
+            usleep(poisson_numbers[i]);
         }
         else
         {
@@ -280,5 +394,7 @@ int main(int argc, char const *argv[])
     close(client_fd2);
     free(serv_addr_ip);
     free(latency_array);
+    // Free allocated memory
+    free(poisson_numbers);
     return 0;
 }

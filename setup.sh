@@ -3,6 +3,10 @@
 # cd
 # git clone -y git@github.com:cseas002/interrupts.git
 # cd interrupts
+ssh -A node1 "sudo apt-get -y install libgsl-dev"
+ssh -A node1 "sudo apt -y install python3-pip"
+ssh -A node1 "pip install numpy"
+pip install scipy
 chmod a+x grow-rootfs.sh
 sudo env RESIZEROOT=200 ./grow-rootfs.sh
 wget -O- https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS.PUB | gpg --dearmor | sudo tee /usr/share/keyrings/oneapi-archive-keyring.gpg > /dev/null
