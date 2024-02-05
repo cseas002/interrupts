@@ -19,7 +19,7 @@ void sigpipe_handler(int signo)
     // Do nothing, just ignore the signal
 }
 
-void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs, int *repetitions, bool *poisson, bool *pre_request)
+void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs, int *repetitions, bool *poisson, bool *exponential, bool *fixed, bool *pre_request, int *pre_request_interval)
 {
     FILE *param_file = fopen(filename, "r");
     if (param_file == NULL)
@@ -31,6 +31,8 @@ void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs,
     char param_name[20];
     char param_value[20];
     *poisson = false;
+    *fixed = false;
+    *exponential = false;
     *pre_request = false;
 
     // Read parameters from the file
@@ -48,15 +50,24 @@ void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs,
         {
             *repetitions = atoi(param_value);
         }
-        else if (strcmp(param_name, "poisson") == 0)
+        else if (strcmp(param_name, "distribution") == 0)
         {
-            if (strcmp(param_value, "true") == 0)
+            if (strcmp(param_value, "poisson") == 0)
             {
                 *poisson = true;
             }
-            else if (strcmp(param_value, "false") == 0)
+            else if (strcmp(param_value, "fixed") == 0)
             {
-                *poisson = false;
+                *fixed = true;
+            }
+            else if (strcmp(param_value, "exponential") == 0)
+            {
+                *exponential = true;
+            }
+            else
+            {
+                fprintf(stderr, "Choose from poisson, exponential, fixed\n");
+                exit(EXIT_FAILURE);
             }
         }
         else if (strcmp(param_name, "pre_request") == 0)
@@ -70,9 +81,39 @@ void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs,
                 *pre_request = false;
             }
         }
+        else if (strcmp(param_name, "pre_request_interval") == 0)
+        {
+            *pre_request_interval = atoi(param_value);
+        }
+    }
+
+    if ((*exponential && *fixed) || (*exponential && *poisson) || (*fixed && *poisson))
+    {
+        fprintf(stderr, "Cannot combine fixed, exponential, and poisson\nFixed: %d, Poisson: %d, Exponential: %d", *fixed, *poisson, *exponential);
+        fprintf(stderr, "Choose from poisson, exponential, fixed\n");
+        exit(EXIT_FAILURE);
+    }
+
+    if (!(*fixed || *poisson || *exponential))
+    {
+        fprintf(stderr, "Set one from fixed, poisson and exponential\n");
+        fprintf(stderr, "Choose from poisson, exponential, fixed\n");
+        exit(EXIT_FAILURE);
     }
 
     fclose(param_file);
+}
+
+// Function to generate random numbers from an exponential distribution
+int generateExponential(int average)
+{
+    if (average == 0)
+    {
+        return 0;
+    }
+    double lambda = 1 / (double)average;
+    double u = (double)rand() / RAND_MAX;
+    return (int)(-log(1 - u) / lambda);
 }
 
 int *get_poisson_numbers(int repetitions, int sleep_usecs)
@@ -207,7 +248,7 @@ int send_request(bool read_message, int client_fd, char *hello, char *buffer, in
     // Receive from port
     if (read_message)
     {
-        int valread = read(client_fd, buffer, 1024);
+        int valread = read(client_fd, buffer, 30);
         if (valread <= 0)
         {
             perror("Error reading from port");
@@ -254,9 +295,9 @@ int main(int argc, char const *argv[])
 {
     int status, valread, client_fd1, client_fd2;
     struct sockaddr_in serv_addr1, serv_addr2;
-    bool poisson, pre_request;
+    bool poisson, fixed, exponential, pre_request;
     char *hello = "Hello from client";
-    char buffer[1024] = {0};
+    char buffer[30] = {0};
 
     if (argc != 2)
     {
@@ -267,11 +308,16 @@ int main(int argc, char const *argv[])
     char *serv_addr_ip;
     int sleep_usecs;
     int repetitions;
+    int pre_request_interval = 0;
 
     // Read parameters from the file using the function
-    readParameters(argv[1], &serv_addr_ip, &sleep_usecs, &repetitions, &poisson, &pre_request);
+    readParameters(argv[1], &serv_addr_ip, &sleep_usecs, &repetitions, &poisson, &exponential, &fixed, &pre_request, &pre_request_interval);
 
-    printf("Parameters:\nServer IP address: %s\nSleep microseconds: %d\nRepetitions: %d\nPoisson Distribution: %d\nSend Pre request: %d\n\n\n", serv_addr_ip, sleep_usecs, repetitions, poisson, pre_request);
+    printf("Parameters:\nServer IP address: %s\nSleep microseconds: %d\nRepetitions: %d\nSend Pre request: %d\nPre-Request interval: %d\n", serv_addr_ip, sleep_usecs, repetitions, pre_request, pre_request_interval);
+    char *distribution = (fixed) ? "Fixed" : (poisson) ? "Poisson"
+                                                       : "Exponential";
+
+    printf("Distribution: %s\n\n\n", distribution);
 
     // Create socket for port 8080
     if ((client_fd1 = socket(AF_INET, SOCK_STREAM, 0)) < 0)
@@ -345,11 +391,20 @@ int main(int argc, char const *argv[])
     //     generate_poisson_numbers(repetitions, sleep_usecs, seed, poisson_numbers);
     // }
 
+    bool one_request = false;
+
+    if (one_request)
+    {
+        send_request(true, client_fd1, hello, buffer, 8080);
+        send_request(true, client_fd1, hello, buffer, 8080);
+        usleep(10000);
+        time_taken = send_request(true, client_fd1, hello, buffer, 8080);
+        printf("Time taken for one request: %ld\n", time_taken);
+        return -1;
+    }
+
     // Seed the random number generator for the Poisson distribution
     srand((unsigned int)time(NULL));
-    // // Sleep for microseconds between one third of sleeping time until three times the sleeping time
-    // int sleep_usecs_min = sleep_usecs / 3;
-    // int sleep_usecs_max = sleep_usecs * 3;
 
     // Use Poisson for the requests inter arrival time
     // Measure tail latency and average time
@@ -362,7 +417,7 @@ int main(int argc, char const *argv[])
             if (time_taken == -1)
                 break;
         }
-        usleep(100); // Sleep for 100 us
+        usleep(pre_request_interval); // Sleep for <pre_request_interval> us
 
         // Send request to port 8081
         time_taken = send_request(true, client_fd2, hello, buffer, 8081);
@@ -380,9 +435,21 @@ int main(int argc, char const *argv[])
             fprintf(stderr, "Time sleep: %d\n", poisson_numbers[i]);
             usleep(poisson_numbers[i]);
         }
+        else if (exponential)
+        {
+            int sleep_time = generateExponential(sleep_usecs);
+            fprintf(stderr, "Time sleep: %d\n", sleep_time);
+            usleep(sleep_time);
+        }
+        else if (fixed)
+        {
+            fprintf(stderr, "Time sleep: %d\n", sleep_usecs);
+            usleep(sleep_usecs);
+        }
         else
         {
-            usleep(sleep_usecs);
+            fprintf(stderr, "FATAL. No distribution found\nExiting ...\n");
+            exit(EXIT_FAILURE);
         }
     }
 
