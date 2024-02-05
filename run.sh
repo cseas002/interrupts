@@ -28,8 +28,10 @@ start_processes() {
 
     stop_processes
     make
+
     # Create the specified folder
-    mkdir "$folder_name"
+    mkdir -p "$folder_name"
+    
     cp client_both.c $folder_name/
     cp server.c $folder_name/
     cp server2.c $folder_name/
