@@ -33,6 +33,12 @@ make
 bash setup.sh
 
 ## Experiment
+bash run.sh start <folder name>
+e.g.
+bash run.start MY_RUN
+
+Everything will be saved in the folder MY_RUN
+## Experiment (old)
 
 On node0:
 
