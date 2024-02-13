@@ -14,7 +14,7 @@ stop_processes() {
 
 
 start_processes() {
-    if [ "$#" -ne 1 ]; then
+    if [ -z "$1" ]; then
         echo "Usage: $0 start <folder_name>"
         exit 1
     fi
@@ -42,12 +42,12 @@ start_processes() {
     taskset -c 1 ./server &
     taskset -c 1 ./server2 &
     # Run socwatch
-    sudo /opt/intel/oneapi/vtune/2024.0/socwatch/x64/socwatch -f cpu-cstate -m -r int -o $folder_name/Socwatch > /dev/null 2> /dev/null &
-    socwatch_pid=$!  # Get the PID of socwatch
+    # sudo /opt/intel/oneapi/vtune/2024.0/socwatch/x64/socwatch -f cpu-cstate -m -r int -o $folder_name/Socwatch > /dev/null 2> /dev/null &
+    # socwatch_pid=$!  # Get the PID of socwatch
     # Run the command and use turbostat as well
     sudo turbostat --show sysfs,CPU --hide POLL,C1,C1E,C6,POLL% -cpu 1 -q -o $folder_name/turbostat_output.txt ssh -A cseas002@node1 "./client_both parameters.txt" 2> $folder_name/times.txt >> $folder_name/output.txt
     # Send SIGINT to processes with names containing "socwatch"
-    pkill -SIGINT -f "socwatch"
+    # pkill -SIGINT -f "socwatch"
     stop_processes
 }
 

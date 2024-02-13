@@ -19,7 +19,7 @@ void sigpipe_handler(int signo)
     // Do nothing, just ignore the signal
 }
 
-void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs, int *repetitions, bool *poisson, bool *exponential, bool *fixed, bool *pre_request, int *pre_request_interval)
+void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs, int *repetitions, bool *poisson, bool *exponential, bool *fixed, bool *pre_request, int *pre_request_interval, int *warmup_requests)
 {
     FILE *param_file = fopen(filename, "r");
     if (param_file == NULL)
@@ -34,6 +34,7 @@ void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs,
     *fixed = false;
     *exponential = false;
     *pre_request = false;
+    *warmup_requests = 0;
 
     // Read parameters from the file
     while (fscanf(param_file, "%s %s", param_name, param_value) == 2)
@@ -84,6 +85,10 @@ void readParameters(const char *filename, char **serv_addr_ip, int *sleep_usecs,
         else if (strcmp(param_name, "pre_request_interval") == 0)
         {
             *pre_request_interval = atoi(param_value);
+        }
+        else if (strcmp(param_name, "warmup_requests") == 0)
+        {
+            *warmup_requests = atoi(param_value);
         }
     }
 
@@ -274,13 +279,13 @@ int compare_long(const void *a, const void *b)
 void print_statistics(int repetitions, long *latency_array)
 {
     // Calculate and print average latency
-    long sum_latency = 0;
+    long long sum_latency = 0;
     for (int i = 0; i < repetitions; i++)
     {
         sum_latency += latency_array[i];
     }
-    double average_latency = (double)sum_latency / repetitions;
-    printf("Average Latency: %.2f microseconds\n", average_latency);
+    long double average_latency = (long double)sum_latency / repetitions;
+    printf("Average Latency: %.2Lf microseconds\n", average_latency);
 
     // Sort the latency array to find the 99th percentile
     qsort(latency_array, repetitions, sizeof(long), compare_long);
@@ -309,15 +314,16 @@ int main(int argc, char const *argv[])
     int sleep_usecs;
     int repetitions;
     int pre_request_interval = 0;
+    int warmup_requests = 0;
 
     // Read parameters from the file using the function
-    readParameters(argv[1], &serv_addr_ip, &sleep_usecs, &repetitions, &poisson, &exponential, &fixed, &pre_request, &pre_request_interval);
+    readParameters(argv[1], &serv_addr_ip, &sleep_usecs, &repetitions, &poisson, &exponential, &fixed, &pre_request, &pre_request_interval, &warmup_requests);
 
     printf("Parameters:\nServer IP address: %s\nSleep microseconds: %d\nRepetitions: %d\nSend Pre request: %d\nPre-Request interval: %d\n", serv_addr_ip, sleep_usecs, repetitions, pre_request, pre_request_interval);
     char *distribution = (fixed) ? "Fixed" : (poisson) ? "Poisson"
                                                        : "Exponential";
 
-    printf("Distribution: %s\n\n\n", distribution);
+    printf("Distribution: %s\nWarmup Requests: %d\n\n\n", distribution, warmup_requests);
 
     // Create socket for port 8080
     if ((client_fd1 = socket(AF_INET, SOCK_STREAM, 0)) < 0)
@@ -395,8 +401,12 @@ int main(int argc, char const *argv[])
 
     if (one_request)
     {
-        send_request(true, client_fd1, hello, buffer, 8080);
-        send_request(true, client_fd1, hello, buffer, 8080);
+        // send_request(true, client_fd1, hello, buffer, 8080);
+        // send_request(true, client_fd1, hello, buffer, 8080);
+        // send_request(true, client_fd1, hello, buffer, 8080);
+        // send_request(true, client_fd1, hello, buffer, 8080);
+        // send_request(true, client_fd1, hello, buffer, 8080);
+        // send_request(true, client_fd1, hello, buffer, 8080);
         usleep(10000);
         time_taken = send_request(true, client_fd1, hello, buffer, 8080);
         printf("Time taken for one request: %ld\n", time_taken);
@@ -406,6 +416,13 @@ int main(int argc, char const *argv[])
     // Seed the random number generator for the Poisson distribution
     srand((unsigned int)time(NULL));
 
+    for (int i = 0; i < warmup_requests; i++)
+    {
+        time_taken = send_request(false, client_fd1, hello, buffer, 8080);
+        if (time_taken == -1)
+            break;
+    }
+    total_time = 0;
     // Use Poisson for the requests inter arrival time
     // Measure tail latency and average time
     for (int i = 0; i < repetitions; i++)
@@ -453,6 +470,14 @@ int main(int argc, char const *argv[])
         }
     }
 
+    if (total_time < 0)
+    {
+        printf("Total time is less than 0!\n Total time: %ld\n", total_time);
+        printf("Recalculating ...\n");
+        total_time = 0;
+        for (int i = 0; i < repetitions; i++)
+            total_time += latency_array[i];
+    }
     printf("Total time taken: %ld\n", total_time);
     // Close the connections (not reached in the current code)
 
