@@ -57,15 +57,23 @@ def create_latency_graph(latency_data, metric_name, output_filename, graph_name)
     # Manually set the height of the figure
     plt.gcf().set_size_inches(10, 8)  # Adjust the size as needed
 
+   # Create a list to store text annotations
+    text_annotations = []
+
     # Annotate each bar with the x-axis label (folder path) inside the column
     for key, value in latency_data.items():
         modified_key = key.replace(graph_name, '').strip('/')  # Remove graph_name and leading/trailing slashes
-        plt.text(key, value / 2, modified_key, ha='center', va='center', rotation=90, fontsize=8)
-
+        annotation = plt.text(key, value / 2, modified_key, ha='center', va='center', rotation=90, fontsize=8)
+        text_annotations.append(annotation)
 
     output_filename = save_with_incremented_suffix(output_filename)
     plt.savefig(output_filename)
     plt.show()
+
+    # Clear the text
+    for annotation in text_annotations:
+        annotation.set_text("")
+
 
 
 if __name__ == "__main__":
@@ -83,4 +91,4 @@ if __name__ == "__main__":
     create_latency_graph(latency_data['99th Percentile Latency'], '99th Percentile Latency', f'99th_latency-{name}.png', folder_path)
 
     # Create graph for Average Latency
-    create_latency_graph(latency_data['Average Latency'], 'Average Latency', f'average-{name}.png', folder_path)
+    create_latency_graph(latency_data['Average Latency'], 'Average Latency & 99th Percentile Latency', f'average-{name}.png', folder_path)

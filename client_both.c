@@ -276,15 +276,17 @@ int compare_long(const void *a, const void *b)
     return (*(long *)a - *(long *)b);
 }
 
-void print_statistics(int repetitions, long *latency_array)
+void print_statistics(int repetitions, long *latency_array, long total_time)
 {
     // Calculate and print average latency
-    long long sum_latency = 0;
-    for (int i = 0; i < repetitions; i++)
-    {
-        sum_latency += latency_array[i];
-    }
-    long double average_latency = (long double)sum_latency / repetitions;
+    // long long sum_latency = 0;
+    // for (int i = 0; i < repetitions; i++)
+    // {
+    //     sum_latency += (latency_array[i] > 0) ? latency_array[i] : latency_array[0];
+    // }
+    // long double average_latency = (long double)sum_latency / repetitions;
+
+    long double average_latency = (long double)total_time / repetitions;
     printf("Average Latency: %.2Lf microseconds\n", average_latency);
 
     // Sort the latency array to find the 99th percentile
@@ -443,7 +445,12 @@ int main(int argc, char const *argv[])
 
         latency_array[i] = time_taken; // Save the time taken in the latency array
         fprintf(stderr, "Time taken: %ld\n", time_taken);
-        total_time += time_taken; // We care only for the second (original request)
+
+        if (time_taken > 0)
+        {
+            total_time += time_taken; // We care only for the second (original request)
+        }
+
         // Generate sleep duration based on Poisson distribution
         if (poisson)
         {
@@ -472,16 +479,19 @@ int main(int argc, char const *argv[])
 
     if (total_time < 0)
     {
-        printf("Total time is less than 0!\n Total time: %ld\n", total_time);
+        printf("Total time is less than 0!\nTotal time: %ld\n", total_time);
         printf("Recalculating ...\n");
         total_time = 0;
         for (int i = 0; i < repetitions; i++)
+        {
             total_time += latency_array[i];
+            printf("Latency = %ld\n", latency_array[i]);
+        }
     }
     printf("Total time taken: %ld\n", total_time);
     // Close the connections (not reached in the current code)
 
-    print_statistics(repetitions, latency_array);
+    print_statistics(repetitions, latency_array, total_time);
     close(client_fd1);
     close(client_fd2);
     free(serv_addr_ip);

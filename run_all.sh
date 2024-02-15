@@ -14,7 +14,7 @@ fi
 
 mkdir $save_folder_name
 
-for sleep_val in 100 1000 10000; do
+for sleep_val in 100 1000; do
     for pre_request in true false; do
         for pre_request_interval in 10 50 100 300; do
             parent_folder_name="${save_folder_name}/Pre-req=${pre_request}/Pre-req-interval=${pre_request_interval}"
