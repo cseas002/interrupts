@@ -29,6 +29,12 @@ start_processes() {
     stop_processes
     make
 
+    # Set cpu frequency to 2200MHz
+    # for node in node1 node0
+    # do
+    # ssh -A $node "sudo cpupower frequency-set -g userspace; sudo cpupower frequency-set -f 2200MHz"
+    # done
+    
     # Create the specified folder
     mkdir -p "$folder_name"
     
@@ -45,7 +51,7 @@ start_processes() {
     # sudo /opt/intel/oneapi/vtune/2024.0/socwatch/x64/socwatch -f cpu-cstate -m -r int -o $folder_name/Socwatch > /dev/null 2> /dev/null &
     # socwatch_pid=$!  # Get the PID of socwatch
     # Run the command and use turbostat as well
-    sudo turbostat --show sysfs,CPU --hide POLL,C1,C1E,C6,POLL% -cpu 1 -q -o $folder_name/turbostat_output.txt ssh -A cseas002@node1 "./client_both parameters.txt" 2> $folder_name/times.txt >> $folder_name/output.txt
+    sudo turbostat --show sysfs,CPU,CPU%c1,CPU%c6 --hide POLL,C1,C1E,C6,POLL% -cpu 1 -q -o $folder_name/turbostat_output.txt ssh -A cseas002@node1 "./client_both parameters.txt" 2> $folder_name/times.txt >> $folder_name/output.txt
     # Send SIGINT to processes with names containing "socwatch"
     # pkill -SIGINT -f "socwatch"
     stop_processes

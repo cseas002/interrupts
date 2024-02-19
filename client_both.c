@@ -9,7 +9,7 @@
 #include <sys/time.h>
 #include <math.h>
 #include <stdbool.h>
-#include <gsl/gsl_randist.h>
+// #include <gsl/gsl_randist.h>
 #define PORT 8080
 #define PORT2 8081
 
@@ -180,61 +180,6 @@ int *get_poisson_numbers(int repetitions, int sleep_usecs)
     }
 }
 
-// // Function to generate Poisson-distributed random numbers
-// int poissonRandomNumber(double lambda)
-// {
-//     double initial_lambda = lambda;
-//     lambda = initial_lambda / (initial_lambda / 100);
-//     double L = exp(-lambda);
-//     double p = 1.0;
-//     int k = 0;
-
-//     do
-//     {
-//         k++;
-//         p *= ((double)rand() / RAND_MAX);
-//     } while (p > L);
-
-//     return k * (lambda * 100);
-// }
-
-// double poisson_distribution(int k, double average)
-// {
-//     // Calculate e^(-lambda) * lambda^k / k!
-//     return exp(-average) * pow(average, k) / tgamma(k + 1);
-// }
-
-// void generate_poisson_numbers(int k, double average, int *result)
-// {
-//     for (int i = 0; i < k; ++i)
-//     {
-//         double L = exp(-average);
-//         double p = 1.0;
-//         int x = -1;
-
-//         do
-//         {
-//             ++x;
-//             p *= ((double)rand() / (RAND_MAX));
-//         } while (p > L);
-
-//         result[i] = x;
-//     }
-// }
-
-// void generate_poisson_numbers(int k, double average, unsigned int seed, int *result)
-// {
-//     gsl_rng *rng = gsl_rng_alloc(gsl_rng_default);
-//     gsl_rng_set(rng, seed);
-
-//     for (int i = 0; i < k; ++i)
-//     {
-//         result[i] = gsl_ran_poisson(rng, average);
-//     }
-
-//     gsl_rng_free(rng);
-// }
-
 int send_request(bool read_message, int client_fd, char *hello, char *buffer, int port)
 {
     struct timeval start_time, end_time;
@@ -399,6 +344,8 @@ int main(int argc, char const *argv[])
     //     generate_poisson_numbers(repetitions, sleep_usecs, seed, poisson_numbers);
     // }
 
+    sleep(10);
+
     bool one_request = false;
 
     if (one_request)
@@ -406,10 +353,10 @@ int main(int argc, char const *argv[])
         // send_request(true, client_fd1, hello, buffer, 8080);
         // send_request(true, client_fd1, hello, buffer, 8080);
         // send_request(true, client_fd1, hello, buffer, 8080);
-        // send_request(true, client_fd1, hello, buffer, 8080);
-        // send_request(true, client_fd1, hello, buffer, 8080);
-        // send_request(true, client_fd1, hello, buffer, 8080);
-        usleep(10000);
+        send_request(true, client_fd1, hello, buffer, 8080);
+        send_request(true, client_fd1, hello, buffer, 8080);
+        send_request(true, client_fd1, hello, buffer, 8080);
+        usleep(100000);
         time_taken = send_request(true, client_fd1, hello, buffer, 8080);
         printf("Time taken for one request: %ld\n", time_taken);
         return -1;
@@ -427,16 +374,52 @@ int main(int argc, char const *argv[])
     total_time = 0;
     // Use Poisson for the requests inter arrival time
     // Measure tail latency and average time
+
+    // RUNNING EXPERIMENT
     for (int i = 0; i < repetitions; i++)
     {
-        // Send request to port 8080 without reading it
-        if (pre_request)
+        int sleep_time;
+        // Generate sleep duration based on Poisson distribution
+        if (poisson)
         {
-            time_taken = send_request(false, client_fd1, hello, buffer, 8080);
-            if (time_taken == -1)
-                break;
+            sleep_time = poisson_numbers[i];
         }
-        usleep(pre_request_interval); // Sleep for <pre_request_interval> us
+        else if (exponential)
+        {
+            sleep_time = generateExponential(sleep_usecs);
+        }
+        else if (fixed)
+        {
+            sleep_time = sleep_usecs;
+        }
+        else
+        {
+            fprintf(stderr, "FATAL. No distribution found\nExiting ...\n");
+            exit(EXIT_FAILURE);
+        }
+
+        int pre_request_actual_time = 0;
+
+        // If the pre request interval is less than the actual sleep time, then send the pre request
+        if (sleep_time - pre_request_interval > 0)
+        {
+            pre_request_actual_time = pre_request_interval;
+            // Send request to port 8080 without reading it
+            if (pre_request)
+            {
+                time_taken = send_request(false, client_fd1, hello, buffer, 8080);
+                if (time_taken == -1)
+                    break;
+            }
+            usleep(pre_request_actual_time); // Sleep for <pre_request_interval> us
+        }
+        else if (pre_request)
+            fprintf(stderr, "Did not sleep because the pre request interval is greater than sleep. Pre: %d, Actual: %d\n", pre_request_interval, sleep_time);
+
+        fprintf(stderr, "Time sleep: %d\n", sleep_time);
+
+        // Sleep for (sleep time - pre request time) microseconds more
+        usleep(sleep_time - pre_request_actual_time);
 
         // Send request to port 8081
         time_taken = send_request(true, client_fd2, hello, buffer, 8081);
@@ -449,31 +432,6 @@ int main(int argc, char const *argv[])
         if (time_taken > 0)
         {
             total_time += time_taken; // We care only for the second (original request)
-        }
-
-        // Generate sleep duration based on Poisson distribution
-        if (poisson)
-        {
-            // int sleep_duration = poissonRandomNumber(sleep_usecs);
-            // int sleep_duration = poisson_distribution(repetitions, sleep_usecs);
-            fprintf(stderr, "Time sleep: %d\n", poisson_numbers[i]);
-            usleep(poisson_numbers[i]);
-        }
-        else if (exponential)
-        {
-            int sleep_time = generateExponential(sleep_usecs);
-            fprintf(stderr, "Time sleep: %d\n", sleep_time);
-            usleep(sleep_time);
-        }
-        else if (fixed)
-        {
-            fprintf(stderr, "Time sleep: %d\n", sleep_usecs);
-            usleep(sleep_usecs);
-        }
-        else
-        {
-            fprintf(stderr, "FATAL. No distribution found\nExiting ...\n");
-            exit(EXIT_FAILURE);
         }
     }
 
