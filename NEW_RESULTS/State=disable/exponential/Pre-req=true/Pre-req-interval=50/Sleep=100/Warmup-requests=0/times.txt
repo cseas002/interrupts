@@ -1,0 +1,2394 @@
+Time sleep: 118
+Time taken: 63
+Time sleep: 207
+Time taken: 68
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 48
+Time sleep: 125
+Time taken: 46
+Time sleep: 247
+Time taken: 48
+Time sleep: 121
+Time taken: 45
+Time sleep: 52
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Time taken: 45
+Time sleep: 53
+Time taken: 43
+Time sleep: 165
+Time taken: 43
+Time sleep: 253
+Time taken: 63
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 61
+Time sleep: 118
+Time taken: 44
+Time sleep: 215
+Time taken: 55
+Time sleep: 62
+Time taken: 60
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 56
+Time sleep: 62
+Time taken: 60
+Time sleep: 110
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 46
+Time sleep: 268
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 45
+Time sleep: 228
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 46
+Time sleep: 263
+Time taken: 47
+Time sleep: 60
+Time taken: 43
+Time sleep: 124
+Time taken: 56
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 53
+Time sleep: 65
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 40
+Time sleep: 54
+Time taken: 51
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 46
+Time sleep: 272
+Time taken: 56
+Time sleep: 163
+Time taken: 55
+Time sleep: 217
+Time taken: 45
+Time sleep: 189
+Time taken: 44
+Time sleep: 71
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 44
+Time sleep: 296
+Time taken: 59
+Time sleep: 258
+Time taken: 50
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 45
+Time sleep: 203
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 53
+Time sleep: 161
+Time taken: 52
+Time sleep: 139
+Time taken: 56
+Time sleep: 119
+Time taken: 64
+Time sleep: 163
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Time taken: 71
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 48
+Time sleep: 74
+Time taken: 56
+Time sleep: 406
+Time taken: 63
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 49
+Time sleep: 106
+Time taken: 37
+Time sleep: 242
+Time taken: 64
+Time sleep: 146
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 45
+Time sleep: 55
+Time taken: 43
+Time sleep: 97
+Time taken: 62
+Time sleep: 54
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Time taken: 37
+Time sleep: 56
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Time taken: 52
+Time sleep: 278
+Time taken: 46
+Time sleep: 92
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 46
+Time sleep: 198
+Time taken: 57
+Time sleep: 123
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 47
+Time sleep: 71
+Time taken: 43
+Time sleep: 151
+Time taken: 43
+Time sleep: 156
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 48
+Time sleep: 666
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 54
+Time sleep: 114
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 42
+Time sleep: 62
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 60
+Time sleep: 121
+Time taken: 46
+Time sleep: 68
+Time taken: 43
+Time sleep: 65
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 46
+Time sleep: 227
+Time taken: 40
+Time sleep: 66
+Time taken: 44
+Time sleep: 79
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 52
+Time sleep: 119
+Time taken: 43
+Time sleep: 66
+Time taken: 45
+Time sleep: 163
+Time taken: 43
+Time sleep: 193
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Time taken: 53
+Time sleep: 71
+Time taken: 53
+Time sleep: 214
+Time taken: 59
+Time sleep: 58
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 55
+Time sleep: 108
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 52
+Time sleep: 108
+Time taken: 40
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Time taken: 48
+Time sleep: 133
+Time taken: 64
+Time sleep: 166
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 44
+Time sleep: 52
+Time taken: 38
+Time sleep: 52
+Time taken: 44
+Time sleep: 70
+Time taken: 59
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 43
+Time sleep: 234
+Time taken: 43
+Time sleep: 408
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 60
+Time sleep: 212
+Time taken: 54
+Time sleep: 129
+Time taken: 57
+Time sleep: 84
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Time taken: 45
+Time sleep: 54
+Time taken: 36
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 44
+Time sleep: 218
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 49
+Time sleep: 51
+Time taken: 38
+Time sleep: 51
+Time taken: 85
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 38
+Time sleep: 187
+Time taken: 49
+Time sleep: 55
+Time taken: 57
+Time sleep: 173
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Time taken: 46
+Time sleep: 143
+Time taken: 44
+Time sleep: 66
+Time taken: 37
+Time sleep: 62
+Time taken: 40
+Time sleep: 68
+Time taken: 58
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 43
+Time sleep: 77
+Time taken: 44
+Time sleep: 95
+Time taken: 42
+Time sleep: 84
+Time taken: 43
+Time sleep: 290
+Time taken: 79
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 45
+Time sleep: 261
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 73
+Time sleep: 297
+Time taken: 60
+Time sleep: 279
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Time taken: 45
+Time sleep: 73
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 39
+Time sleep: 58
+Time taken: 43
+Time sleep: 85
+Time taken: 43
+Time sleep: 240
+Time taken: 45
+Time sleep: 126
+Time taken: 67
+Time sleep: 383
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 54
+Time sleep: 211
+Time taken: 42
+Time sleep: 174
+Time taken: 40
+Time sleep: 132
+Time taken: 37
+Time sleep: 121
+Time taken: 51
+Time sleep: 233
+Time taken: 43
+Time sleep: 68
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 38
+Time sleep: 490
+Time taken: 53
+Time sleep: 66
+Time taken: 53
+Time sleep: 237
+Time taken: 54
+Time sleep: 93
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 56
+Time sleep: 191
+Time taken: 53
+Time sleep: 99
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 45
+Time sleep: 238
+Time taken: 63
+Time sleep: 81
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 42
+Time sleep: 70
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 64
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 39
+Time sleep: 108
+Time taken: 37
+Time sleep: 91
+Time taken: 41
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Time taken: 44
+Time sleep: 86
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 48
+Time sleep: 51
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 45
+Time sleep: 326
+Time taken: 59
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 43
+Time sleep: 91
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 45
+Time sleep: 112
+Time taken: 43
+Time sleep: 89
+Time taken: 63
+Time sleep: 100
+Time taken: 44
+Time sleep: 87
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 43
+Time sleep: 116
+Time taken: 43
+Time sleep: 56
+Time taken: 43
+Time sleep: 176
+Time taken: 43
+Time sleep: 170
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 61
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 52
+Time sleep: 78
+Time taken: 49
+Time sleep: 222
+Time taken: 69
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Time taken: 39
+Time sleep: 144
+Time taken: 43
+Time sleep: 247
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 54
+Time sleep: 55
+Time taken: 52
+Time sleep: 72
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 41
+Time sleep: 162
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 52
+Time sleep: 123
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 38
+Time sleep: 68
+Time taken: 43
+Time sleep: 168
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 45
+Time sleep: 160
+Time taken: 37
+Time sleep: 53
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Time taken: 62
+Time sleep: 63
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 55
+Time sleep: 165
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 58
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Time taken: 53
+Time sleep: 68
+Time taken: 44
+Time sleep: 67
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 42
+Time sleep: 177
+Time taken: 44
+Time sleep: 54
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 41
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 37
+Time sleep: 60
+Time taken: 60
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 55
+Time sleep: 133
+Time taken: 59
+Time sleep: 82
+Time taken: 45
+Time sleep: 136
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 62
+Time sleep: 181
+Time taken: 48
+Time sleep: 155
+Time taken: 38
+Time sleep: 56
+Time taken: 36
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Time taken: 38
+Time sleep: 92
+Time taken: 38
+Time sleep: 60
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Time taken: 40
+Time sleep: 98
+Time taken: 43
+Time sleep: 92
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 45
+Time sleep: 57
+Time taken: 37
+Time sleep: 106
+Time taken: 51
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 38
+Time sleep: 269
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 63
+Time sleep: 368
+Time taken: 48
+Time sleep: 118
+Time taken: 39
+Time sleep: 83
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 39
+Time sleep: 66
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Time taken: 42
+Time sleep: 142
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 73
+Time sleep: 407
+Time taken: 54
+Time sleep: 181
+Time taken: 46
+Time sleep: 54
+Time taken: 44
+Time sleep: 171
+Time taken: 62
+Time sleep: 97
+Time taken: 68
+Time sleep: 188
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 53
+Time sleep: 266
+Time taken: 53
+Time sleep: 212
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 66
+Time sleep: 76
+Time taken: 54
+Time sleep: 70
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 48
+Time sleep: 114
+Time taken: 62
+Time sleep: 149
+Time taken: 49
+Time sleep: 78
+Time taken: 37
+Time sleep: 106
+Time taken: 37
+Time sleep: 63
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 45
+Time sleep: 64
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Time taken: 39
+Time sleep: 68
+Time taken: 39
+Time sleep: 125
+Time taken: 37
+Time sleep: 224
+Time taken: 48
+Time sleep: 78
+Time taken: 51
+Time sleep: 119
+Time taken: 44
+Time sleep: 131
+Time taken: 53
+Time sleep: 331
+Time taken: 56
+Time sleep: 72
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Time taken: 43
+Time sleep: 167
+Time taken: 43
+Time sleep: 110
+Time taken: 47
+Time sleep: 87
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 44
+Time sleep: 294
+Time taken: 54
+Time sleep: 175
+Time taken: 58
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Time taken: 45
+Time sleep: 176
+Time taken: 51
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Time taken: 38
+Time sleep: 52
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 43
+Time sleep: 92
+Time taken: 60
+Time sleep: 123
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 75
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 44
+Time sleep: 120
+Time taken: 51
+Time sleep: 190
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 43
+Time sleep: 122
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 69
+Time sleep: 69
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Time taken: 83
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 37
+Time sleep: 136
+Time taken: 38
+Time sleep: 135
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 46
+Time sleep: 123
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 49
+Time sleep: 65
+Time taken: 61
+Time sleep: 73
+Time taken: 54
+Time sleep: 261
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 39
+Time sleep: 100
+Time taken: 59
+Time sleep: 207
+Time taken: 49
+Time sleep: 222
+Time taken: 43
+Time sleep: 113
+Time taken: 75
+Time sleep: 121
+Time taken: 58
+Time sleep: 470
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 53
+Time sleep: 90
+Time taken: 39
+Time sleep: 160
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 53
+Time sleep: 379
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 55
+Time sleep: 167
+Time taken: 46
+Time sleep: 176
+Time taken: 53
+Time sleep: 54
+Time taken: 37
+Time sleep: 73
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 53
+Time sleep: 251
+Time taken: 51
+Time sleep: 126
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 52
+Time sleep: 62
+Time taken: 53
+Time sleep: 283
+Time taken: 46
+Time sleep: 58
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 52
+Time sleep: 256
+Time taken: 63
+Time sleep: 117
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 43
+Time sleep: 433
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 51
+Time sleep: 210
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 49
+Time sleep: 121
+Time taken: 43
+Time sleep: 203
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Time taken: 54
+Time sleep: 146
+Time taken: 46
+Time sleep: 62
+Time taken: 43
+Time sleep: 224
+Time taken: 51
+Time sleep: 213
+Time taken: 56
+Time sleep: 58
+Time taken: 57
+Time sleep: 290
+Time taken: 48
+Time sleep: 118
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 39
+Time sleep: 56
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 46
+Time sleep: 271
+Time taken: 43
+Time sleep: 99
+Time taken: 45
+Time sleep: 90
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 42
+Time sleep: 84
+Time taken: 40
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Time taken: 39
+Time sleep: 84
+Time taken: 38
+Time sleep: 147
+Time taken: 48
+Time sleep: 323
+Time taken: 50
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Time taken: 42
+Time sleep: 226
+Time taken: 38
+Time sleep: 294
+Time taken: 67
+Time sleep: 88
+Time taken: 37
+Time sleep: 227
+Time taken: 42
+Time sleep: 174
+Time taken: 42
+Time sleep: 90
+Time taken: 60
+Time sleep: 91
+Time taken: 51
+Time sleep: 118
+Time taken: 37
+Time sleep: 116
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 45
+Time sleep: 87
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 42
+Time sleep: 92
+Time taken: 68
+Time sleep: 75
+Time taken: 53
+Time sleep: 294
+Time taken: 43
+Time sleep: 208
+Time taken: 75
+Time sleep: 222
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Time taken: 56
+Time sleep: 272
+Time taken: 47
+Time sleep: 147
+Time taken: 56
+Time sleep: 68
+Time taken: 41
+Time sleep: 70
+Time taken: 40
+Time sleep: 165
+Time taken: 50
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 48
+Time sleep: 146
+Time taken: 63
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 43
+Time sleep: 125
+Time taken: 52
+Time sleep: 241
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 52
+Time sleep: 78
+Time taken: 52
+Time sleep: 70
+Time taken: 50
+Time sleep: 110
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Time taken: 40
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 52
+Time sleep: 150
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Time taken: 51
+Time sleep: 210
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 48
+Time sleep: 51
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 58
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 43
+Time sleep: 68
+Time taken: 50
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Time taken: 59
+Time sleep: 472
+Time taken: 52
+Time sleep: 97
+Time taken: 43
+Time sleep: 303
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 53
+Time sleep: 228
+Time taken: 48
+Time sleep: 127
+Time taken: 65
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 40
+Time sleep: 57
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Time taken: 39
+Time sleep: 385
+Time taken: 62
+Time sleep: 156
+Time taken: 43
+Time sleep: 164
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 53
+Time sleep: 420
+Time taken: 56
+Time sleep: 187
+Time taken: 44
+Time sleep: 95
+Time taken: 59
+Time sleep: 143
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Time taken: 45
+Time sleep: 96
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Time taken: 53
+Time sleep: 68
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 52
+Time sleep: 149
+Time taken: 55
+Time sleep: 113
+Time taken: 48
+Time sleep: 102
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 44
+Time sleep: 159
+Time taken: 60
+Time sleep: 153
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Time taken: 83
+Time sleep: 54
+Time taken: 63
+Time sleep: 133
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 67
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 37
+Time sleep: 61
+Time taken: 48
+Time sleep: 118
+Time taken: 51
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Time taken: 42
+Time sleep: 225
+Time taken: 53
+Time sleep: 401
+Time taken: 63
+Time sleep: 74
+Time taken: 49
+Time sleep: 206
+Time taken: 53
+Time sleep: 148
+Time taken: 64
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 57
+Time sleep: 141
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Time taken: 52
+Time sleep: 122
+Time taken: 47
+Time sleep: 73
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 37
+Time sleep: 89
+Time taken: 41
+Time sleep: 117
+Time taken: 41
+Time sleep: 170
+Time taken: 52
+Time sleep: 195
+Time taken: 52
+Time sleep: 63
+Time taken: 53
+Time sleep: 68
+Time taken: 53
+Time sleep: 69
+Time taken: 52
+Time sleep: 135
+Time taken: 60
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 46
+Time sleep: 125
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Time taken: 39
+Time sleep: 65
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Time taken: 41
+Time sleep: 54
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 61
+Time sleep: 292
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 53
+Time sleep: 148
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 41
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 44
+Time sleep: 75
+Time taken: 54
+Time sleep: 61
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Time taken: 45
+Time sleep: 149
+Time taken: 51
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 48
+Time sleep: 102
+Time taken: 54
+Time sleep: 63
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 40
+Time sleep: 69
+Time taken: 39
+Time sleep: 274
+Time taken: 44
+Time sleep: 114
+Time taken: 41
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 39
+Time sleep: 112
+Time taken: 43
+Time sleep: 368
+Time taken: 61
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 48
+Time sleep: 114
+Time taken: 46
+Time sleep: 116
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 37
+Time sleep: 127
+Time taken: 42
+Time sleep: 154
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 49
+Time sleep: 52
+Time taken: 43
+Time sleep: 159
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 46
+Time sleep: 137
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 52
+Time sleep: 176
+Time taken: 44
+Time sleep: 156
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 37
+Time sleep: 92
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 56
+Time sleep: 74
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Time taken: 44
+Time sleep: 74
+Time taken: 38
+Time sleep: 115
+Time taken: 38
+Time sleep: 523
+Time taken: 57
+Time sleep: 166
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 42
+Time sleep: 115
+Time taken: 51
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 43
+Time sleep: 52
+Time taken: 43
+Time sleep: 236
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 44
+Time sleep: 79
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 45
+Time sleep: 54
+Time taken: 45
+Time sleep: 100
+Time taken: 43
+Time sleep: 64
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 65
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Time taken: 38
+Time sleep: 79
+Time taken: 42
+Time sleep: 177
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Time taken: 47
+Time sleep: 268
+Time taken: 53
+Time sleep: 57
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 44
+Time sleep: 313
+Time taken: 63
+Time sleep: 71
+Time taken: 48
+Time sleep: 71
+Time taken: 49
+Time sleep: 65
+Time taken: 38
+Time sleep: 72
+Time taken: 69
+Time sleep: 75
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 79
+Time sleep: 74
+Time taken: 37
+Time sleep: 171
+Time taken: 46
+Time sleep: 84
+Time taken: 61
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Time taken: 54
+Time sleep: 279
+Time taken: 53
+Time sleep: 292
+Time taken: 47
+Time sleep: 95
+Time taken: 46
+Time sleep: 186
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 63
+Time sleep: 243
+Time taken: 51
+Time sleep: 145
+Time taken: 53
+Time sleep: 158
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Time taken: 43
+Time sleep: 441
+Time taken: 58
+Time sleep: 160
+Time taken: 56
+Time sleep: 94
+Time taken: 67
+Time sleep: 77
+Time taken: 55
+Time sleep: 99
+Time taken: 36
+Time sleep: 98
+Time taken: 37
+Time sleep: 63
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 39
+Time sleep: 159
+Time taken: 54
+Time sleep: 55
+Time taken: 44
+Time sleep: 85
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 63
+Time sleep: 239
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 39
+Time sleep: 181
+Time taken: 56
+Time sleep: 248
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 41
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Time taken: 50
+Time sleep: 133
+Time taken: 43
+Time sleep: 202
+Time taken: 61
+Time sleep: 83
+Time taken: 57
+Time sleep: 112
+Time taken: 43
+Time sleep: 167
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 45
+Time sleep: 73
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Time taken: 52
+Time sleep: 56
+Time taken: 43
+Time sleep: 259
+Time taken: 66
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Time taken: 49
+Time sleep: 172
+Time taken: 41
+Time sleep: 244
+Time taken: 43
+Time sleep: 273
+Time taken: 52
+Time sleep: 57
+Time taken: 55
+Time sleep: 60
+Time taken: 42
+Time sleep: 83
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 60
+Time sleep: 254
+Time taken: 52
+Time sleep: 99
+Time taken: 56
+Time sleep: 196
+Time taken: 40
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Time taken: 36
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 59
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Time taken: 53
+Time sleep: 89
+Time taken: 36
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 54
+Time sleep: 241
+Time taken: 48
+Time sleep: 61
+Time taken: 38
+Time sleep: 269
+Time taken: 54
+Time sleep: 88
+Time taken: 56
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 40
+Time sleep: 56
+Time taken: 38
+Time sleep: 60
+Time taken: 40
+Time sleep: 77
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Time taken: 43
+Time sleep: 89
+Time taken: 59
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 44
+Time sleep: 75
+Time taken: 41
+Time sleep: 159
+Time taken: 39
+Time sleep: 127
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 45
+Time sleep: 196
+Time taken: 60
+Time sleep: 102
+Time taken: 58
+Time sleep: 128
+Time taken: 52
+Time sleep: 127
+Time taken: 52
+Time sleep: 452
+Time taken: 56
+Time sleep: 260
+Time taken: 42
+Time sleep: 219
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Time taken: 55
+Time sleep: 222
+Time taken: 47
+Time sleep: 54
+Time taken: 44
+Time sleep: 167
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 60
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 65
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 38
+Time sleep: 246
+Time taken: 62
+Time sleep: 78
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 60
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 39
+Time sleep: 364
+Time taken: 56
+Time sleep: 142
+Time taken: 53
+Time sleep: 82
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Time taken: 43
+Time sleep: 261
+Time taken: 44
+Time sleep: 91
+Time taken: 43
+Time sleep: 212
+Time taken: 43
+Time sleep: 129
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 52
+Time sleep: 360
+Time taken: 67
+Time sleep: 88
+Time taken: 47
+Time sleep: 322
+Time taken: 55
+Time sleep: 118
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Time taken: 65
+Time sleep: 298
+Time taken: 57
+Time sleep: 97
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Time taken: 45
+Time sleep: 184
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 45
+Time sleep: 94
+Time taken: 47
+Time sleep: 106
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Time taken: 53
+Time sleep: 284
+Time taken: 52
+Time sleep: 261
+Time taken: 45
+Time sleep: 76
+Time taken: 45
+Time sleep: 194
+Time taken: 56
+Time sleep: 63
+Time taken: 49
+Time sleep: 180
+Time taken: 59
+Time sleep: 212
+Time taken: 47
+Time sleep: 58
+Time taken: 54
+Time sleep: 90
+Time taken: 60
+Time sleep: 58
+Time taken: 58
+Time sleep: 148
+Time taken: 52
+Time sleep: 293
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 53
+Time sleep: 175
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Time taken: 41
+Time sleep: 117
+Time taken: 44
+Time sleep: 160
+Time taken: 44
+Time sleep: 114
+Time taken: 43
+Time sleep: 105
+Time taken: 57
+Time sleep: 68
+Time taken: 54
+Time sleep: 435
+Time taken: 56
+Time sleep: 91
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 52
+Time sleep: 158
+Time taken: 42
+Time sleep: 316
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Time taken: 56
+Time sleep: 52
+Time taken: 37
+Time sleep: 94
+Time taken: 60
+Time sleep: 94
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Time taken: 43
+Time sleep: 77
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Time taken: 40
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 44
+Time sleep: 388
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 53
+Time sleep: 60
+Time taken: 43
+Time sleep: 85
+Time taken: 36
+Time sleep: 75
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Time taken: 44
+Time sleep: 73
+Time taken: 44
+Time sleep: 232
+Time taken: 42
+Time sleep: 91
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Time taken: 37
+Time sleep: 608
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Time taken: 60
+Time sleep: 113
+Time taken: 56
+Time sleep: 280
+Time taken: 47
+Time sleep: 102
+Time taken: 46
+Time sleep: 109
+Time taken: 53
+Time sleep: 77
+Time taken: 52
+Time sleep: 141
+Time taken: 51
+Time sleep: 188
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Time taken: 36
+Time sleep: 125
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 45
+Time sleep: 135
+Time taken: 59
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 43
+Time sleep: 129
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 38
+Time sleep: 202
+Time taken: 58
+Time sleep: 204
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 36
+Time sleep: 210
+Time taken: 37
+Time sleep: 189
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Time taken: 43
+Time sleep: 55
+Time taken: 43
+Time sleep: 246
+Time taken: 65
+Time sleep: 81
+Time taken: 48
+Time sleep: 289
+Time taken: 44
+Time sleep: 169
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 57
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 49
+Time sleep: 168
+Time taken: 56
+Time sleep: 59
+Time taken: 47
+Time sleep: 57
+Time taken: 37
+Time sleep: 68
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 45
+Time sleep: 258
+Time taken: 52
+Time sleep: 182
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Time taken: 44
+Time sleep: 80
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 39
+Time sleep: 706
+Time taken: 55
+Time sleep: 212
+Time taken: 66
+Time sleep: 189
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Time taken: 44
+Time sleep: 138
+Time taken: 48
+Time sleep: 127
+Time taken: 56
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 42
+Time sleep: 98
+Time taken: 38
+Time sleep: 84
+Time taken: 43
+Time sleep: 147
+Time taken: 47
+Time sleep: 316
+Time taken: 53
+Time sleep: 509
+Time taken: 55
+Time sleep: 115
+Time taken: 43
+Time sleep: 72
+Time taken: 62
+Time sleep: 279
+Time taken: 59
+Time sleep: 69
+Time taken: 50
+Time sleep: 111
+Time taken: 38
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 43
+Time sleep: 111
+Time taken: 43
+Time sleep: 166
+Time taken: 44
+Time sleep: 70
+Time taken: 54
+Time sleep: 139
+Time taken: 61
+Time sleep: 352
+Time taken: 46
+Time sleep: 56
+Time taken: 43
+Time sleep: 89
+Time taken: 70
+Time sleep: 380
+Time taken: 63
+Time sleep: 116
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Time taken: 44
+Time sleep: 116
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 45
+Time sleep: 299
+Time taken: 53
+Time sleep: 149
+Time taken: 43
+Time sleep: 148
+Time taken: 43
+Time sleep: 110
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 56
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Time taken: 53
+Time sleep: 271
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 49
+Time sleep: 96
+Time taken: 54
+Time sleep: 206
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Time taken: 45
+Time sleep: 79
+Time taken: 43
+Time sleep: 51
+Time taken: 37
+Time sleep: 57
+Time taken: 43
+Time sleep: 109
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 36
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Time taken: 73
+Time sleep: 175
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 38
+Time sleep: 91
+Time taken: 55
+Time sleep: 53
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 43
+Time sleep: 82
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 36
+Time sleep: 369
+Time taken: 57
+Time sleep: 87
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 65
+Time sleep: 139
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Time taken: 42
+Time sleep: 251
+Time taken: 49
+Time sleep: 245
+Time taken: 43
+Time sleep: 141
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 44
+Time sleep: 188
+Time taken: 56
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Time taken: 54
+Time sleep: 63
+Time taken: 37
+Time sleep: 438
+Time taken: 53
+Time sleep: 83
+Time taken: 69
+Time sleep: 89
+Time taken: 37
+Time sleep: 76
+Time taken: 44
+Time sleep: 345
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Time taken: 43
+Time sleep: 204
+Time taken: 52
+Time sleep: 69
+Time taken: 43
+Time sleep: 359
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 52
+Time sleep: 119
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Time taken: 50
+Time sleep: 188
+Time taken: 64
+Time sleep: 580
+Time taken: 55
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Time taken: 52
+Time sleep: 56
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 51
+Time sleep: 437
+Time taken: 52
+Time sleep: 155
+Time taken: 62
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 38
+Time sleep: 232
+Time taken: 45
+Time sleep: 78
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Time taken: 39
+Time sleep: 138
+Time taken: 47
+Time sleep: 107
+Time taken: 53
+Time sleep: 125
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Time taken: 46
+Time sleep: 104
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Time taken: 41
+Time sleep: 164
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Time taken: 39
+Time sleep: 180
+Time taken: 46
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Time taken: 47
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Time taken: 38
+Time sleep: 140
+Time taken: 43
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Time taken: 50
+Time sleep: 95
+Time taken: 48
+Time sleep: 129
+Time taken: 61
+Time sleep: 59
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 62
+Time sleep: 435
+Time taken: 53
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Time taken: 67
+Time sleep: 130
+Time taken: 37
+Time sleep: 81
+Time taken: 52
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Time taken: 47
+Time sleep: 72
+Time taken: 42
+Time sleep: 127
+Time taken: 44
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Time taken: 52
+Time sleep: 198
+Time taken: 56
+Time sleep: 127
+Time taken: 53
+Time sleep: 142
+Time taken: 58
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Time taken: 39
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Time taken: 48
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Time taken: 55
+Time sleep: 217
+Time taken: 50
+Time sleep: 79
+Time taken: 49
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Time taken: 45
+Time sleep: 128
+Time taken: 53
+Time sleep: 266
+Time taken: 55
+Time sleep: 86
+Time taken: 48
+Time sleep: 181
+Time taken: 43
+Time sleep: 115
+Time taken: 37
+Time sleep: 134
+Time taken: 40
+Time sleep: 60
+Time taken: 56
+Time sleep: 52
+Time taken: 54
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Time taken: 40
+Time sleep: 145
+Time taken: 45
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Time taken: 45
+Time sleep: 66
+Time taken: 42
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Time taken: 44
+Time sleep: 96
+Time taken: 37
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Time taken: 45
+Time sleep: 99
+Time taken: 53
+Time sleep: 177
+Time taken: 53
+Time sleep: 130
+Time taken: 50
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Time taken: 36
+Time sleep: 286
+Time taken: 54
+Time sleep: 155
+Time taken: 55

@@ -1,0 +1,6 @@
+server_ip 10.10.1.1
+sleep_usecs 100
+repetitions 1000
+distribution exponential
+pre_request true
+warmup_requests 0

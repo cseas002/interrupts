@@ -9,10 +9,10 @@ fi
 # Read the first parameter and save it to a variable
 input_folder=$1
 
-for interval in 10 50 100 300
+for state in enable disable
 do
-    for pre_req in true false 
+    for distribution in exponential fixed 
     do 
-        python3 create_graphs.py "$input_folder/Pre-req=${pre_req}/Pre-req-interval=${interval}"
+        python3 create_graphs.py "$input_folder/State=${state}/${distribution}"
     done
 done
