@@ -21,7 +21,7 @@ sudo apt install -y intel-basekit
 sudo apt install -y linux-tools-common linux-tools-$(uname -r)
 make
 
-bash fixed_cpu.sh
+# bash fixed_cpu.sh
 
 # To disable smt, run
 # echo "off" | sudo tee /sys/devices/system/cpu/smt/control

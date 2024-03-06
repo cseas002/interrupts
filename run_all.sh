@@ -12,6 +12,8 @@ if [ -d "$save_folder_name" ]; then
     exit 1
 fi
 
+echo "RUN setup.sh FIRST IF YOU HAVEN'T!!!"
+
 mkdir $save_folder_name
 
 for sleep_val in 100 1000; do
@@ -36,6 +38,8 @@ for sleep_val in 100 1000; do
                         
                         # Run the main script
                         bash run.sh start "$folder_name"
+
+                        sleep 5
                     done
                 done
             done

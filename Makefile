@@ -1,6 +1,7 @@
 all: client client_both server server2
 
-clean: rm client client_both server server2
+clean:
+	rm -f client client_both server server2
 
 client: client.c
 	gcc client.c -o client 

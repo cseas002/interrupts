@@ -4,4 +4,4 @@ repetitions 1000
 distribution fixed
 pre_request true
 pre_request_interval 10
-warmup_requests 0
+warmup_requests 50
