@@ -2,6 +2,6 @@ server_ip 10.10.1.1
 sleep_usecs 100
 repetitions 1000
 distribution exponential
-pre_request false
-pre_request_interval 10
-warmup_requests 50
+pre_request true
+pre_request_interval 50
+warmup_requests 0
