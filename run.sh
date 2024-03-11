@@ -48,14 +48,26 @@ start_processes() {
     taskset -c 1 ./server &
     taskset -c 1 ./server2 &
     # Run socwatch
-    # sudo /opt/intel/oneapi/vtune/2024.0/socwatch/x64/socwatch -f cpu-cstate -m -r int -o $folder_name/Socwatch > /dev/null 2> /dev/null &
-    # socwatch_pid=$!  # Get the PID of socwatch
+    sudo /opt/intel/oneapi/vtune/2024.0/socwatch/x64/socwatch -f cpu-cstate -m -r int -o $folder_name/Socwatch > /dev/null 2> /dev/null &
 
+    # Capture the first output in interrupts_first.txt
+    cat /proc/interrupts | grep "i40e-enp94s0f1-TxRx-1" > interrupts_first.txt
+    
     # Run the command and use turbostat as well
     sudo turbostat --show sysfs,CPU,CPU%c1,CPU%c6 --hide POLL,C1,C1E,C6,POLL% -cpu 1 -q -o $folder_name/turbostat_output.txt ssh -A cseas002@node1 "./client_both parameters.txt" 2> $folder_name/times.txt >> $folder_name/output.txt
     # ssh -A cseas002@node1 "./client_both parameters.txt" 2> $folder_name/times.txt >> $folder_name/output.txt
+
+    # Capture the second output in interrupts_second.txt
+    cat /proc/interrupts | grep "i40e-enp94s0f1-TxRx-1" > interrupts_second.txt
+
     # Send SIGINT to processes with names containing "socwatch"
-    # pkill -SIGINT -f "socwatch"
+    pkill -SIGINT -f "socwatch"
+
+    # Use diff to compare the two outputs and save the differences in diff.txt
+    diff interrupts_first.txt interrupts_second.txt > $folder_name/interrupts.txt
+    rm interrupts_first.txt
+    rm interrupts_second.txt
+    
     stop_processes
 }
 
