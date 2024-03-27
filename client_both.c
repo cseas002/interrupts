@@ -6,12 +6,19 @@
 #include <sys/socket.h>
 #include <unistd.h>
 #include <signal.h>
-#include <sys/time.h>
+// #include <sys/time.h>
 #include <math.h>
 #include <stdbool.h>
 // #include <gsl/gsl_randist.h>
 #define PORT 8080
 #define PORT2 8081
+
+long long get_nanoseconds()
+{
+    struct timespec current_time;
+    clock_gettime(0, &current_time);
+    return ((long long)current_time.tv_sec * 1000000000LL) + (long long)current_time.tv_nsec;
+}
 
 // Signal handler for SIGPIPE
 void sigpipe_handler(int signo)
@@ -182,9 +189,12 @@ int *get_poisson_numbers(int repetitions, int sleep_usecs)
 
 int send_request(bool read_message, int client_fd, char *hello, char *buffer, int port)
 {
-    struct timeval start_time, end_time;
     // Measure the time before sending the pre request
-    gettimeofday(&start_time, NULL);
+
+    // struct timeval start_time, end_time;
+    // gettimeofday(&start_time, NULL);
+    time_t start_time, end_time;
+    start_time = get_nanoseconds();
 
     // Send to port 8080
     int r = send(client_fd, hello, strlen(hello), 0);
@@ -199,6 +209,7 @@ int send_request(bool read_message, int client_fd, char *hello, char *buffer, in
     if (read_message)
     {
         int valread = read(client_fd, buffer, 30);
+        fprintf(stderr, "Read reply: %ld\n", get_nanoseconds());
         if (valread <= 0)
         {
             perror("Error reading from port");
@@ -207,8 +218,8 @@ int send_request(bool read_message, int client_fd, char *hello, char *buffer, in
     }
 
     // Measure the time after sending to port
-    gettimeofday(&end_time, NULL);
-    long elapsed_time = end_time.tv_usec - start_time.tv_usec;
+    end_time = get_nanoseconds();
+    long elapsed_time = end_time - start_time;
 
     // printf("Time taken for send to port %d: %ld microseconds\n", port, elapsed_time);
 
@@ -250,6 +261,9 @@ int main(int argc, char const *argv[])
     bool poisson, fixed, exponential, pre_request;
     char *hello = "Hello from client";
     char buffer[30] = {0};
+    long nanoseconds;
+
+    // struct timeval current_time;
 
     if (argc != 2)
     {
@@ -338,7 +352,7 @@ int main(int argc, char const *argv[])
     //     poisson_numbers = (int *)malloc(repetitions * sizeof(int));
 
     //     // Seed the random number generator
-    //     unsigned int seed = (unsigned int)time(NULL);
+    //     unsigned int seed = (unsigned int)get_nanoseconds();
 
     //     // Generate Poisson numbers
     //     generate_poisson_numbers(repetitions, sleep_usecs, seed, poisson_numbers);
@@ -361,7 +375,7 @@ int main(int argc, char const *argv[])
     }
 
     // Seed the random number generator for the Poisson distribution
-    srand((unsigned int)time(NULL));
+    srand((unsigned int)get_nanoseconds());
 
     for (int i = 0; i < warmup_requests; i++)
     {
@@ -405,6 +419,8 @@ int main(int argc, char const *argv[])
             // Send request to port 8080 without reading it
             if (pre_request)
             {
+                nanoseconds = get_nanoseconds();
+                fprintf(stderr, "Sent pre-request at %ld\n", nanoseconds);
                 time_taken = send_request(false, client_fd1, hello, buffer, 8080);
                 if (time_taken == -1)
                     break;
@@ -420,6 +436,8 @@ int main(int argc, char const *argv[])
         usleep(sleep_time - pre_request_actual_time);
 
         // Send request to port 8081
+        nanoseconds = get_nanoseconds();
+        fprintf(stderr, "Sent request at %ld\n", nanoseconds);
         time_taken = send_request(true, client_fd2, hello, buffer, 8081);
         if (time_taken == -1)
             break;

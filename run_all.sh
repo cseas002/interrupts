@@ -18,10 +18,10 @@ mkdir $save_folder_name
 
 for sleep_val in 100 1000; do
     for pre_request in true false; do
-        for pre_request_interval in 10 50 100 300; do
+        for pre_request_interval in 50 100; do
             # mkdir -p $parent_folder_name
             for state in enable disable; do
-                for distribution_type in fixed exponential; do
+                for distribution_type in exponential; do
                     for warmup_requests in 0 50; do
                         parent_folder_name="${save_folder_name}/State=${state}/${distribution_type}"
                         folder_name="${parent_folder_name}/Pre-req=${pre_request}/Pre-req-interval=${pre_request_interval}/Sleep=${sleep_val}/Warmup-requests=${warmup_requests}/"

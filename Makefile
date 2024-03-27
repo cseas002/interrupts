@@ -10,7 +10,7 @@ client_both: client_both.c
 	gcc client_both.c -o client_both -lm
 
 server: server.c
-	gcc server.c -o server
+	gcc server.c -lrt -o server
 
 server2: server2.c 
-	gcc server2.c -o server2
+	gcc server2.c -lrt -o server2

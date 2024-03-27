@@ -1,0 +1,232 @@
+--------------------------------------------------------------------------
+Intel(R) SoC Watch for Linux* OS Version 2023.4.0 [Aug 14 2023]
+Build Ref: d424b1e6d9128f442fdc901a2f7f09e75671d271
+Post Processed using SoC Watch for Linux* OS Version 2023.4.0 [Aug 14 2023]
+Post Processed Build Ref: d424b1e6d9128f442fdc901a2f7f09e75671d271
+Copyright (c) 2023 Intel Corporation. All Rights Reserved.
+Platform power analysis tool for use with Intel processors/chipsets/platforms.
+*Other names and brands may be claimed as the property of others. 
+--------------------------------------------------------------------------
+
+Command line options: -f cpu-cstate -m -r int -o third_test/State=disable/exponential/Pre-req=false/Pre-req-interval=100/Sleep=1000/Warmup-requests=50//Socwatch 
+
+Program Started: N/A
+Data Collection Started: 2024-03-27 00:29:01 GMT 
+Nano Clock Frequency (MHz): 1000 
+CPU Base Operating Frequency (MHz): 2200
+Collection duration (sec): 2.20665
+Collection begin timestamp: 1711499341321444290
+Collection end timestamp: 1711499343528011969
+
+System Name: node0.inter2-no-c220.ucy-cs499-dc-pg0.wisc.cloudlab.us
+Operating System: Linux [5.15.0-86-generic]
+CPU: Skylake Server
+CPU ID (family.model.stepping): 0x6.0x55.0x4
+Platform ID: 0b000
+Integrated GPU Device: NA
+EDRAM Present: No 
+Total # of packages: 2 
+Total # of cores: 20 
+Total # of logical processors: 40
+
+
+Note: SoC Watch driver was not loaded; default system drivers were used to collect this result.
+WARNING: unsupported PCH detected: 0xa1c1
+
+Package C-State - CPU/Package_0 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), PC0 (usec), PC2 (usec), PC3 (usec), PC6 (usec)
+       1,             2206088.88,       2206.06, 2206056.78,          0,          0,          0
+
+Package C-State - CPU/Package_0 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), PC0 (%), PC2 (%), PC3 (%), PC6 (%)
+       1,             2206088.88,       2206.06,  100.00,    0.00,    0.00,    0.00
+
+
+Package C-State - CPU/Package_1 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), PC0 (usec), PC2 (usec), PC3 (usec), PC6 (usec)
+       1,             2206180.09,       2206.07, 2206066.42,          0,          0,          0
+
+Package C-State - CPU/Package_1 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), PC0 (%), PC2 (%), PC3 (%), PC6 (%)
+       1,             2206180.09,       2206.07,  100.00,    0.00,    0.00,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_0 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205728.83,       2205.56, 2205411.88,     143.17,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_0 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205728.83,       2205.56,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_1 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205735.04,       2205.55, 2205407.19,     145.25,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_1 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205735.04,       2205.55,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_2 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205785.30,       2205.59, 2205445.00,     148.92,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_2 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205785.30,       2205.59,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_3 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205820.53,       2205.62, 2205468.28,     153.00,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_3 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205820.53,       2205.62,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_4 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205855.62,       2205.64, 2205479.85,     162.90,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_4 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205855.62,       2205.64,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_8 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205907.88,       2205.62, 2205421.75,     202.54,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_8 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205907.88,       2205.62,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_9 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205894.52,       2205.67, 2205521.10,     145.80,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_9 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205894.52,       2205.67,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_10 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2205931.36,       2205.69, 2205540.07,     151.79,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_10 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2205931.36,       2205.69,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_11 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206084.45,       2205.84, 2205688.15,     147.74,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_11 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206084.45,       2205.84,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_0/Die_0/Core_12 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206088.88,       2205.84, 2205391.84,     448.96,          0
+
+Core C-State - CPU/Package_0/Die_0/Core_12 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206088.88,       2205.84,   99.98,    0.02,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_0 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206094.84,       2205.83, 2205689.44,     144.07,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_0 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206094.84,       2205.83,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_1 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206143.76,       2205.86, 2205694.79,     160.88,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_1 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206143.76,       2205.86,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_2 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206110.94,       2205.84, 2205703.19,     141.70,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_2 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206110.94,       2205.84,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_3 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206143.80,       2205.87, 2205731.17,     139.73,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_3 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206143.80,       2205.87,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_4 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206128.81,       2205.85, 2205706.85,     141.75,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_4 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206128.81,       2205.85,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_8 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206137.14,       2205.85, 2205714.13,     140.27,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_8 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206137.14,       2205.85,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_9 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206153.80,       2205.86, 2205715.08,     145.02,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_9 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206153.80,       2205.86,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_10 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206158.92,       2205.78, 2205567.11,     213.95,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_10 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206158.92,       2205.78,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_11 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206171.50,       2205.87, 2205739.21,     130.60,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_11 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206171.50,       2205.87,   99.99,    0.01,    0.00
+
+
+Core C-State - CPU/Package_1/Die_0/Core_12 : Residency Time
+Sample #, Continuous Time (usec), Duration (ms), CC0 (usec), CC1 (usec), CC6 (usec)
+       1,             2206180.09,       2205.87, 2205732.59,     138.67,          0
+
+Core C-State - CPU/Package_1/Die_0/Core_12 : Residency Percentage
+Sample #, Continuous Time (usec), Duration (ms), CC0 (%), CC1 (%), CC6 (%)
+       1,             2206180.09,       2205.87,   99.99,    0.01,    0.00
+

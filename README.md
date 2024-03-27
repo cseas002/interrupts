@@ -59,4 +59,4 @@ python diff_interrupts.py interrupts1 interrupts2
 
 To capture interrupts causing a C-state transition with SoC Watch:
 
-sudo /opt/intel/oneapi/vtune/2024.0/socwatch/x64/socwatch -f cpu-cstate -m -r int -o temp -t 10
+sudo /opt/intel/oneapi/vtune/2024.1/socwatch/x64/socwatch -f cpu-cstate -m -r int -o temp -t 10

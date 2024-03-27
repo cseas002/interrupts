@@ -1,0 +1,95 @@
+
+--------------------------------------------------------------------------
+Intel(R) SoC Watch for Linux* OS Version 2023.4.0 [Aug 14 2023]
+Build Ref: d424b1e6d9128f442fdc901a2f7f09e75671d271
+Post Processed using SoC Watch for Linux* OS Version 2023.4.0 [Aug 14 2023]
+Post Processed Build Ref: d424b1e6d9128f442fdc901a2f7f09e75671d271
+Copyright (c) 2023 Intel Corporation. All Rights Reserved.
+Platform power analysis tool for use with Intel processors/chipsets/platforms.
+*Other names and brands may be claimed as the property of others. 
+--------------------------------------------------------------------------
+
+Command line options: -f cpu-cstate -m -r int -o third_test/State=disable/exponential/Pre-req=true/Pre-req-interval=50/Sleep=1000/Warmup-requests=50//Socwatch 
+
+Program Started: N/A
+Data Collection Started: 2024-03-27 00:26:25 GMT 
+Nano Clock Frequency (MHz): 1000 
+CPU Base Operating Frequency (MHz): 2200
+Collection duration (sec): 2.1956
+Collection begin timestamp: 1711499185381411815
+Collection end timestamp: 1711499187576935489
+
+System Name: node0.inter2-no-c220.ucy-cs499-dc-pg0.wisc.cloudlab.us
+Operating System: Linux [5.15.0-86-generic]
+CPU: Skylake Server
+CPU ID (family.model.stepping): 0x6.0x55.0x4
+Platform ID: 0b000
+Integrated GPU Device: NA
+EDRAM Present: No 
+Total # of packages: 2 
+Total # of cores: 20 
+Total # of logical processors: 40
+
+
+Note: SoC Watch driver was not loaded; default system drivers were used to collect this result.
+
+
+WARNING: unsupported PCH detected: 0xa1c1
+
+===============
+Package C-State
+===============
+
+Note: PC2 is non-architectural state - software cannot request to go to PC2 explicitly.  PC2 can be a transient state between PC0 and deeper pkgC states.
+Note: PC3 is non-architectural state - software cannot request to go to PC3 explicitly.
+
+
+Package C-State Summary: Residency (Percentage and Time)
+C-State, CPU/Package_0 Residency (%), CPU/Package_1 Residency (%), CPU/Package_0 Residency (msec), CPU/Package_1 Residency (msec)
+-------, ---------------------------, ---------------------------, ------------------------------, ------------------------------
+PC0    , 100.00                     , 100.00                     , 2195.07                       , 2195.28                       
+PC2    , 0.00                       , 0.00                       , 0.00                          , 0.00                          
+PC3    , 0.00                       , 0.00                       , 0.00                          , 0.00                          
+PC6    , 0.00                       , 0.00                       , 0.00                          , 0.00                          
+
+Package C-State Summary: Total Samples Received
+Package      , Total # of samples, Min sampling interval (msec), Max sampling interval (msec), Avg sampling interval (msec)
+-------      , ------------------, ----------------------------, ----------------------------, ----------------------------
+CPU/Package_0, 1                 , 2195.07                     , 2195.07                     , 2195.07                     
+CPU/Package_1, 1                 , 2195.28                     , 2195.28                     , 2195.28                     
+
+============
+Core C-State
+============
+
+Core C-State Summary: Residency (Percentage and Time)
+C-State, CPU/Package_0/Die_0/Core_0 Residency (%), CPU/Package_0/Die_0/Core_1 Residency (%), CPU/Package_0/Die_0/Core_2 Residency (%), CPU/Package_0/Die_0/Core_3 Residency (%), CPU/Package_0/Die_0/Core_4 Residency (%), CPU/Package_0/Die_0/Core_8 Residency (%), CPU/Package_0/Die_0/Core_9 Residency (%), CPU/Package_0/Die_0/Core_10 Residency (%), CPU/Package_0/Die_0/Core_11 Residency (%), CPU/Package_0/Die_0/Core_12 Residency (%), CPU/Package_1/Die_0/Core_0 Residency (%), CPU/Package_1/Die_0/Core_1 Residency (%), CPU/Package_1/Die_0/Core_2 Residency (%), CPU/Package_1/Die_0/Core_3 Residency (%), CPU/Package_1/Die_0/Core_4 Residency (%), CPU/Package_1/Die_0/Core_8 Residency (%), CPU/Package_1/Die_0/Core_9 Residency (%), CPU/Package_1/Die_0/Core_10 Residency (%), CPU/Package_1/Die_0/Core_11 Residency (%), CPU/Package_1/Die_0/Core_12 Residency (%), CPU/Package_0/Die_0/Core_0 Residency (msec), CPU/Package_0/Die_0/Core_1 Residency (msec), CPU/Package_0/Die_0/Core_2 Residency (msec), CPU/Package_0/Die_0/Core_3 Residency (msec), CPU/Package_0/Die_0/Core_4 Residency (msec), CPU/Package_0/Die_0/Core_8 Residency (msec), CPU/Package_0/Die_0/Core_9 Residency (msec), CPU/Package_0/Die_0/Core_10 Residency (msec), CPU/Package_0/Die_0/Core_11 Residency (msec), CPU/Package_0/Die_0/Core_12 Residency (msec), CPU/Package_1/Die_0/Core_0 Residency (msec), CPU/Package_1/Die_0/Core_1 Residency (msec), CPU/Package_1/Die_0/Core_2 Residency (msec), CPU/Package_1/Die_0/Core_3 Residency (msec), CPU/Package_1/Die_0/Core_4 Residency (msec), CPU/Package_1/Die_0/Core_8 Residency (msec), CPU/Package_1/Die_0/Core_9 Residency (msec), CPU/Package_1/Die_0/Core_10 Residency (msec), CPU/Package_1/Die_0/Core_11 Residency (msec), CPU/Package_1/Die_0/Core_12 Residency (msec)
+-------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, -----------------------------------------, -----------------------------------------, -----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, -----------------------------------------, -----------------------------------------, -----------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, --------------------------------------------, --------------------------------------------, --------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, --------------------------------------------, --------------------------------------------, --------------------------------------------
+CC0    , 99.99                                   , 100.00                                  , 99.99                                   , 99.99                                   , 100.00                                  , 99.99                                   , 99.99                                   , 99.99                                    , 99.99                                    , 99.99                                    , 99.99                                   , 99.99                                   , 99.99                                   , 99.99                                   , 99.99                                   , 99.99                                   , 99.98                                   , 99.99                                    , 99.99                                    , 99.99                                    , 2194.54                                    , 2194.56                                    , 2194.59                                    , 2194.58                                    , 2194.67                                    , 2194.60                                    , 2194.62                                    , 2194.60                                     , 2194.74                                     , 2194.75                                     , 2194.66                                    , 2194.68                                    , 2194.89                                    , 2194.87                                    , 2194.85                                    , 2194.89                                    , 2194.51                                    , 2194.89                                     , 2194.82                                     , 2194.93                                     
+CC1    , 0.01                                    , 0.00                                    , 0.01                                    , 0.01                                    , 0.00                                    , 0.01                                    , 0.01                                    , 0.01                                     , 0.01                                     , 0.01                                     , 0.01                                    , 0.01                                    , 0.01                                    , 0.01                                    , 0.01                                    , 0.01                                    , 0.02                                    , 0.01                                     , 0.01                                     , 0.01                                     , 0.12                                       , 0.11                                       , 0.11                                       , 0.13                                       , 0.06                                       , 0.14                                       , 0.14                                       , 0.15                                        , 0.13                                        , 0.13                                        , 0.15                                       , 0.16                                       , 0.16                                       , 0.17                                       , 0.18                                       , 0.15                                       , 0.53                                       , 0.17                                        , 0.21                                        , 0.13                                        
+CC6    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                     , 0.00                                     , 0.00                                     , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                    , 0.00                                     , 0.00                                     , 0.00                                     , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                        , 0.00                                        , 0.00                                        , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                       , 0.00                                        , 0.00                                        , 0.00                                        
+
+Core C-State Summary: Total Samples Received
+Core                       , Total # of samples, Min sampling interval (msec), Max sampling interval (msec), Avg sampling interval (msec)
+----                       , ------------------, ----------------------------, ----------------------------, ----------------------------
+CPU/Package_0/Die_0/Core_0 , 1                 , 2194.66                     , 2194.66                     , 2194.66                     
+CPU/Package_0/Die_0/Core_1 , 1                 , 2194.67                     , 2194.67                     , 2194.67                     
+CPU/Package_0/Die_0/Core_2 , 1                 , 2194.70                     , 2194.70                     , 2194.70                     
+CPU/Package_0/Die_0/Core_3 , 1                 , 2194.71                     , 2194.71                     , 2194.71                     
+CPU/Package_0/Die_0/Core_4 , 1                 , 2194.74                     , 2194.74                     , 2194.74                     
+CPU/Package_0/Die_0/Core_8 , 1                 , 2194.74                     , 2194.74                     , 2194.74                     
+CPU/Package_0/Die_0/Core_9 , 1                 , 2194.76                     , 2194.76                     , 2194.76                     
+CPU/Package_0/Die_0/Core_10, 1                 , 2194.76                     , 2194.76                     , 2194.76                     
+CPU/Package_0/Die_0/Core_11, 1                 , 2194.87                     , 2194.87                     , 2194.87                     
+CPU/Package_0/Die_0/Core_12, 1                 , 2194.88                     , 2194.88                     , 2194.88                     
+CPU/Package_1/Die_0/Core_0 , 1                 , 2194.81                     , 2194.81                     , 2194.81                     
+CPU/Package_1/Die_0/Core_1 , 1                 , 2194.84                     , 2194.84                     , 2194.84                     
+CPU/Package_1/Die_0/Core_2 , 1                 , 2195.05                     , 2195.05                     , 2195.05                     
+CPU/Package_1/Die_0/Core_3 , 1                 , 2195.04                     , 2195.04                     , 2195.04                     
+CPU/Package_1/Die_0/Core_4 , 1                 , 2195.03                     , 2195.03                     , 2195.03                     
+CPU/Package_1/Die_0/Core_8 , 1                 , 2195.04                     , 2195.04                     , 2195.04                     
+CPU/Package_1/Die_0/Core_9 , 1                 , 2195.04                     , 2195.04                     , 2195.04                     
+CPU/Package_1/Die_0/Core_10, 1                 , 2195.06                     , 2195.06                     , 2195.06                     
+CPU/Package_1/Die_0/Core_11, 1                 , 2195.02                     , 2195.02                     , 2195.02                     
+CPU/Package_1/Die_0/Core_12, 1                 , 2195.06                     , 2195.06                     , 2195.06                     
+
