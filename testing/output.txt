@@ -8,6 +8,6 @@ Distribution: Exponential
 Warmup Requests: 50
 
 
-Total time taken: 66469011
-Average Latency: 66469.01 microseconds
-99th Percentile Latency: 141460 microseconds
+Total time taken: 54806849
+Average Latency: 54806.85 microseconds
+99th Percentile Latency: 138881 microseconds

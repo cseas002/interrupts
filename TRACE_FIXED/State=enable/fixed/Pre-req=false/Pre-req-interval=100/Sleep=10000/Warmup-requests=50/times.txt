@@ -1,0 +1,4000 @@
+Time sleep: 10000
+Sent request at 1711548495153294768
+Read reply: 1711548495153541953
+Time taken: 246735
+Time sleep: 10000
+Sent request at 1711548495163660095
+Read reply: 1711548495163737194
+Time taken: 76835
+Time sleep: 10000
+Sent request at 1711548495173854337
+Read reply: 1711548495173929333
+Time taken: 75017
+Time sleep: 10000
+Sent request at 1711548495184047067
+Read reply: 1711548495184125470
+Time taken: 77613
+Time sleep: 10000
+Sent request at 1711548495194242505
+Read reply: 1711548495194330662
+Time taken: 88082
+Time sleep: 10000
+Sent request at 1711548495204447461
+Read reply: 1711548495204519999
+Time taken: 72393
+Time sleep: 10000
+Sent request at 1711548495214637434
+Read reply: 1711548495214714523
+Time taken: 76886
+Time sleep: 10000
+Sent request at 1711548495224831223
+Read reply: 1711548495224906430
+Time taken: 75128
+Time sleep: 10000
+Sent request at 1711548495235023297
+Read reply: 1711548495235112364
+Time taken: 88995
+Time sleep: 10000
+Sent request at 1711548495245229467
+Read reply: 1711548495245304153
+Time taken: 74648
+Time sleep: 10000
+Sent request at 1711548495255421079
+Read reply: 1711548495255495627
+Time taken: 74397
+Time sleep: 10000
+Sent request at 1711548495265612617
+Read reply: 1711548495265684815
+Time taken: 71962
+Time sleep: 10000
+Sent request at 1711548495275801576
+Read reply: 1711548495275875461
+Time taken: 73861
+Time sleep: 10000
+Sent request at 1711548495285992207
+Read reply: 1711548495286065490
+Time taken: 73315
+Time sleep: 10000
+Sent request at 1711548495296182606
+Read reply: 1711548495296255926
+Time taken: 73190
+Time sleep: 10000
+Sent request at 1711548495306373111
+Read reply: 1711548495306444419
+Time taken: 71319
+Time sleep: 10000
+Sent request at 1711548495316561652
+Read reply: 1711548495316636671
+Time taken: 74588
+Time sleep: 10000
+Sent request at 1711548495326753718
+Read reply: 1711548495326827441
+Time taken: 73421
+Time sleep: 10000
+Sent request at 1711548495336924811
+Read reply: 1711548495336995645
+Time taken: 70666
+Time sleep: 10000
+Sent request at 1711548495347112686
+Read reply: 1711548495347188981
+Time taken: 76095
+Time sleep: 10000
+Sent request at 1711548495357305873
+Read reply: 1711548495357378908
+Time taken: 72938
+Time sleep: 10000
+Sent request at 1711548495367495394
+Read reply: 1711548495367566132
+Time taken: 70707
+Time sleep: 10000
+Sent request at 1711548495377683115
+Read reply: 1711548495377754134
+Time taken: 70994
+Time sleep: 10000
+Sent request at 1711548495387870969
+Read reply: 1711548495387944114
+Time taken: 73072
+Time sleep: 10000
+Sent request at 1711548495398060914
+Read reply: 1711548495398132611
+Time taken: 71650
+Time sleep: 10000
+Sent request at 1711548495408249902
+Read reply: 1711548495408322551
+Time taken: 72378
+Time sleep: 10000
+Sent request at 1711548495418440018
+Read reply: 1711548495418510398
+Time taken: 70296
+Time sleep: 10000
+Sent request at 1711548495428627319
+Read reply: 1711548495428700617
+Time taken: 73099
+Time sleep: 10000
+Sent request at 1711548495438818014
+Read reply: 1711548495438890755
+Time taken: 72743
+Time sleep: 10000
+Sent request at 1711548495449008001
+Read reply: 1711548495449079276
+Time taken: 71140
+Time sleep: 10000
+Sent request at 1711548495459196098
+Read reply: 1711548495459268442
+Time taken: 72412
+Time sleep: 10000
+Sent request at 1711548495469385327
+Read reply: 1711548495469458757
+Time taken: 73216
+Time sleep: 10000
+Sent request at 1711548495479575132
+Read reply: 1711548495479648080
+Time taken: 72686
+Time sleep: 10000
+Sent request at 1711548495489764899
+Read reply: 1711548495489836657
+Time taken: 71539
+Time sleep: 10000
+Sent request at 1711548495499953556
+Read reply: 1711548495500027001
+Time taken: 73465
+Time sleep: 10000
+Sent request at 1711548495510144002
+Read reply: 1711548495510216803
+Time taken: 72535
+Time sleep: 10000
+Sent request at 1711548495520333375
+Read reply: 1711548495520406131
+Time taken: 72747
+Time sleep: 10000
+Sent request at 1711548495530523040
+Read reply: 1711548495530595763
+Time taken: 72799
+Time sleep: 10000
+Sent request at 1711548495540712694
+Read reply: 1711548495540783226
+Time taken: 70552
+Time sleep: 10000
+Sent request at 1711548495550899883
+Read reply: 1711548495550975386
+Time taken: 75603
+Time sleep: 10000
+Sent request at 1711548495561092794
+Read reply: 1711548495561164715
+Time taken: 71889
+Time sleep: 10000
+Sent request at 1711548495571281480
+Read reply: 1711548495571355055
+Time taken: 73584
+Time sleep: 10000
+Sent request at 1711548495581471731
+Read reply: 1711548495581543727
+Time taken: 72156
+Time sleep: 10000
+Sent request at 1711548495591660391
+Read reply: 1711548495591734022
+Time taken: 73723
+Time sleep: 10000
+Sent request at 1711548495601851071
+Read reply: 1711548495601926221
+Time taken: 74849
+Time sleep: 10000
+Sent request at 1711548495612043875
+Read reply: 1711548495612116666
+Time taken: 72596
+Time sleep: 10000
+Sent request at 1711548495622233427
+Read reply: 1711548495622303611
+Time taken: 70268
+Time sleep: 10000
+Sent request at 1711548495632420750
+Read reply: 1711548495632493847
+Time taken: 72996
+Time sleep: 10000
+Sent request at 1711548495642610695
+Read reply: 1711548495642681295
+Time taken: 70671
+Time sleep: 10000
+Sent request at 1711548495652798171
+Read reply: 1711548495652869275
+Time taken: 71100
+Time sleep: 10000
+Sent request at 1711548495662970316
+Read reply: 1711548495663041452
+Time taken: 70987
+Time sleep: 10000
+Sent request at 1711548495673158405
+Read reply: 1711548495673233008
+Time taken: 74454
+Time sleep: 10000
+Sent request at 1711548495683349892
+Read reply: 1711548495683421114
+Time taken: 71206
+Time sleep: 10000
+Sent request at 1711548495693538677
+Read reply: 1711548495693612212
+Time taken: 73337
+Time sleep: 10000
+Sent request at 1711548495703729269
+Read reply: 1711548495703801953
+Time taken: 72576
+Time sleep: 10000
+Sent request at 1711548495713918786
+Read reply: 1711548495713989906
+Time taken: 70930
+Time sleep: 10000
+Sent request at 1711548495724106593
+Read reply: 1711548495724390726
+Time taken: 284155
+Time sleep: 10000
+Sent request at 1711548495734507718
+Read reply: 1711548495734580647
+Time taken: 72684
+Time sleep: 10000
+Sent request at 1711548495744697492
+Read reply: 1711548495744769230
+Time taken: 71631
+Time sleep: 10000
+Sent request at 1711548495754886197
+Read reply: 1711548495754965500
+Time taken: 79327
+Time sleep: 10000
+Sent request at 1711548495765082757
+Read reply: 1711548495765158696
+Time taken: 75968
+Time sleep: 10000
+Sent request at 1711548495775275371
+Read reply: 1711548495775349294
+Time taken: 73933
+Time sleep: 10000
+Sent request at 1711548495785466469
+Read reply: 1711548495785537002
+Time taken: 70610
+Time sleep: 10000
+Sent request at 1711548495795653873
+Read reply: 1711548495795725663
+Time taken: 71586
+Time sleep: 10000
+Sent request at 1711548495805842432
+Read reply: 1711548495805913298
+Time taken: 70952
+Time sleep: 10000
+Sent request at 1711548495816030174
+Read reply: 1711548495816101305
+Time taken: 71041
+Time sleep: 10000
+Sent request at 1711548495826218219
+Read reply: 1711548495826289075
+Time taken: 70842
+Time sleep: 10000
+Sent request at 1711548495836405988
+Read reply: 1711548495836475991
+Time taken: 70066
+Time sleep: 10000
+Sent request at 1711548495846592701
+Read reply: 1711548495846666283
+Time taken: 73564
+Time sleep: 10000
+Sent request at 1711548495856783322
+Read reply: 1711548495856853992
+Time taken: 70597
+Time sleep: 10000
+Sent request at 1711548495866966171
+Read reply: 1711548495867038046
+Time taken: 71696
+Time sleep: 10000
+Sent request at 1711548495877154684
+Read reply: 1711548495877228123
+Time taken: 73591
+Time sleep: 10000
+Sent request at 1711548495887344639
+Read reply: 1711548495887416062
+Time taken: 71523
+Time sleep: 10000
+Sent request at 1711548495897532879
+Read reply: 1711548495897603314
+Time taken: 70393
+Time sleep: 10000
+Sent request at 1711548495907719928
+Read reply: 1711548495907791930
+Time taken: 72092
+Time sleep: 10000
+Sent request at 1711548495917908665
+Read reply: 1711548495917981151
+Time taken: 72426
+Time sleep: 10000
+Sent request at 1711548495928097767
+Read reply: 1711548495928170042
+Time taken: 72057
+Time sleep: 10000
+Sent request at 1711548495938287018
+Read reply: 1711548495938359865
+Time taken: 72955
+Time sleep: 10000
+Sent request at 1711548495948476569
+Read reply: 1711548495948547655
+Time taken: 71058
+Time sleep: 10000
+Sent request at 1711548495958664568
+Read reply: 1711548495958732783
+Time taken: 68366
+Time sleep: 10000
+Sent request at 1711548495968849634
+Read reply: 1711548495968920509
+Time taken: 70831
+Time sleep: 10000
+Sent request at 1711548495979036974
+Read reply: 1711548495979110535
+Time taken: 73634
+Time sleep: 10000
+Sent request at 1711548495989227666
+Read reply: 1711548495989298009
+Time taken: 70204
+Time sleep: 10000
+Sent request at 1711548495999415055
+Read reply: 1711548495999488193
+Time taken: 73042
+Time sleep: 10000
+Sent request at 1711548496009605206
+Read reply: 1711548496009676435
+Time taken: 71203
+Time sleep: 10000
+Sent request at 1711548496019793287
+Read reply: 1711548496019866916
+Time taken: 73683
+Time sleep: 10000
+Sent request at 1711548496029983783
+Read reply: 1711548496030054251
+Time taken: 70490
+Time sleep: 10000
+Sent request at 1711548496040171163
+Read reply: 1711548496040241366
+Time taken: 70194
+Time sleep: 10000
+Sent request at 1711548496050358184
+Read reply: 1711548496050431746
+Time taken: 73654
+Time sleep: 10000
+Sent request at 1711548496060548304
+Read reply: 1711548496060619828
+Time taken: 71468
+Time sleep: 10000
+Sent request at 1711548496070736887
+Read reply: 1711548496070807271
+Time taken: 70472
+Time sleep: 10000
+Sent request at 1711548496080923539
+Read reply: 1711548496080996527
+Time taken: 72988
+Time sleep: 10000
+Sent request at 1711548496091113850
+Read reply: 1711548496091188920
+Time taken: 74814
+Time sleep: 10000
+Sent request at 1711548496101305591
+Read reply: 1711548496101376568
+Time taken: 70977
+Time sleep: 10000
+Sent request at 1711548496111493478
+Read reply: 1711548496111566448
+Time taken: 72870
+Time sleep: 10000
+Sent request at 1711548496121683136
+Read reply: 1711548496121751909
+Time taken: 68704
+Time sleep: 10000
+Sent request at 1711548496131868310
+Read reply: 1711548496131939260
+Time taken: 71022
+Time sleep: 10000
+Sent request at 1711548496142056245
+Read reply: 1711548496142126353
+Time taken: 70133
+Time sleep: 10000
+Sent request at 1711548496152243204
+Read reply: 1711548496152315495
+Time taken: 72204
+Time sleep: 10000
+Sent request at 1711548496162432566
+Read reply: 1711548496162504424
+Time taken: 71777
+Time sleep: 10000
+Sent request at 1711548496172621719
+Read reply: 1711548496172693887
+Time taken: 72049
+Time sleep: 10000
+Sent request at 1711548496182811021
+Read reply: 1711548496182882604
+Time taken: 71510
+Time sleep: 10000
+Sent request at 1711548496192999873
+Read reply: 1711548496193072540
+Time taken: 72652
+Time sleep: 10000
+Sent request at 1711548496203189195
+Read reply: 1711548496203262090
+Time taken: 72817
+Time sleep: 10000
+Sent request at 1711548496213379172
+Read reply: 1711548496213449668
+Time taken: 70398
+Time sleep: 10000
+Sent request at 1711548496223566433
+Read reply: 1711548496223638983
+Time taken: 72580
+Time sleep: 10000
+Sent request at 1711548496233755712
+Read reply: 1711548496233827768
+Time taken: 72101
+Time sleep: 10000
+Sent request at 1711548496243944737
+Read reply: 1711548496244017969
+Time taken: 73279
+Time sleep: 10000
+Sent request at 1711548496254135791
+Read reply: 1711548496254209490
+Time taken: 73535
+Time sleep: 10000
+Sent request at 1711548496264326476
+Read reply: 1711548496264399726
+Time taken: 73328
+Time sleep: 10000
+Sent request at 1711548496274516701
+Read reply: 1711548496274587344
+Time taken: 70610
+Time sleep: 10000
+Sent request at 1711548496284704307
+Read reply: 1711548496284776555
+Time taken: 72013
+Time sleep: 10000
+Sent request at 1711548496294893343
+Read reply: 1711548496294971893
+Time taken: 78854
+Time sleep: 10000
+Sent request at 1711548496305089604
+Read reply: 1711548496305223578
+Time taken: 134035
+Time sleep: 10000
+Sent request at 1711548496315340324
+Read reply: 1711548496315411258
+Time taken: 71012
+Time sleep: 10000
+Sent request at 1711548496325528041
+Read reply: 1711548496325599798
+Time taken: 71638
+Time sleep: 10000
+Sent request at 1711548496335716905
+Read reply: 1711548496335788930
+Time taken: 71853
+Time sleep: 10000
+Sent request at 1711548496345906331
+Read reply: 1711548496345976238
+Time taken: 69896
+Time sleep: 10000
+Sent request at 1711548496356093428
+Read reply: 1711548496356165854
+Time taken: 72513
+Time sleep: 10000
+Sent request at 1711548496366282861
+Read reply: 1711548496366358519
+Time taken: 75613
+Time sleep: 10000
+Sent request at 1711548496376475272
+Read reply: 1711548496376547039
+Time taken: 71867
+Time sleep: 10000
+Sent request at 1711548496386663763
+Read reply: 1711548496386737424
+Time taken: 73638
+Time sleep: 10000
+Sent request at 1711548496396854422
+Read reply: 1711548496396926295
+Time taken: 71729
+Time sleep: 10000
+Sent request at 1711548496407043562
+Read reply: 1711548496407117086
+Time taken: 73101
+Time sleep: 10000
+Sent request at 1711548496417234229
+Read reply: 1711548496417305065
+Time taken: 70761
+Time sleep: 10000
+Sent request at 1711548496427421456
+Read reply: 1711548496427492471
+Time taken: 71160
+Time sleep: 10000
+Sent request at 1711548496437609363
+Read reply: 1711548496437680284
+Time taken: 70976
+Time sleep: 10000
+Sent request at 1711548496447797121
+Read reply: 1711548496447870153
+Time taken: 73047
+Time sleep: 10000
+Sent request at 1711548496457986951
+Read reply: 1711548496458059115
+Time taken: 72173
+Time sleep: 10000
+Sent request at 1711548496468176039
+Read reply: 1711548496468248014
+Time taken: 71832
+Time sleep: 10000
+Sent request at 1711548496478365071
+Read reply: 1711548496478437232
+Time taken: 72076
+Time sleep: 10000
+Sent request at 1711548496488554030
+Read reply: 1711548496488625764
+Time taken: 71835
+Time sleep: 10000
+Sent request at 1711548496498742847
+Read reply: 1711548496498813344
+Time taken: 70469
+Time sleep: 10000
+Sent request at 1711548496508922964
+Read reply: 1711548496508994730
+Time taken: 71767
+Time sleep: 10000
+Sent request at 1711548496519111626
+Read reply: 1711548496519183495
+Time taken: 71881
+Time sleep: 10000
+Sent request at 1711548496529300431
+Read reply: 1711548496529372732
+Time taken: 72254
+Time sleep: 10000
+Sent request at 1711548496539489769
+Read reply: 1711548496539560924
+Time taken: 71102
+Time sleep: 10000
+Sent request at 1711548496549677679
+Read reply: 1711548496549747212
+Time taken: 69486
+Time sleep: 10000
+Sent request at 1711548496559863947
+Read reply: 1711548496559936265
+Time taken: 72262
+Time sleep: 10000
+Sent request at 1711548496570053876
+Read reply: 1711548496570124204
+Time taken: 70250
+Time sleep: 10000
+Sent request at 1711548496580241136
+Read reply: 1711548496580314599
+Time taken: 73506
+Time sleep: 10000
+Sent request at 1711548496590431408
+Read reply: 1711548496590500718
+Time taken: 69304
+Time sleep: 10000
+Sent request at 1711548496600617629
+Read reply: 1711548496600689467
+Time taken: 71869
+Time sleep: 10000
+Sent request at 1711548496610806479
+Read reply: 1711548496610878523
+Time taken: 72081
+Time sleep: 10000
+Sent request at 1711548496620996379
+Read reply: 1711548496621066285
+Time taken: 69732
+Time sleep: 10000
+Sent request at 1711548496631182589
+Read reply: 1711548496631253369
+Time taken: 70797
+Time sleep: 10000
+Sent request at 1711548496641370252
+Read reply: 1711548496641441896
+Time taken: 71662
+Time sleep: 10000
+Sent request at 1711548496651558674
+Read reply: 1711548496651631362
+Time taken: 72695
+Time sleep: 10000
+Sent request at 1711548496661748040
+Read reply: 1711548496661819779
+Time taken: 71620
+Time sleep: 10000
+Sent request at 1711548496671936669
+Read reply: 1711548496672007929
+Time taken: 71176
+Time sleep: 10000
+Sent request at 1711548496682124850
+Read reply: 1711548496682196500
+Time taken: 71492
+Time sleep: 10000
+Sent request at 1711548496692313708
+Read reply: 1711548496692388408
+Time taken: 74571
+Time sleep: 10000
+Sent request at 1711548496702505262
+Read reply: 1711548496702577228
+Time taken: 71901
+Time sleep: 10000
+Sent request at 1711548496712694210
+Read reply: 1711548496712764202
+Time taken: 69950
+Time sleep: 10000
+Sent request at 1711548496722881277
+Read reply: 1711548496722954861
+Time taken: 73480
+Time sleep: 10000
+Sent request at 1711548496733076790
+Read reply: 1711548496733148717
+Time taken: 72093
+Time sleep: 10000
+Sent request at 1711548496743265674
+Read reply: 1711548496743336229
+Time taken: 70247
+Time sleep: 10000
+Sent request at 1711548496753452962
+Read reply: 1711548496753523135
+Time taken: 70047
+Time sleep: 10000
+Sent request at 1711548496763639809
+Read reply: 1711548496763709785
+Time taken: 70007
+Time sleep: 10000
+Sent request at 1711548496773827439
+Read reply: 1711548496773899122
+Time taken: 71349
+Time sleep: 10000
+Sent request at 1711548496784015836
+Read reply: 1711548496784086025
+Time taken: 70135
+Time sleep: 10000
+Sent request at 1711548496794202816
+Read reply: 1711548496794272859
+Time taken: 70106
+Time sleep: 10000
+Sent request at 1711548496804389702
+Read reply: 1711548496804460381
+Time taken: 70696
+Time sleep: 10000
+Sent request at 1711548496814577388
+Read reply: 1711548496814650473
+Time taken: 72929
+Time sleep: 10000
+Sent request at 1711548496824767345
+Read reply: 1711548496824839782
+Time taken: 72459
+Time sleep: 10000
+Sent request at 1711548496834956709
+Read reply: 1711548496835032456
+Time taken: 70848
+Time sleep: 10000
+Sent request at 1711548496845149668
+Read reply: 1711548496845220087
+Time taken: 70616
+Time sleep: 10000
+Sent request at 1711548496855337051
+Read reply: 1711548496855410081
+Time taken: 72976
+Time sleep: 10000
+Sent request at 1711548496865527063
+Read reply: 1711548496865598606
+Time taken: 71497
+Time sleep: 10000
+Sent request at 1711548496875715533
+Read reply: 1711548496875787599
+Time taken: 72114
+Time sleep: 10000
+Sent request at 1711548496885904501
+Read reply: 1711548496886012496
+Time taken: 107972
+Time sleep: 10000
+Sent request at 1711548496896129207
+Read reply: 1711548496896199354
+Time taken: 70197
+Time sleep: 10000
+Sent request at 1711548496906316547
+Read reply: 1711548496906388081
+Time taken: 71390
+Time sleep: 10000
+Sent request at 1711548496916504672
+Read reply: 1711548496916577787
+Time taken: 73099
+Time sleep: 10000
+Sent request at 1711548496926694638
+Read reply: 1711548496926767044
+Time taken: 72286
+Time sleep: 10000
+Sent request at 1711548496936884531
+Read reply: 1711548496936956241
+Time taken: 71747
+Time sleep: 10000
+Sent request at 1711548496947073167
+Read reply: 1711548496947144320
+Time taken: 71048
+Time sleep: 10000
+Sent request at 1711548496957260879
+Read reply: 1711548496957333712
+Time taken: 72900
+Time sleep: 10000
+Sent request at 1711548496967450236
+Read reply: 1711548496967521166
+Time taken: 70827
+Time sleep: 10000
+Sent request at 1711548496977638046
+Read reply: 1711548496977709230
+Time taken: 71070
+Time sleep: 10000
+Sent request at 1711548496987826043
+Read reply: 1711548496987895076
+Time taken: 69080
+Time sleep: 10000
+Sent request at 1711548496998011773
+Read reply: 1711548496998081630
+Time taken: 69900
+Time sleep: 10000
+Sent request at 1711548497008198550
+Read reply: 1711548497008267861
+Time taken: 69061
+Time sleep: 10000
+Sent request at 1711548497018384899
+Read reply: 1711548497018454601
+Time taken: 69639
+Time sleep: 10000
+Sent request at 1711548497028571637
+Read reply: 1711548497028641980
+Time taken: 70350
+Time sleep: 10000
+Sent request at 1711548497038758957
+Read reply: 1711548497038827843
+Time taken: 68816
+Time sleep: 10000
+Sent request at 1711548497048924370
+Read reply: 1711548497048994485
+Time taken: 70209
+Time sleep: 10000
+Sent request at 1711548497059111379
+Read reply: 1711548497059180403
+Time taken: 69093
+Time sleep: 10000
+Sent request at 1711548497069297071
+Read reply: 1711548497069367471
+Time taken: 70276
+Time sleep: 10000
+Sent request at 1711548497079484470
+Read reply: 1711548497079554314
+Time taken: 69885
+Time sleep: 10000
+Sent request at 1711548497089671018
+Read reply: 1711548497089741398
+Time taken: 70290
+Time sleep: 10000
+Sent request at 1711548497099858092
+Read reply: 1711548497099927773
+Time taken: 69642
+Time sleep: 10000
+Sent request at 1711548497110044343
+Read reply: 1711548497110113880
+Time taken: 69482
+Time sleep: 10000
+Sent request at 1711548497120230516
+Read reply: 1711548497120299837
+Time taken: 69126
+Time sleep: 10000
+Sent request at 1711548497130416428
+Read reply: 1711548497130485363
+Time taken: 68904
+Time sleep: 10000
+Sent request at 1711548497140602299
+Read reply: 1711548497140672162
+Time taken: 69823
+Time sleep: 10000
+Sent request at 1711548497150789212
+Read reply: 1711548497150858865
+Time taken: 69609
+Time sleep: 10000
+Sent request at 1711548497160976269
+Read reply: 1711548497161048362
+Time taken: 72172
+Time sleep: 10000
+Sent request at 1711548497171165178
+Read reply: 1711548497171236322
+Time taken: 71009
+Time sleep: 10000
+Sent request at 1711548497181353162
+Read reply: 1711548497181423870
+Time taken: 70613
+Time sleep: 10000
+Sent request at 1711548497191541277
+Read reply: 1711548497191612272
+Time taken: 70944
+Time sleep: 10000
+Sent request at 1711548497201729319
+Read reply: 1711548497201798497
+Time taken: 69160
+Time sleep: 10000
+Sent request at 1711548497211915372
+Read reply: 1711548497211985674
+Time taken: 70267
+Time sleep: 10000
+Sent request at 1711548497222102820
+Read reply: 1711548497222171119
+Time taken: 68410
+Time sleep: 10000
+Sent request at 1711548497232287995
+Read reply: 1711548497232357013
+Time taken: 69018
+Time sleep: 10000
+Sent request at 1711548497242473644
+Read reply: 1711548497242542773
+Time taken: 69293
+Time sleep: 10000
+Sent request at 1711548497252659545
+Read reply: 1711548497252728432
+Time taken: 68944
+Time sleep: 10000
+Sent request at 1711548497262845274
+Read reply: 1711548497262915158
+Time taken: 69900
+Time sleep: 10000
+Sent request at 1711548497273032199
+Read reply: 1711548497273101421
+Time taken: 69252
+Time sleep: 10000
+Sent request at 1711548497283218228
+Read reply: 1711548497283290075
+Time taken: 71796
+Time sleep: 10000
+Sent request at 1711548497293407069
+Read reply: 1711548497293476241
+Time taken: 69145
+Time sleep: 10000
+Sent request at 1711548497303593411
+Read reply: 1711548497303662764
+Time taken: 69464
+Time sleep: 10000
+Sent request at 1711548497313779611
+Read reply: 1711548497313848159
+Time taken: 68608
+Time sleep: 10000
+Sent request at 1711548497323964892
+Read reply: 1711548497324036013
+Time taken: 71076
+Time sleep: 10000
+Sent request at 1711548497334153475
+Read reply: 1711548497334221087
+Time taken: 67534
+Time sleep: 10000
+Sent request at 1711548497344337767
+Read reply: 1711548497344405766
+Time taken: 68011
+Time sleep: 10000
+Sent request at 1711548497354522447
+Read reply: 1711548497354591208
+Time taken: 68712
+Time sleep: 10000
+Sent request at 1711548497364708101
+Read reply: 1711548497364774855
+Time taken: 66651
+Time sleep: 10000
+Sent request at 1711548497374891364
+Read reply: 1711548497374965365
+Time taken: 74097
+Time sleep: 10000
+Sent request at 1711548497385082580
+Read reply: 1711548497385149575
+Time taken: 66967
+Time sleep: 10000
+Sent request at 1711548497395266027
+Read reply: 1711548497395333895
+Time taken: 67672
+Time sleep: 10000
+Sent request at 1711548497405450628
+Read reply: 1711548497405517525
+Time taken: 66886
+Time sleep: 10000
+Sent request at 1711548497415634599
+Read reply: 1711548497415703186
+Time taken: 68380
+Time sleep: 10000
+Sent request at 1711548497425820041
+Read reply: 1711548497425887384
+Time taken: 67329
+Time sleep: 10000
+Sent request at 1711548497436004283
+Read reply: 1711548497436072209
+Time taken: 67857
+Time sleep: 10000
+Sent request at 1711548497446189631
+Read reply: 1711548497446259104
+Time taken: 69528
+Time sleep: 10000
+Sent request at 1711548497456376832
+Read reply: 1711548497456447777
+Time taken: 70600
+Time sleep: 10000
+Sent request at 1711548497466564626
+Read reply: 1711548497466663082
+Time taken: 98500
+Time sleep: 10000
+Sent request at 1711548497476779631
+Read reply: 1711548497476851662
+Time taken: 72054
+Time sleep: 10000
+Sent request at 1711548497486966082
+Read reply: 1711548497487037871
+Time taken: 71598
+Time sleep: 10000
+Sent request at 1711548497497154643
+Read reply: 1711548497497224138
+Time taken: 69372
+Time sleep: 10000
+Sent request at 1711548497507340737
+Read reply: 1711548497507415114
+Time taken: 74296
+Time sleep: 10000
+Sent request at 1711548497517531995
+Read reply: 1711548497517603607
+Time taken: 71523
+Time sleep: 10000
+Sent request at 1711548497527720227
+Read reply: 1711548497527791833
+Time taken: 71616
+Time sleep: 10000
+Sent request at 1711548497537908980
+Read reply: 1711548497537982337
+Time taken: 73292
+Time sleep: 10000
+Sent request at 1711548497548099513
+Read reply: 1711548497548170928
+Time taken: 71355
+Time sleep: 10000
+Sent request at 1711548497558287476
+Read reply: 1711548497558360550
+Time taken: 73080
+Time sleep: 10000
+Sent request at 1711548497568477409
+Read reply: 1711548497568547918
+Time taken: 70607
+Time sleep: 10000
+Sent request at 1711548497578664850
+Read reply: 1711548497578735279
+Time taken: 70406
+Time sleep: 10000
+Sent request at 1711548497588852055
+Read reply: 1711548497588925248
+Time taken: 73067
+Time sleep: 10000
+Sent request at 1711548497599041812
+Read reply: 1711548497599113730
+Time taken: 71849
+Time sleep: 10000
+Sent request at 1711548497609230651
+Read reply: 1711548497609303027
+Time taken: 72426
+Time sleep: 10000
+Sent request at 1711548497619420065
+Read reply: 1711548497619490919
+Time taken: 70856
+Time sleep: 10000
+Sent request at 1711548497629607859
+Read reply: 1711548497629678192
+Time taken: 70281
+Time sleep: 10000
+Sent request at 1711548497639794506
+Read reply: 1711548497639866036
+Time taken: 71521
+Time sleep: 10000
+Sent request at 1711548497649982722
+Read reply: 1711548497650052931
+Time taken: 70276
+Time sleep: 10000
+Sent request at 1711548497660169845
+Read reply: 1711548497660240228
+Time taken: 70216
+Time sleep: 10000
+Sent request at 1711548497670356990
+Read reply: 1711548497670429545
+Time taken: 72535
+Time sleep: 10000
+Sent request at 1711548497680546347
+Read reply: 1711548497680616249
+Time taken: 69899
+Time sleep: 10000
+Sent request at 1711548497690733161
+Read reply: 1711548497690806746
+Time taken: 73586
+Time sleep: 10000
+Sent request at 1711548497700924113
+Read reply: 1711548497700995580
+Time taken: 71525
+Time sleep: 10000
+Sent request at 1711548497711112360
+Read reply: 1711548497711182414
+Time taken: 70006
+Time sleep: 10000
+Sent request at 1711548497721299020
+Read reply: 1711548497721371842
+Time taken: 72970
+Time sleep: 10000
+Sent request at 1711548497731488315
+Read reply: 1711548497731558339
+Time taken: 69964
+Time sleep: 10000
+Sent request at 1711548497741675320
+Read reply: 1711548497741745284
+Time taken: 70025
+Time sleep: 10000
+Sent request at 1711548497751861915
+Read reply: 1711548497751929019
+Time taken: 66887
+Time sleep: 10000
+Sent request at 1711548497762045985
+Read reply: 1711548497762117240
+Time taken: 71156
+Time sleep: 10000
+Sent request at 1711548497772233840
+Read reply: 1711548497772306631
+Time taken: 72709
+Time sleep: 10000
+Sent request at 1711548497782423293
+Read reply: 1711548497782499884
+Time taken: 76776
+Time sleep: 10000
+Sent request at 1711548497792616861
+Read reply: 1711548497792686899
+Time taken: 70218
+Time sleep: 10000
+Sent request at 1711548497802803912
+Read reply: 1711548497802873956
+Time taken: 69832
+Time sleep: 10000
+Sent request at 1711548497812990792
+Read reply: 1711548497813060473
+Time taken: 69452
+Time sleep: 10000
+Sent request at 1711548497823177042
+Read reply: 1711548497823247302
+Time taken: 70159
+Time sleep: 10000
+Sent request at 1711548497833364276
+Read reply: 1711548497833436546
+Time taken: 72179
+Time sleep: 10000
+Sent request at 1711548497843553466
+Read reply: 1711548497843628754
+Time taken: 75276
+Time sleep: 10000
+Sent request at 1711548497853745350
+Read reply: 1711548497853817428
+Time taken: 72017
+Time sleep: 10000
+Sent request at 1711548497863934037
+Read reply: 1711548497864003464
+Time taken: 69623
+Time sleep: 10000
+Sent request at 1711548497874120133
+Read reply: 1711548497874191057
+Time taken: 70915
+Time sleep: 10000
+Sent request at 1711548497884307656
+Read reply: 1711548497884378274
+Time taken: 70530
+Time sleep: 10000
+Sent request at 1711548497894494846
+Read reply: 1711548497894567155
+Time taken: 72188
+Time sleep: 10000
+Sent request at 1711548497904684303
+Read reply: 1711548497904754380
+Time taken: 70088
+Time sleep: 10000
+Sent request at 1711548497914871382
+Read reply: 1711548497914941485
+Time taken: 70061
+Time sleep: 10000
+Sent request at 1711548497925058899
+Read reply: 1711548497925129531
+Time taken: 70685
+Time sleep: 10000
+Sent request at 1711548497935246304
+Read reply: 1711548497935316929
+Time taken: 70500
+Time sleep: 10000
+Sent request at 1711548497945433876
+Read reply: 1711548497945504070
+Time taken: 70166
+Time sleep: 10000
+Sent request at 1711548497955620795
+Read reply: 1711548497955693197
+Time taken: 72401
+Time sleep: 10000
+Sent request at 1711548497965810319
+Read reply: 1711548497965879611
+Time taken: 69315
+Time sleep: 10000
+Sent request at 1711548497975996590
+Read reply: 1711548497976069542
+Time taken: 72944
+Time sleep: 10000
+Sent request at 1711548497986186722
+Read reply: 1711548497986257105
+Time taken: 70485
+Time sleep: 10000
+Sent request at 1711548497996374098
+Read reply: 1711548497996445749
+Time taken: 71493
+Time sleep: 10000
+Sent request at 1711548498006562537
+Read reply: 1711548498006636921
+Time taken: 74272
+Time sleep: 10000
+Sent request at 1711548498016753635
+Read reply: 1711548498016824851
+Time taken: 71244
+Time sleep: 10000
+Sent request at 1711548498026941795
+Read reply: 1711548498027011249
+Time taken: 69868
+Time sleep: 10000
+Sent request at 1711548498037128606
+Read reply: 1711548498037200003
+Time taken: 71516
+Time sleep: 10000
+Sent request at 1711548498047317483
+Read reply: 1711548498047422775
+Time taken: 105261
+Time sleep: 10000
+Sent request at 1711548498057539598
+Read reply: 1711548498057612941
+Time taken: 73356
+Time sleep: 10000
+Sent request at 1711548498067729570
+Read reply: 1711548498067800436
+Time taken: 70904
+Time sleep: 10000
+Sent request at 1711548498077917663
+Read reply: 1711548498077987812
+Time taken: 70086
+Time sleep: 10000
+Sent request at 1711548498088104141
+Read reply: 1711548498088174925
+Time taken: 70628
+Time sleep: 10000
+Sent request at 1711548498098291657
+Read reply: 1711548498098363112
+Time taken: 71507
+Time sleep: 10000
+Sent request at 1711548498108479679
+Read reply: 1711548498108550142
+Time taken: 70291
+Time sleep: 10000
+Sent request at 1711548498118666769
+Read reply: 1711548498118738773
+Time taken: 72046
+Time sleep: 10000
+Sent request at 1711548498128855543
+Read reply: 1711548498128928935
+Time taken: 73350
+Time sleep: 10000
+Sent request at 1711548498139045563
+Read reply: 1711548498139119566
+Time taken: 73830
+Time sleep: 10000
+Sent request at 1711548498149236239
+Read reply: 1711548498149309135
+Time taken: 72781
+Time sleep: 10000
+Sent request at 1711548498159425976
+Read reply: 1711548498159496258
+Time taken: 70367
+Time sleep: 10000
+Sent request at 1711548498169613058
+Read reply: 1711548498169684698
+Time taken: 71539
+Time sleep: 10000
+Sent request at 1711548498179801415
+Read reply: 1711548498179871630
+Time taken: 70161
+Time sleep: 10000
+Sent request at 1711548498189988444
+Read reply: 1711548498190061169
+Time taken: 72646
+Time sleep: 10000
+Sent request at 1711548498200177729
+Read reply: 1711548498200247924
+Time taken: 70049
+Time sleep: 10000
+Sent request at 1711548498210364693
+Read reply: 1711548498210436804
+Time taken: 72064
+Time sleep: 10000
+Sent request at 1711548498220553579
+Read reply: 1711548498220623672
+Time taken: 70038
+Time sleep: 10000
+Sent request at 1711548498230740574
+Read reply: 1711548498230812700
+Time taken: 72080
+Time sleep: 10000
+Sent request at 1711548498240922749
+Read reply: 1711548498240994549
+Time taken: 71812
+Time sleep: 10000
+Sent request at 1711548498251111117
+Read reply: 1711548498251183499
+Time taken: 72265
+Time sleep: 10000
+Sent request at 1711548498261300681
+Read reply: 1711548498261369981
+Time taken: 69106
+Time sleep: 10000
+Sent request at 1711548498271486439
+Read reply: 1711548498271557963
+Time taken: 71574
+Time sleep: 10000
+Sent request at 1711548498281674893
+Read reply: 1711548498281747360
+Time taken: 72624
+Time sleep: 10000
+Sent request at 1711548498291864371
+Read reply: 1711548498291936879
+Time taken: 72362
+Time sleep: 10000
+Sent request at 1711548498302053468
+Read reply: 1711548498302125568
+Time taken: 72114
+Time sleep: 10000
+Sent request at 1711548498312242136
+Read reply: 1711548498312314822
+Time taken: 72542
+Time sleep: 10000
+Sent request at 1711548498322431810
+Read reply: 1711548498322503987
+Time taken: 72122
+Time sleep: 10000
+Sent request at 1711548498332621078
+Read reply: 1711548498332692476
+Time taken: 71466
+Time sleep: 10000
+Sent request at 1711548498342809342
+Read reply: 1711548498342880865
+Time taken: 71530
+Time sleep: 10000
+Sent request at 1711548498352998199
+Read reply: 1711548498353070070
+Time taken: 71817
+Time sleep: 10000
+Sent request at 1711548498363186775
+Read reply: 1711548498363259759
+Time taken: 72919
+Time sleep: 10000
+Sent request at 1711548498373376376
+Read reply: 1711548498373446271
+Time taken: 69751
+Time sleep: 10000
+Sent request at 1711548498383562987
+Read reply: 1711548498383633488
+Time taken: 70404
+Time sleep: 10000
+Sent request at 1711548498393750332
+Read reply: 1711548498393818763
+Time taken: 68350
+Time sleep: 10000
+Sent request at 1711548498403935376
+Read reply: 1711548498404005812
+Time taken: 70360
+Time sleep: 10000
+Sent request at 1711548498414123166
+Read reply: 1711548498414193774
+Time taken: 70344
+Time sleep: 10000
+Sent request at 1711548498424310816
+Read reply: 1711548498424380990
+Time taken: 70134
+Time sleep: 10000
+Sent request at 1711548498434497751
+Read reply: 1711548498434566976
+Time taken: 69197
+Time sleep: 10000
+Sent request at 1711548498444684014
+Read reply: 1711548498444756157
+Time taken: 72112
+Time sleep: 10000
+Sent request at 1711548498454872943
+Read reply: 1711548498454943616
+Time taken: 70534
+Time sleep: 10000
+Sent request at 1711548498465061396
+Read reply: 1711548498465131793
+Time taken: 70552
+Time sleep: 10000
+Sent request at 1711548498475248402
+Read reply: 1711548498475320084
+Time taken: 71720
+Time sleep: 10000
+Sent request at 1711548498485436876
+Read reply: 1711548498485507025
+Time taken: 70042
+Time sleep: 10000
+Sent request at 1711548498495623584
+Read reply: 1711548498495692330
+Time taken: 68824
+Time sleep: 10000
+Sent request at 1711548498505809041
+Read reply: 1711548498505877748
+Time taken: 68744
+Time sleep: 10000
+Sent request at 1711548498515994752
+Read reply: 1711548498516067424
+Time taken: 72661
+Time sleep: 10000
+Sent request at 1711548498526184093
+Read reply: 1711548498526256591
+Time taken: 72471
+Time sleep: 10000
+Sent request at 1711548498536373682
+Read reply: 1711548498536448103
+Time taken: 74057
+Time sleep: 10000
+Sent request at 1711548498546565126
+Read reply: 1711548498546634778
+Time taken: 69563
+Time sleep: 10000
+Sent request at 1711548498556751637
+Read reply: 1711548498556823010
+Time taken: 71330
+Time sleep: 10000
+Sent request at 1711548498566939810
+Read reply: 1711548498567010737
+Time taken: 71055
+Time sleep: 10000
+Sent request at 1711548498577127774
+Read reply: 1711548498577198101
+Time taken: 70301
+Time sleep: 10000
+Sent request at 1711548498587315104
+Read reply: 1711548498587387235
+Time taken: 72140
+Time sleep: 10000
+Sent request at 1711548498597503938
+Read reply: 1711548498597576343
+Time taken: 72490
+Time sleep: 10000
+Sent request at 1711548498607692884
+Read reply: 1711548498607765734
+Time taken: 72818
+Time sleep: 10000
+Sent request at 1711548498617883795
+Read reply: 1711548498617958462
+Time taken: 73932
+Time sleep: 10000
+Sent request at 1711548498628075294
+Read reply: 1711548498628177145
+Time taken: 101914
+Time sleep: 10000
+Sent request at 1711548498638293923
+Read reply: 1711548498638362654
+Time taken: 68774
+Time sleep: 10000
+Sent request at 1711548498648479228
+Read reply: 1711548498648550513
+Time taken: 71328
+Time sleep: 10000
+Sent request at 1711548498658667509
+Read reply: 1711548498658737835
+Time taken: 70344
+Time sleep: 10000
+Sent request at 1711548498668854763
+Read reply: 1711548498668927662
+Time taken: 72930
+Time sleep: 10000
+Sent request at 1711548498679044238
+Read reply: 1711548498679113657
+Time taken: 69424
+Time sleep: 10000
+Sent request at 1711548498689230771
+Read reply: 1711548498689302439
+Time taken: 71743
+Time sleep: 10000
+Sent request at 1711548498699419283
+Read reply: 1711548498699491900
+Time taken: 72498
+Time sleep: 10000
+Sent request at 1711548498709608824
+Read reply: 1711548498709679094
+Time taken: 70253
+Time sleep: 10000
+Sent request at 1711548498719795902
+Read reply: 1711548498719867625
+Time taken: 71619
+Time sleep: 10000
+Sent request at 1711548498729984631
+Read reply: 1711548498730055721
+Time taken: 70958
+Time sleep: 10000
+Sent request at 1711548498740172336
+Read reply: 1711548498740241768
+Time taken: 69438
+Time sleep: 10000
+Sent request at 1711548498750358614
+Read reply: 1711548498750428957
+Time taken: 70302
+Time sleep: 10000
+Sent request at 1711548498760545756
+Read reply: 1711548498760615491
+Time taken: 69509
+Time sleep: 10000
+Sent request at 1711548498770732173
+Read reply: 1711548498770803443
+Time taken: 71356
+Time sleep: 10000
+Sent request at 1711548498780924708
+Read reply: 1711548498780996193
+Time taken: 71409
+Time sleep: 10000
+Sent request at 1711548498791112767
+Read reply: 1711548498791184322
+Time taken: 71478
+Time sleep: 10000
+Sent request at 1711548498801301576
+Read reply: 1711548498801371432
+Time taken: 69861
+Time sleep: 10000
+Sent request at 1711548498811488458
+Read reply: 1711548498811560636
+Time taken: 72027
+Time sleep: 10000
+Sent request at 1711548498821677456
+Read reply: 1711548498821749703
+Time taken: 72149
+Time sleep: 10000
+Sent request at 1711548498831866264
+Read reply: 1711548498831936754
+Time taken: 70318
+Time sleep: 10000
+Sent request at 1711548498842053257
+Read reply: 1711548498842125280
+Time taken: 72166
+Time sleep: 10000
+Sent request at 1711548498852247271
+Read reply: 1711548498852319507
+Time taken: 72122
+Time sleep: 10000
+Sent request at 1711548498862436234
+Read reply: 1711548498862509095
+Time taken: 72812
+Time sleep: 10000
+Sent request at 1711548498872625905
+Read reply: 1711548498872697732
+Time taken: 71725
+Time sleep: 10000
+Sent request at 1711548498882814539
+Read reply: 1711548498882885800
+Time taken: 71041
+Time sleep: 10000
+Sent request at 1711548498893002571
+Read reply: 1711548498893074435
+Time taken: 71699
+Time sleep: 10000
+Sent request at 1711548498903191061
+Read reply: 1711548498903262859
+Time taken: 71743
+Time sleep: 10000
+Sent request at 1711548498913379820
+Read reply: 1711548498913449256
+Time taken: 69455
+Time sleep: 10000
+Sent request at 1711548498923566201
+Read reply: 1711548498923637774
+Time taken: 71543
+Time sleep: 10000
+Sent request at 1711548498933754577
+Read reply: 1711548498933826019
+Time taken: 71478
+Time sleep: 10000
+Sent request at 1711548498943942971
+Read reply: 1711548498944012659
+Time taken: 69578
+Time sleep: 10000
+Sent request at 1711548498954129591
+Read reply: 1711548498954203169
+Time taken: 73668
+Time sleep: 10000
+Sent request at 1711548498964320165
+Read reply: 1711548498964391784
+Time taken: 71630
+Time sleep: 10000
+Sent request at 1711548498974508794
+Read reply: 1711548498974578545
+Time taken: 69758
+Time sleep: 10000
+Sent request at 1711548498984695381
+Read reply: 1711548498984765978
+Time taken: 70568
+Time sleep: 10000
+Sent request at 1711548498994882564
+Read reply: 1711548498994954609
+Time taken: 72177
+Time sleep: 10000
+Sent request at 1711548499005075843
+Read reply: 1711548499005148239
+Time taken: 72458
+Time sleep: 10000
+Sent request at 1711548499015265960
+Read reply: 1711548499015340309
+Time taken: 74289
+Time sleep: 10000
+Sent request at 1711548499025457165
+Read reply: 1711548499025528605
+Time taken: 71454
+Time sleep: 10000
+Sent request at 1711548499035645423
+Read reply: 1711548499035717286
+Time taken: 72025
+Time sleep: 10000
+Sent request at 1711548499045834308
+Read reply: 1711548499045905645
+Time taken: 71422
+Time sleep: 10000
+Sent request at 1711548499056022715
+Read reply: 1711548499056095948
+Time taken: 73206
+Time sleep: 10000
+Sent request at 1711548499066212972
+Read reply: 1711548499066282714
+Time taken: 69795
+Time sleep: 10000
+Sent request at 1711548499076399535
+Read reply: 1711548499076469719
+Time taken: 70259
+Time sleep: 10000
+Sent request at 1711548499086586617
+Read reply: 1711548499086658917
+Time taken: 72367
+Time sleep: 10000
+Sent request at 1711548499096776414
+Read reply: 1711548499096849066
+Time taken: 72502
+Time sleep: 10000
+Sent request at 1711548499106965808
+Read reply: 1711548499107038223
+Time taken: 72207
+Time sleep: 10000
+Sent request at 1711548499117154913
+Read reply: 1711548499117226654
+Time taken: 71696
+Time sleep: 10000
+Sent request at 1711548499127343595
+Read reply: 1711548499127416321
+Time taken: 72707
+Time sleep: 10000
+Sent request at 1711548499137533017
+Read reply: 1711548499137603269
+Time taken: 70198
+Time sleep: 10000
+Sent request at 1711548499147719975
+Read reply: 1711548499147791964
+Time taken: 71799
+Time sleep: 10000
+Sent request at 1711548499157908771
+Read reply: 1711548499157980800
+Time taken: 72048
+Time sleep: 10000
+Sent request at 1711548499168097484
+Read reply: 1711548499168167302
+Time taken: 69632
+Time sleep: 10000
+Sent request at 1711548499178284177
+Read reply: 1711548499178356920
+Time taken: 72645
+Time sleep: 10000
+Sent request at 1711548499188473887
+Read reply: 1711548499188547963
+Time taken: 74106
+Time sleep: 10000
+Sent request at 1711548499198664786
+Read reply: 1711548499198736574
+Time taken: 72035
+Time sleep: 10000
+Sent request at 1711548499208853466
+Read reply: 1711548499208959512
+Time taken: 106023
+Time sleep: 10000
+Sent request at 1711548499219076112
+Read reply: 1711548499219149455
+Time taken: 73241
+Time sleep: 10000
+Sent request at 1711548499229266264
+Read reply: 1711548499229339845
+Time taken: 73604
+Time sleep: 10000
+Sent request at 1711548499239456503
+Read reply: 1711548499239527945
+Time taken: 71396
+Time sleep: 10000
+Sent request at 1711548499249644920
+Read reply: 1711548499249717589
+Time taken: 72711
+Time sleep: 10000
+Sent request at 1711548499259834537
+Read reply: 1711548499259906488
+Time taken: 71976
+Time sleep: 10000
+Sent request at 1711548499270023461
+Read reply: 1711548499270093644
+Time taken: 69993
+Time sleep: 10000
+Sent request at 1711548499280210626
+Read reply: 1711548499280281294
+Time taken: 70514
+Time sleep: 10000
+Sent request at 1711548499290398021
+Read reply: 1711548499290469914
+Time taken: 71794
+Time sleep: 10000
+Sent request at 1711548499300586357
+Read reply: 1711548499300658671
+Time taken: 72306
+Time sleep: 10000
+Sent request at 1711548499310775819
+Read reply: 1711548499310847212
+Time taken: 71270
+Time sleep: 10000
+Sent request at 1711548499320922580
+Read reply: 1711548499320994126
+Time taken: 71393
+Time sleep: 10000
+Sent request at 1711548499331110602
+Read reply: 1711548499331181104
+Time taken: 70368
+Time sleep: 10000
+Sent request at 1711548499341298079
+Read reply: 1711548499341369293
+Time taken: 71220
+Time sleep: 10000
+Sent request at 1711548499351485836
+Read reply: 1711548499351559225
+Time taken: 73404
+Time sleep: 10000
+Sent request at 1711548499361676074
+Read reply: 1711548499361747496
+Time taken: 71362
+Time sleep: 10000
+Sent request at 1711548499371864307
+Read reply: 1711548499371937224
+Time taken: 72901
+Time sleep: 10000
+Sent request at 1711548499382053940
+Read reply: 1711548499382125067
+Time taken: 71056
+Time sleep: 10000
+Sent request at 1711548499392241718
+Read reply: 1711548499392313030
+Time taken: 71322
+Time sleep: 10000
+Sent request at 1711548499402429891
+Read reply: 1711548499402501829
+Time taken: 71777
+Time sleep: 10000
+Sent request at 1711548499412619196
+Read reply: 1711548499412691763
+Time taken: 72135
+Time sleep: 10000
+Sent request at 1711548499422808718
+Read reply: 1711548499422880220
+Time taken: 71456
+Time sleep: 10000
+Sent request at 1711548499432997435
+Read reply: 1711548499433068198
+Time taken: 71014
+Time sleep: 10000
+Sent request at 1711548499443185212
+Read reply: 1711548499443257224
+Time taken: 71958
+Time sleep: 10000
+Sent request at 1711548499453373877
+Read reply: 1711548499453443527
+Time taken: 69538
+Time sleep: 10000
+Sent request at 1711548499463560439
+Read reply: 1711548499463634733
+Time taken: 74276
+Time sleep: 10000
+Sent request at 1711548499473751556
+Read reply: 1711548499473824094
+Time taken: 72416
+Time sleep: 10000
+Sent request at 1711548499483941497
+Read reply: 1711548499484013666
+Time taken: 72086
+Time sleep: 10000
+Sent request at 1711548499494130675
+Read reply: 1711548499494200507
+Time taken: 69716
+Time sleep: 10000
+Sent request at 1711548499504317272
+Read reply: 1711548499504387315
+Time taken: 69633
+Time sleep: 10000
+Sent request at 1711548499514503960
+Read reply: 1711548499514576358
+Time taken: 72502
+Time sleep: 10000
+Sent request at 1711548499524693086
+Read reply: 1711548499524765224
+Time taken: 72032
+Time sleep: 10000
+Sent request at 1711548499534882180
+Read reply: 1711548499534954345
+Time taken: 72153
+Time sleep: 10000
+Sent request at 1711548499545076705
+Read reply: 1711548499545148186
+Time taken: 71577
+Time sleep: 10000
+Sent request at 1711548499555264967
+Read reply: 1711548499555337080
+Time taken: 72122
+Time sleep: 10000
+Sent request at 1711548499565454112
+Read reply: 1711548499565525736
+Time taken: 71664
+Time sleep: 10000
+Sent request at 1711548499575642630
+Read reply: 1711548499575715419
+Time taken: 72818
+Time sleep: 10000
+Sent request at 1711548499585832352
+Read reply: 1711548499585904239
+Time taken: 71869
+Time sleep: 10000
+Sent request at 1711548499596021975
+Read reply: 1711548499596090945
+Time taken: 68845
+Time sleep: 10000
+Sent request at 1711548499606207914
+Read reply: 1711548499606281056
+Time taken: 73163
+Time sleep: 10000
+Sent request at 1711548499616397727
+Read reply: 1711548499616469560
+Time taken: 71612
+Time sleep: 10000
+Sent request at 1711548499626586336
+Read reply: 1711548499626658257
+Time taken: 72072
+Time sleep: 10000
+Sent request at 1711548499636775248
+Read reply: 1711548499636846811
+Time taken: 71508
+Time sleep: 10000
+Sent request at 1711548499646965750
+Read reply: 1711548499647037140
+Time taken: 71165
+Time sleep: 10000
+Sent request at 1711548499657153784
+Read reply: 1711548499657225862
+Time taken: 72029
+Time sleep: 10000
+Sent request at 1711548499667342912
+Read reply: 1711548499667414399
+Time taken: 71319
+Time sleep: 10000
+Sent request at 1711548499677531371
+Read reply: 1711548499677603404
+Time taken: 72097
+Time sleep: 10000
+Sent request at 1711548499687720137
+Read reply: 1711548499687791762
+Time taken: 71626
+Time sleep: 10000
+Sent request at 1711548499697908667
+Read reply: 1711548499697979583
+Time taken: 70873
+Time sleep: 10000
+Sent request at 1711548499708096434
+Read reply: 1711548499708166822
+Time taken: 70397
+Time sleep: 10000
+Sent request at 1711548499718283368
+Read reply: 1711548499718354847
+Time taken: 71429
+Time sleep: 10000
+Sent request at 1711548499728471486
+Read reply: 1711548499728542988
+Time taken: 71495
+Time sleep: 10000
+Sent request at 1711548499738659928
+Read reply: 1711548499738731110
+Time taken: 71140
+Time sleep: 10000
+Sent request at 1711548499748848178
+Read reply: 1711548499748920023
+Time taken: 71780
+Time sleep: 10000
+Sent request at 1711548499759036488
+Read reply: 1711548499759108484
+Time taken: 71931
+Time sleep: 10000
+Sent request at 1711548499769225191
+Read reply: 1711548499769294703
+Time taken: 69252
+Time sleep: 10000
+Sent request at 1711548499779411360
+Read reply: 1711548499779484607
+Time taken: 73121
+Time sleep: 10000
+Sent request at 1711548499789601507
+Read reply: 1711548499789702691
+Time taken: 101129
+Time sleep: 10000
+Sent request at 1711548499799819347
+Read reply: 1711548499799895291
+Time taken: 75942
+Time sleep: 10000
+Sent request at 1711548499810012660
+Read reply: 1711548499810083012
+Time taken: 70274
+Time sleep: 10000
+Sent request at 1711548499820200310
+Read reply: 1711548499820276139
+Time taken: 75229
+Time sleep: 10000
+Sent request at 1711548499830392867
+Read reply: 1711548499830465391
+Time taken: 72434
+Time sleep: 10000
+Sent request at 1711548499840581881
+Read reply: 1711548499840652398
+Time taken: 70336
+Time sleep: 10000
+Sent request at 1711548499850769025
+Read reply: 1711548499850839456
+Time taken: 70366
+Time sleep: 10000
+Sent request at 1711548499860924646
+Read reply: 1711548499860995311
+Time taken: 70340
+Time sleep: 10000
+Sent request at 1711548499871111876
+Read reply: 1711548499871184072
+Time taken: 72107
+Time sleep: 10000
+Sent request at 1711548499881300696
+Read reply: 1711548499881369519
+Time taken: 68765
+Time sleep: 10000
+Sent request at 1711548499891486125
+Read reply: 1711548499891558652
+Time taken: 72590
+Time sleep: 10000
+Sent request at 1711548499901675328
+Read reply: 1711548499901745267
+Time taken: 70003
+Time sleep: 10000
+Sent request at 1711548499911862122
+Read reply: 1711548499911934352
+Time taken: 72131
+Time sleep: 10000
+Sent request at 1711548499922050941
+Read reply: 1711548499922121852
+Time taken: 70732
+Time sleep: 10000
+Sent request at 1711548499932238607
+Read reply: 1711548499932310541
+Time taken: 71980
+Time sleep: 10000
+Sent request at 1711548499942427460
+Read reply: 1711548499942499671
+Time taken: 71999
+Time sleep: 10000
+Sent request at 1711548499952616363
+Read reply: 1711548499952687055
+Time taken: 70716
+Time sleep: 10000
+Sent request at 1711548499962803882
+Read reply: 1711548499962872876
+Time taken: 68832
+Time sleep: 10000
+Sent request at 1711548499972989829
+Read reply: 1711548499973061024
+Time taken: 71144
+Time sleep: 10000
+Sent request at 1711548499983177774
+Read reply: 1711548499983250305
+Time taken: 72458
+Time sleep: 10000
+Sent request at 1711548499993367279
+Read reply: 1711548499993437389
+Time taken: 70102
+Time sleep: 10000
+Sent request at 1711548500003554048
+Read reply: 1711548500003623945
+Time taken: 69791
+Time sleep: 10000
+Sent request at 1711548500013740906
+Read reply: 1711548500013810793
+Time taken: 70043
+Time sleep: 10000
+Sent request at 1711548500023928180
+Read reply: 1711548500023999424
+Time taken: 71114
+Time sleep: 10000
+Sent request at 1711548500034116090
+Read reply: 1711548500034188720
+Time taken: 72506
+Time sleep: 10000
+Sent request at 1711548500044305257
+Read reply: 1711548500044377822
+Time taken: 72439
+Time sleep: 10000
+Sent request at 1711548500054494751
+Read reply: 1711548500054566412
+Time taken: 71632
+Time sleep: 10000
+Sent request at 1711548500064683076
+Read reply: 1711548500064755035
+Time taken: 71931
+Time sleep: 10000
+Sent request at 1711548500074871766
+Read reply: 1711548500074942688
+Time taken: 71026
+Time sleep: 10000
+Sent request at 1711548500085059539
+Read reply: 1711548500085131953
+Time taken: 72383
+Time sleep: 10000
+Sent request at 1711548500095248749
+Read reply: 1711548500095321528
+Time taken: 72857
+Time sleep: 10000
+Sent request at 1711548500105438266
+Read reply: 1711548500105510148
+Time taken: 71842
+Time sleep: 10000
+Sent request at 1711548500115626618
+Read reply: 1711548500115699419
+Time taken: 72932
+Time sleep: 10000
+Sent request at 1711548500125816228
+Read reply: 1711548500125886599
+Time taken: 70382
+Time sleep: 10000
+Sent request at 1711548500136003231
+Read reply: 1711548500136075869
+Time taken: 72653
+Time sleep: 10000
+Sent request at 1711548500146192828
+Read reply: 1711548500146264055
+Time taken: 71176
+Time sleep: 10000
+Sent request at 1711548500156380739
+Read reply: 1711548500156453623
+Time taken: 72820
+Time sleep: 10000
+Sent request at 1711548500166570606
+Read reply: 1711548500166643171
+Time taken: 72499
+Time sleep: 10000
+Sent request at 1711548500176759994
+Read reply: 1711548500176830674
+Time taken: 70616
+Time sleep: 10000
+Sent request at 1711548500186947549
+Read reply: 1711548500187020690
+Time taken: 73397
+Time sleep: 10000
+Sent request at 1711548500197138553
+Read reply: 1711548500197210877
+Time taken: 72113
+Time sleep: 10000
+Sent request at 1711548500207327554
+Read reply: 1711548500207395006
+Time taken: 67404
+Time sleep: 10000
+Sent request at 1711548500217511661
+Read reply: 1711548500217581955
+Time taken: 70080
+Time sleep: 10000
+Sent request at 1711548500227698518
+Read reply: 1711548500227769018
+Time taken: 70454
+Time sleep: 10000
+Sent request at 1711548500237885881
+Read reply: 1711548500237957002
+Time taken: 71067
+Time sleep: 10000
+Sent request at 1711548500248074284
+Read reply: 1711548500248145198
+Time taken: 70851
+Time sleep: 10000
+Sent request at 1711548500258262300
+Read reply: 1711548500258338045
+Time taken: 75800
+Time sleep: 10000
+Sent request at 1711548500268454915
+Read reply: 1711548500268525493
+Time taken: 70580
+Time sleep: 10000
+Sent request at 1711548500278642325
+Read reply: 1711548500278713340
+Time taken: 71078
+Time sleep: 10000
+Sent request at 1711548500288830138
+Read reply: 1711548500288902227
+Time taken: 72226
+Time sleep: 10000
+Sent request at 1711548500299018784
+Read reply: 1711548500299090369
+Time taken: 71540
+Time sleep: 10000
+Sent request at 1711548500309207538
+Read reply: 1711548500309278550
+Time taken: 71072
+Time sleep: 10000
+Sent request at 1711548500319395522
+Read reply: 1711548500319464738
+Time taken: 69161
+Time sleep: 10000
+Sent request at 1711548500329581707
+Read reply: 1711548500329654963
+Time taken: 73233
+Time sleep: 10000
+Sent request at 1711548500339771579
+Read reply: 1711548500339843873
+Time taken: 72361
+Time sleep: 10000
+Sent request at 1711548500349960996
+Read reply: 1711548500350032462
+Time taken: 71349
+Time sleep: 10000
+Sent request at 1711548500360148855
+Read reply: 1711548500360219191
+Time taken: 70210
+Time sleep: 10000
+Sent request at 1711548500370335696
+Read reply: 1711548500370446622
+Time taken: 110900
+Time sleep: 10000
+Sent request at 1711548500380563422
+Read reply: 1711548500380637608
+Time taken: 74216
+Time sleep: 10000
+Sent request at 1711548500390754624
+Read reply: 1711548500390825281
+Time taken: 70740
+Time sleep: 10000
+Sent request at 1711548500400924112
+Read reply: 1711548500400995700
+Time taken: 71589
+Time sleep: 10000
+Sent request at 1711548500411112783
+Read reply: 1711548500411183498
+Time taken: 70337
+Time sleep: 10000
+Sent request at 1711548500421300748
+Read reply: 1711548500421370714
+Time taken: 69807
+Time sleep: 10000
+Sent request at 1711548500431487552
+Read reply: 1711548500431556434
+Time taken: 68649
+Time sleep: 10000
+Sent request at 1711548500441673098
+Read reply: 1711548500441746434
+Time taken: 73315
+Time sleep: 10000
+Sent request at 1711548500451863331
+Read reply: 1711548500451935932
+Time taken: 72621
+Time sleep: 10000
+Sent request at 1711548500462052911
+Read reply: 1711548500462122905
+Time taken: 69843
+Time sleep: 10000
+Sent request at 1711548500472239718
+Read reply: 1711548500472311698
+Time taken: 71963
+Time sleep: 10000
+Sent request at 1711548500482428298
+Read reply: 1711548500482499274
+Time taken: 70926
+Time sleep: 10000
+Sent request at 1711548500492616407
+Read reply: 1711548500492689104
+Time taken: 72614
+Time sleep: 10000
+Sent request at 1711548500502805638
+Read reply: 1711548500502877947
+Time taken: 72264
+Time sleep: 10000
+Sent request at 1711548500512995302
+Read reply: 1711548500513067117
+Time taken: 71809
+Time sleep: 10000
+Sent request at 1711548500523183980
+Read reply: 1711548500523252546
+Time taken: 68620
+Time sleep: 10000
+Sent request at 1711548500533369253
+Read reply: 1711548500533442060
+Time taken: 72916
+Time sleep: 10000
+Sent request at 1711548500543559639
+Read reply: 1711548500543632950
+Time taken: 73172
+Time sleep: 10000
+Sent request at 1711548500553749755
+Read reply: 1711548500553821621
+Time taken: 71892
+Time sleep: 10000
+Sent request at 1711548500563938546
+Read reply: 1711548500564011254
+Time taken: 72810
+Time sleep: 10000
+Sent request at 1711548500574127947
+Read reply: 1711548500574198201
+Time taken: 70343
+Time sleep: 10000
+Sent request at 1711548500584315231
+Read reply: 1711548500584387230
+Time taken: 71882
+Time sleep: 10000
+Sent request at 1711548500594504070
+Read reply: 1711548500594574131
+Time taken: 70106
+Time sleep: 10000
+Sent request at 1711548500604690955
+Read reply: 1711548500604762462
+Time taken: 71508
+Time sleep: 10000
+Sent request at 1711548500614879634
+Read reply: 1711548500614951191
+Time taken: 71453
+Time sleep: 10000
+Sent request at 1711548500625068230
+Read reply: 1711548500625137628
+Time taken: 69270
+Time sleep: 10000
+Sent request at 1711548500635254555
+Read reply: 1711548500635326907
+Time taken: 72379
+Time sleep: 10000
+Sent request at 1711548500645444331
+Read reply: 1711548500645517857
+Time taken: 73286
+Time sleep: 10000
+Sent request at 1711548500655634601
+Read reply: 1711548500655703872
+Time taken: 69354
+Time sleep: 10000
+Sent request at 1711548500665821029
+Read reply: 1711548500665891885
+Time taken: 70795
+Time sleep: 10000
+Sent request at 1711548500676008785
+Read reply: 1711548500676079246
+Time taken: 70323
+Time sleep: 10000
+Sent request at 1711548500686195872
+Read reply: 1711548500686267305
+Time taken: 71249
+Time sleep: 10000
+Sent request at 1711548500696383847
+Read reply: 1711548500696454863
+Time taken: 71105
+Time sleep: 10000
+Sent request at 1711548500706571848
+Read reply: 1711548500706642737
+Time taken: 70719
+Time sleep: 10000
+Sent request at 1711548500716760049
+Read reply: 1711548500716831315
+Time taken: 71211
+Time sleep: 10000
+Sent request at 1711548500726947931
+Read reply: 1711548500727017858
+Time taken: 70172
+Time sleep: 10000
+Sent request at 1711548500737134888
+Read reply: 1711548500737205657
+Time taken: 70767
+Time sleep: 10000
+Sent request at 1711548500747322536
+Read reply: 1711548500747393619
+Time taken: 71117
+Time sleep: 10000
+Sent request at 1711548500757510647
+Read reply: 1711548500757580198
+Time taken: 69515
+Time sleep: 10000
+Sent request at 1711548500767697109
+Read reply: 1711548500767767311
+Time taken: 70254
+Time sleep: 10000
+Sent request at 1711548500777884417
+Read reply: 1711548500777956428
+Time taken: 71915
+Time sleep: 10000
+Sent request at 1711548500788073273
+Read reply: 1711548500788144435
+Time taken: 71187
+Time sleep: 10000
+Sent request at 1711548500798261195
+Read reply: 1711548500798334437
+Time taken: 73313
+Time sleep: 10000
+Sent request at 1711548500808451320
+Read reply: 1711548500808522859
+Time taken: 71555
+Time sleep: 10000
+Sent request at 1711548500818639670
+Read reply: 1711548500818709331
+Time taken: 69604
+Time sleep: 10000
+Sent request at 1711548500828826124
+Read reply: 1711548500828895524
+Time taken: 69365
+Time sleep: 10000
+Sent request at 1711548500838965157
+Read reply: 1711548500839034833
+Time taken: 69657
+Time sleep: 10000
+Sent request at 1711548500849151897
+Read reply: 1711548500849223844
+Time taken: 72080
+Time sleep: 10000
+Sent request at 1711548500859340659
+Read reply: 1711548500859412707
+Time taken: 72193
+Time sleep: 10000
+Sent request at 1711548500869529588
+Read reply: 1711548500869601678
+Time taken: 72147
+Time sleep: 10000
+Sent request at 1711548500879718426
+Read reply: 1711548500879790067
+Time taken: 71639
+Time sleep: 10000
+Sent request at 1711548500889906971
+Read reply: 1711548500889979055
+Time taken: 72022
+Time sleep: 10000
+Sent request at 1711548500900095971
+Read reply: 1711548500900165717
+Time taken: 69561
+Time sleep: 10000
+Sent request at 1711548500910282724
+Read reply: 1711548500910354856
+Time taken: 72161
+Time sleep: 10000
+Sent request at 1711548500920472065
+Read reply: 1711548500920542835
+Time taken: 70914
+Time sleep: 10000
+Sent request at 1711548500930660347
+Read reply: 1711548500930730726
+Time taken: 70451
+Time sleep: 10000
+Sent request at 1711548500940847849
+Read reply: 1711548500940946875
+Time taken: 98887
+Time sleep: 10000
+Sent request at 1711548500951063731
+Read reply: 1711548500951137940
+Time taken: 74020
+Time sleep: 10000
+Sent request at 1711548500961254803
+Read reply: 1711548500961325863
+Time taken: 71136
+Time sleep: 10000
+Sent request at 1711548500971442770
+Read reply: 1711548500971513065
+Time taken: 70119
+Time sleep: 10000
+Sent request at 1711548500981630020
+Read reply: 1711548500981701547
+Time taken: 71569
+Time sleep: 10000
+Sent request at 1711548500991818665
+Read reply: 1711548500991889028
+Time taken: 70194
+Time sleep: 10000
+Sent request at 1711548501002005830
+Read reply: 1711548501002076753
+Time taken: 70936
+Time sleep: 10000
+Sent request at 1711548501012194063
+Read reply: 1711548501012266325
+Time taken: 72042
+Time sleep: 10000
+Sent request at 1711548501022383292
+Read reply: 1711548501022454592
+Time taken: 71320
+Time sleep: 10000
+Sent request at 1711548501032571614
+Read reply: 1711548501032642851
+Time taken: 71149
+Time sleep: 10000
+Sent request at 1711548501042759787
+Read reply: 1711548501042830368
+Time taken: 70451
+Time sleep: 10000
+Sent request at 1711548501052921972
+Read reply: 1711548501052994871
+Time taken: 72878
+Time sleep: 10000
+Sent request at 1711548501063111685
+Read reply: 1711548501063183595
+Time taken: 71877
+Time sleep: 10000
+Sent request at 1711548501073300321
+Read reply: 1711548501073371216
+Time taken: 70663
+Time sleep: 10000
+Sent request at 1711548501083487927
+Read reply: 1711548501083559351
+Time taken: 71141
+Time sleep: 10000
+Sent request at 1711548501093676013
+Read reply: 1711548501093747548
+Time taken: 71532
+Time sleep: 10000
+Sent request at 1711548501103864578
+Read reply: 1711548501103934605
+Time taken: 70168
+Time sleep: 10000
+Sent request at 1711548501114051604
+Read reply: 1711548501114123314
+Time taken: 71647
+Time sleep: 10000
+Sent request at 1711548501124240214
+Read reply: 1711548501124310387
+Time taken: 70184
+Time sleep: 10000
+Sent request at 1711548501134427664
+Read reply: 1711548501134497744
+Time taken: 70054
+Time sleep: 10000
+Sent request at 1711548501144614738
+Read reply: 1711548501144683008
+Time taken: 68138
+Time sleep: 10000
+Sent request at 1711548501154799976
+Read reply: 1711548501154871057
+Time taken: 71168
+Time sleep: 10000
+Sent request at 1711548501164988056
+Read reply: 1711548501165069503
+Time taken: 81425
+Time sleep: 10000
+Sent request at 1711548501175186020
+Read reply: 1711548501175256347
+Time taken: 70348
+Time sleep: 10000
+Sent request at 1711548501185373318
+Read reply: 1711548501185444611
+Time taken: 71370
+Time sleep: 10000
+Sent request at 1711548501195561561
+Read reply: 1711548501195632130
+Time taken: 70497
+Time sleep: 10000
+Sent request at 1711548501205749207
+Read reply: 1711548501205819885
+Time taken: 70629
+Time sleep: 10000
+Sent request at 1711548501215936869
+Read reply: 1711548501216010670
+Time taken: 73650
+Time sleep: 10000
+Sent request at 1711548501226127606
+Read reply: 1711548501226198178
+Time taken: 70654
+Time sleep: 10000
+Sent request at 1711548501236315112
+Read reply: 1711548501236386611
+Time taken: 71473
+Time sleep: 10000
+Sent request at 1711548501246503832
+Read reply: 1711548501246575935
+Time taken: 72045
+Time sleep: 10000
+Sent request at 1711548501256692383
+Read reply: 1711548501256764746
+Time taken: 72226
+Time sleep: 10000
+Sent request at 1711548501266881393
+Read reply: 1711548501266953037
+Time taken: 71789
+Time sleep: 10000
+Sent request at 1711548501277075341
+Read reply: 1711548501277147539
+Time taken: 72208
+Time sleep: 10000
+Sent request at 1711548501287264099
+Read reply: 1711548501287333868
+Time taken: 69973
+Time sleep: 10000
+Sent request at 1711548501297450948
+Read reply: 1711548501297520658
+Time taken: 69557
+Time sleep: 10000
+Sent request at 1711548501307637273
+Read reply: 1711548501307707213
+Time taken: 69953
+Time sleep: 10000
+Sent request at 1711548501317824128
+Read reply: 1711548501317895582
+Time taken: 71235
+Time sleep: 10000
+Sent request at 1711548501328012400
+Read reply: 1711548501328084307
+Time taken: 71799
+Time sleep: 10000
+Sent request at 1711548501338201415
+Read reply: 1711548501338273700
+Time taken: 72168
+Time sleep: 10000
+Sent request at 1711548501348391038
+Read reply: 1711548501348460121
+Time taken: 68968
+Time sleep: 10000
+Sent request at 1711548501358576880
+Read reply: 1711548501358648537
+Time taken: 71346
+Time sleep: 10000
+Sent request at 1711548501368765165
+Read reply: 1711548501368834706
+Time taken: 69502
+Time sleep: 10000
+Sent request at 1711548501378951705
+Read reply: 1711548501379021560
+Time taken: 69948
+Time sleep: 10000
+Sent request at 1711548501389138866
+Read reply: 1711548501389211183
+Time taken: 72196
+Time sleep: 10000
+Sent request at 1711548501399327705
+Read reply: 1711548501399397998
+Time taken: 70445
+Time sleep: 10000
+Sent request at 1711548501409515505
+Read reply: 1711548501409587010
+Time taken: 71167
+Time sleep: 10000
+Sent request at 1711548501419704147
+Read reply: 1711548501419774478
+Time taken: 70333
+Time sleep: 10000
+Sent request at 1711548501429891413
+Read reply: 1711548501429960054
+Time taken: 68623
+Time sleep: 10000
+Sent request at 1711548501440077089
+Read reply: 1711548501440149024
+Time taken: 71911
+Time sleep: 10000
+Sent request at 1711548501450266084
+Read reply: 1711548501450336397
+Time taken: 70269
+Time sleep: 10000
+Sent request at 1711548501460453444
+Read reply: 1711548501460522919
+Time taken: 69415
+Time sleep: 10000
+Sent request at 1711548501470640152
+Read reply: 1711548501470711511
+Time taken: 71356
+Time sleep: 10000
+Sent request at 1711548501480828503
+Read reply: 1711548501480901004
+Time taken: 72512
+Time sleep: 10000
+Sent request at 1711548501491018135
+Read reply: 1711548501491087721
+Time taken: 69625
+Time sleep: 10000
+Sent request at 1711548501501204626
+Read reply: 1711548501501273225
+Time taken: 68531
+Time sleep: 10000
+Sent request at 1711548501511390267
+Read reply: 1711548501511464432
+Time taken: 74083
+Time sleep: 10000
+Sent request at 1711548501521581532
+Read reply: 1711548501521685303
+Time taken: 103710
+Time sleep: 10000
+Sent request at 1711548501531801993
+Read reply: 1711548501531875261
+Time taken: 72956
+Time sleep: 10000
+Sent request at 1711548501541992326
+Read reply: 1711548501542065241
+Time taken: 72922
+Time sleep: 10000
+Sent request at 1711548501552182556
+Read reply: 1711548501552255684
+Time taken: 72808
+Time sleep: 10000
+Sent request at 1711548501562372729
+Read reply: 1711548501562444407
+Time taken: 71656
+Time sleep: 10000
+Sent request at 1711548501572561236
+Read reply: 1711548501572634296
+Time taken: 72949
+Time sleep: 10000
+Sent request at 1711548501582751147
+Read reply: 1711548501582821588
+Time taken: 70309
+Time sleep: 10000
+Sent request at 1711548501592924328
+Read reply: 1711548501592994636
+Time taken: 70324
+Time sleep: 10000
+Sent request at 1711548501603111542
+Read reply: 1711548501603183165
+Time taken: 71618
+Time sleep: 10000
+Sent request at 1711548501613299851
+Read reply: 1711548501613369149
+Time taken: 69520
+Time sleep: 10000
+Sent request at 1711548501623486614
+Read reply: 1711548501623559105
+Time taken: 72481
+Time sleep: 10000
+Sent request at 1711548501633676110
+Read reply: 1711548501633745163
+Time taken: 69171
+Time sleep: 10000
+Sent request at 1711548501643862035
+Read reply: 1711548501643933462
+Time taken: 71401
+Time sleep: 10000
+Sent request at 1711548501654050462
+Read reply: 1711548501654122283
+Time taken: 71825
+Time sleep: 10000
+Sent request at 1711548501664239031
+Read reply: 1711548501664309232
+Time taken: 70215
+Time sleep: 10000
+Sent request at 1711548501674426376
+Read reply: 1711548501674495849
+Time taken: 69423
+Time sleep: 10000
+Sent request at 1711548501684612503
+Read reply: 1711548501684682675
+Time taken: 70048
+Time sleep: 10000
+Sent request at 1711548501694799743
+Read reply: 1711548501694872831
+Time taken: 72774
+Time sleep: 10000
+Sent request at 1711548501704990643
+Read reply: 1711548501705061844
+Time taken: 71068
+Time sleep: 10000
+Sent request at 1711548501715178600
+Read reply: 1711548501715250874
+Time taken: 72277
+Time sleep: 10000
+Sent request at 1711548501725367794
+Read reply: 1711548501725439108
+Time taken: 71245
+Time sleep: 10000
+Sent request at 1711548501735555871
+Read reply: 1711548501735628167
+Time taken: 72395
+Time sleep: 10000
+Sent request at 1711548501745745202
+Read reply: 1711548501745817846
+Time taken: 72599
+Time sleep: 10000
+Sent request at 1711548501755934635
+Read reply: 1711548501756005204
+Time taken: 70528
+Time sleep: 10000
+Sent request at 1711548501766122329
+Read reply: 1711548501766193123
+Time taken: 70850
+Time sleep: 10000
+Sent request at 1711548501776309855
+Read reply: 1711548501776378917
+Time taken: 69015
+Time sleep: 10000
+Sent request at 1711548501786496458
+Read reply: 1711548501786568383
+Time taken: 71839
+Time sleep: 10000
+Sent request at 1711548501796685285
+Read reply: 1711548501796755736
+Time taken: 70324
+Time sleep: 10000
+Sent request at 1711548501806872536
+Read reply: 1711548501806945296
+Time taken: 72771
+Time sleep: 10000
+Sent request at 1711548501817062650
+Read reply: 1711548501817137222
+Time taken: 74506
+Time sleep: 10000
+Sent request at 1711548501827253976
+Read reply: 1711548501827324592
+Time taken: 70621
+Time sleep: 10000
+Sent request at 1711548501837441385
+Read reply: 1711548501837510757
+Time taken: 69537
+Time sleep: 10000
+Sent request at 1711548501847627415
+Read reply: 1711548501847699987
+Time taken: 72470
+Time sleep: 10000
+Sent request at 1711548501857816471
+Read reply: 1711548501857888370
+Time taken: 71910
+Time sleep: 10000
+Sent request at 1711548501868005232
+Read reply: 1711548501868077795
+Time taken: 72580
+Time sleep: 10000
+Sent request at 1711548501878194451
+Read reply: 1711548501878266074
+Time taken: 71484
+Time sleep: 10000
+Sent request at 1711548501888383063
+Read reply: 1711548501888452626
+Time taken: 69395
+Time sleep: 10000
+Sent request at 1711548501898569191
+Read reply: 1711548501898639675
+Time taken: 70378
+Time sleep: 10000
+Sent request at 1711548501908756733
+Read reply: 1711548501908828427
+Time taken: 71699
+Time sleep: 10000
+Sent request at 1711548501918945310
+Read reply: 1711548501919016323
+Time taken: 71418
+Time sleep: 10000
+Sent request at 1711548501929133893
+Read reply: 1711548501929205302
+Time taken: 71380
+Time sleep: 10000
+Sent request at 1711548501939322130
+Read reply: 1711548501939394128
+Time taken: 72011
+Time sleep: 10000
+Sent request at 1711548501949510864
+Read reply: 1711548501949582541
+Time taken: 71496
+Time sleep: 10000
+Sent request at 1711548501959699641
+Read reply: 1711548501959767972
+Time taken: 68398
+Time sleep: 10000
+Sent request at 1711548501969884610
+Read reply: 1711548501969956446
+Time taken: 71922
+Time sleep: 10000
+Sent request at 1711548501980073008
+Read reply: 1711548501980144352
+Time taken: 71506
+Time sleep: 10000
+Sent request at 1711548501990261437
+Read reply: 1711548501990333272
+Time taken: 71861
+Time sleep: 10000
+Sent request at 1711548502000450375
+Read reply: 1711548502000521099
+Time taken: 70919
+Time sleep: 10000
+Sent request at 1711548502010642797
+Read reply: 1711548502010723684
+Time taken: 79511
+Time sleep: 10000
+Sent request at 1711548502020842377
+Read reply: 1711548502020917121
+Time taken: 74624
+Time sleep: 10000
+Sent request at 1711548502031034591
+Read reply: 1711548502031107286
+Time taken: 72442
+Time sleep: 10000
+Sent request at 1711548502041224719
+Read reply: 1711548502041298664
+Time taken: 73696
+Time sleep: 10000
+Sent request at 1711548502051415807
+Read reply: 1711548502051496621
+Time taken: 80623
+Time sleep: 10000
+Sent request at 1711548502061614090
+Read reply: 1711548502061684038
+Time taken: 69843
+Time sleep: 10000
+Sent request at 1711548502071801762
+Read reply: 1711548502071872189
+Time taken: 70373
+Time sleep: 10000
+Sent request at 1711548502081989481
+Read reply: 1711548502082057780
+Time taken: 68256
+Time sleep: 10000
+Sent request at 1711548502092175123
+Read reply: 1711548502092247585
+Time taken: 72377
+Time sleep: 10000
+Sent request at 1711548502102364704
+Read reply: 1711548502102472629
+Time taken: 107986
+Time sleep: 10000
+Sent request at 1711548502112589957
+Read reply: 1711548502112663948
+Time taken: 73887
+Time sleep: 10000
+Sent request at 1711548502122780977
+Read reply: 1711548502122851532
+Time taken: 70456
+Time sleep: 10000
+Sent request at 1711548502132924092
+Read reply: 1711548502132994599
+Time taken: 70417
+Time sleep: 10000
+Sent request at 1711548502143111958
+Read reply: 1711548502143185071
+Time taken: 72968
+Time sleep: 10000
+Sent request at 1711548502153302315
+Read reply: 1711548502153372973
+Time taken: 70542
+Time sleep: 10000
+Sent request at 1711548502163490209
+Read reply: 1711548502163562600
+Time taken: 72478
+Time sleep: 10000
+Sent request at 1711548502173680037
+Read reply: 1711548502173750994
+Time taken: 70800
+Time sleep: 10000
+Sent request at 1711548502183868554
+Read reply: 1711548502183944203
+Time taken: 75526
+Time sleep: 10000
+Sent request at 1711548502194061127
+Read reply: 1711548502194135101
+Time taken: 73865
+Time sleep: 10000
+Sent request at 1711548502204251841
+Read reply: 1711548502204324469
+Time taken: 72622
+Time sleep: 10000
+Sent request at 1711548502214441610
+Read reply: 1711548502214513285
+Time taken: 71715
+Time sleep: 10000
+Sent request at 1711548502224630260
+Read reply: 1711548502224700817
+Time taken: 70701
+Time sleep: 10000
+Sent request at 1711548502234818376
+Read reply: 1711548502234890828
+Time taken: 72408
+Time sleep: 10000
+Sent request at 1711548502245008479
+Read reply: 1711548502245079740
+Time taken: 71245
+Time sleep: 10000
+Sent request at 1711548502255196997
+Read reply: 1711548502255268754
+Time taken: 71792
+Time sleep: 10000
+Sent request at 1711548502265385711
+Read reply: 1711548502265456395
+Time taken: 70586
+Time sleep: 10000
+Sent request at 1711548502275573258
+Read reply: 1711548502275644519
+Time taken: 71166
+Time sleep: 10000
+Sent request at 1711548502285761521
+Read reply: 1711548502285831525
+Time taken: 69708
+Time sleep: 10000
+Sent request at 1711548502295948065
+Read reply: 1711548502296020166
+Time taken: 72071
+Time sleep: 10000
+Sent request at 1711548502306136955
+Read reply: 1711548502306209140
+Time taken: 72151
+Time sleep: 10000
+Sent request at 1711548502316326007
+Read reply: 1711548502316399188
+Time taken: 73219
+Time sleep: 10000
+Sent request at 1711548502326516253
+Read reply: 1711548502326588956
+Time taken: 72782
+Time sleep: 10000
+Sent request at 1711548502336706194
+Read reply: 1711548502336779111
+Time taken: 72772
+Time sleep: 10000
+Sent request at 1711548502346895956
+Read reply: 1711548502346973857
+Time taken: 78568
+Time sleep: 10000
+Sent request at 1711548502357093058
+Read reply: 1711548502357165900
+Time taken: 72603
+Time sleep: 10000
+Sent request at 1711548502367282633
+Read reply: 1711548502367355284
+Time taken: 72422
+Time sleep: 10000
+Sent request at 1711548502377472173
+Read reply: 1711548502377542665
+Time taken: 70560
+Time sleep: 10000
+Sent request at 1711548502387659162
+Read reply: 1711548502387732290
+Time taken: 73030
+Time sleep: 10000
+Sent request at 1711548502397849646
+Read reply: 1711548502397919902
+Time taken: 69982
+Time sleep: 10000
+Sent request at 1711548502408038124
+Read reply: 1711548502408113150
+Time taken: 74314
+Time sleep: 10000
+Sent request at 1711548502418230625
+Read reply: 1711548502418312734
+Time taken: 81899
+Time sleep: 10000
+Sent request at 1711548502428430077
+Read reply: 1711548502428501979
+Time taken: 71896
+Time sleep: 10000
+Sent request at 1711548502438619076
+Read reply: 1711548502438690142
+Time taken: 71001
+Time sleep: 10000
+Sent request at 1711548502448807693
+Read reply: 1711548502448878031
+Time taken: 70172
+Time sleep: 10000
+Sent request at 1711548502458966562
+Read reply: 1711548502459040728
+Time taken: 73986
+Time sleep: 10000
+Sent request at 1711548502469158167
+Read reply: 1711548502469230601
+Time taken: 72337
+Time sleep: 10000
+Sent request at 1711548502479348047
+Read reply: 1711548502479418606
+Time taken: 70441
+Time sleep: 10000
+Sent request at 1711548502489535878
+Read reply: 1711548502489607320
+Time taken: 71230
+Time sleep: 10000
+Sent request at 1711548502499725054
+Read reply: 1711548502499797983
+Time taken: 72927
+Time sleep: 10000
+Sent request at 1711548502509915253
+Read reply: 1711548502509984969
+Time taken: 69540
+Time sleep: 10000
+Sent request at 1711548502520103218
+Read reply: 1711548502520176630
+Time taken: 73142
+Time sleep: 10000
+Sent request at 1711548502530293960
+Read reply: 1711548502530363490
+Time taken: 69275
+Time sleep: 10000
+Sent request at 1711548502540480257
+Read reply: 1711548502540551748
+Time taken: 71342
+Time sleep: 10000
+Sent request at 1711548502550668711
+Read reply: 1711548502550740780
+Time taken: 72105
+Time sleep: 10000
+Sent request at 1711548502560858045
+Read reply: 1711548502560929356
+Time taken: 71011
+Time sleep: 10000
+Sent request at 1711548502571046416
+Read reply: 1711548502571119665
+Time taken: 73255
+Time sleep: 10000
+Sent request at 1711548502581236623
+Read reply: 1711548502581306383
+Time taken: 69803
+Time sleep: 10000
+Sent request at 1711548502591423112
+Read reply: 1711548502591492712
+Time taken: 69718
+Time sleep: 10000
+Sent request at 1711548502601609704
+Read reply: 1711548502601682322
+Time taken: 72356
+Time sleep: 10000
+Sent request at 1711548502611798770
+Read reply: 1711548502611870701
+Time taken: 71976
+Time sleep: 10000
+Sent request at 1711548502621987654
+Read reply: 1711548502622060394
+Time taken: 72620
+Time sleep: 10000
+Sent request at 1711548502632177340
+Read reply: 1711548502632249316
+Time taken: 71653
+Time sleep: 10000
+Sent request at 1711548502642366453
+Read reply: 1711548502642439074
+Time taken: 72614
+Time sleep: 10000
+Sent request at 1711548502652555964
+Read reply: 1711548502652626679
+Time taken: 70661
+Time sleep: 10000
+Sent request at 1711548502662743588
+Read reply: 1711548502662814644
+Time taken: 70982
+Time sleep: 10000
+Sent request at 1711548502672925349
+Read reply: 1711548502672995917
+Time taken: 70213
+Time sleep: 10000
+Sent request at 1711548502683112780
+Read reply: 1711548502683252439
+Time taken: 139636
+Time sleep: 10000
+Sent request at 1711548502693369806
+Read reply: 1711548502693446097
+Time taken: 75965
+Time sleep: 10000
+Sent request at 1711548502703563019
+Read reply: 1711548502703633111
+Time taken: 70024
+Time sleep: 10000
+Sent request at 1711548502713749785
+Read reply: 1711548502713821808
+Time taken: 71857
+Time sleep: 10000
+Sent request at 1711548502723938594
+Read reply: 1711548502724010660
+Time taken: 72036
+Time sleep: 10000
+Sent request at 1711548502734127411
+Read reply: 1711548502734196668
+Time taken: 69320
+Time sleep: 10000
+Sent request at 1711548502744313802
+Read reply: 1711548502744383799
+Time taken: 69988
+Time sleep: 10000
+Sent request at 1711548502754500789
+Read reply: 1711548502754571645
+Time taken: 70723
+Time sleep: 10000
+Sent request at 1711548502764688518
+Read reply: 1711548502764759065
+Time taken: 70321
+Time sleep: 10000
+Sent request at 1711548502774876081
+Read reply: 1711548502774947359
+Time taken: 71219
+Time sleep: 10000
+Sent request at 1711548502785064690
+Read reply: 1711548502785135358
+Time taken: 70672
+Time sleep: 10000
+Sent request at 1711548502795252374
+Read reply: 1711548502795326031
+Time taken: 73648
+Time sleep: 10000
+Sent request at 1711548502805442955
+Read reply: 1711548502805510541
+Time taken: 67471
+Time sleep: 10000
+Sent request at 1711548502815627337
+Read reply: 1711548502815699749
+Time taken: 72298
+Time sleep: 10000
+Sent request at 1711548502825816535
+Read reply: 1711548502825886952
+Time taken: 70163
+Time sleep: 10000
+Sent request at 1711548502836003437
+Read reply: 1711548502836075641
+Time taken: 72080
+Time sleep: 10000
+Sent request at 1711548502846192406
+Read reply: 1711548502846262852
+Time taken: 70581
+Time sleep: 10000
+Sent request at 1711548502856379572
+Read reply: 1711548502856450133
+Time taken: 70285
+Time sleep: 10000
+Sent request at 1711548502866566955
+Read reply: 1711548502866636604
+Time taken: 69609
+Time sleep: 10000
+Sent request at 1711548502876753465
+Read reply: 1711548502876824921
+Time taken: 71398
+Time sleep: 10000
+Sent request at 1711548502886941835
+Read reply: 1711548502887013778
+Time taken: 72115
+Time sleep: 10000
+Sent request at 1711548502897131254
+Read reply: 1711548502897203660
+Time taken: 72279
+Time sleep: 10000
+Sent request at 1711548502907320516
+Read reply: 1711548502907392665
+Time taken: 72037
+Time sleep: 10000
+Sent request at 1711548502917509410
+Read reply: 1711548502917582116
+Time taken: 72641
+Time sleep: 10000
+Sent request at 1711548502927698910
+Read reply: 1711548502927770457
+Time taken: 71501
+Time sleep: 10000
+Sent request at 1711548502937887806
+Read reply: 1711548502937961488
+Time taken: 73557
+Time sleep: 10000
+Sent request at 1711548502948078750
+Read reply: 1711548502948150393
+Time taken: 71011
+Time sleep: 10000
+Sent request at 1711548502958267235
+Read reply: 1711548502958340453
+Time taken: 73044
+Time sleep: 10000
+Sent request at 1711548502968457490
+Read reply: 1711548502968527446
+Time taken: 69868
+Time sleep: 10000
+Sent request at 1711548502978644459
+Read reply: 1711548502978715498
+Time taken: 71104
+Time sleep: 10000
+Sent request at 1711548502988832376
+Read reply: 1711548502988903068
+Time taken: 70704
+Time sleep: 10000
+Sent request at 1711548502999019776
+Read reply: 1711548502999094016
+Time taken: 74311
+Time sleep: 10000
+Sent request at 1711548503009212032
+Read reply: 1711548503009284200
+Time taken: 71610
+Time sleep: 10000
+Sent request at 1711548503019400681
+Read reply: 1711548503019472030
+Time taken: 71297
+Time sleep: 10000
+Sent request at 1711548503029589384
+Read reply: 1711548503029661971
+Time taken: 72493
+Time sleep: 10000
+Sent request at 1711548503039778740
+Read reply: 1711548503039848048
+Time taken: 69104
+Time sleep: 10000
+Sent request at 1711548503049965039
+Read reply: 1711548503050044404
+Time taken: 79386
+Time sleep: 10000
+Sent request at 1711548503060160944
+Read reply: 1711548503060232099
+Time taken: 71229
+Time sleep: 10000
+Sent request at 1711548503070348675
+Read reply: 1711548503070419955
+Time taken: 71188
+Time sleep: 10000
+Sent request at 1711548503080536822
+Read reply: 1711548503080613051
+Time taken: 76347
+Time sleep: 10000
+Sent request at 1711548503090730350
+Read reply: 1711548503090801370
+Time taken: 71077
+Time sleep: 10000
+Sent request at 1711548503100921072
+Read reply: 1711548503100991246
+Time taken: 70128
+Time sleep: 10000
+Sent request at 1711548503111108101
+Read reply: 1711548503111178689
+Time taken: 70458
+Time sleep: 10000
+Sent request at 1711548503121295245
+Read reply: 1711548503121365127
+Time taken: 69810
+Time sleep: 10000
+Sent request at 1711548503131481890
+Read reply: 1711548503131552576
+Time taken: 70568
+Time sleep: 10000
+Sent request at 1711548503141669291
+Read reply: 1711548503141739355
+Time taken: 69919
+Time sleep: 10000
+Sent request at 1711548503151856344
+Read reply: 1711548503151926315
+Time taken: 69989
+Time sleep: 10000
+Sent request at 1711548503162043106
+Read reply: 1711548503162113065
+Time taken: 69785
+Time sleep: 10000
+Sent request at 1711548503172229907
+Read reply: 1711548503172300322
+Time taken: 70353
+Time sleep: 10000
+Sent request at 1711548503182417206
+Read reply: 1711548503182490312
+Time taken: 72985
+Time sleep: 10000
+Sent request at 1711548503192607135
+Read reply: 1711548503192676673
+Time taken: 69420
+Time sleep: 10000
+Sent request at 1711548503202793163
+Read reply: 1711548503202866243
+Time taken: 73031
+Time sleep: 10000
+Sent request at 1711548503212983684
+Read reply: 1711548503213055248
+Time taken: 71616
+Time sleep: 10000
+Sent request at 1711548503223172059
+Read reply: 1711548503223242046
+Time taken: 70006
+Time sleep: 10000
+Sent request at 1711548503233358566
+Read reply: 1711548503233428611
+Time taken: 70105
+Time sleep: 10000
+Sent request at 1711548503243545442
+Read reply: 1711548503243617247
+Time taken: 71681
+Time sleep: 10000
+Sent request at 1711548503253734071
+Read reply: 1711548503253806672
+Time taken: 72435
+Time sleep: 10000
+Sent request at 1711548503263923339
+Read reply: 1711548503264027949
+Time taken: 104670
+Time sleep: 10000
+Sent request at 1711548503274145205
+Read reply: 1711548503274216393
+Time taken: 71100
+Time sleep: 10000
+Sent request at 1711548503284332758
+Read reply: 1711548503284405478
+Time taken: 72574
+Time sleep: 10000
+Sent request at 1711548503294522392
+Read reply: 1711548503294596144
+Time taken: 73632
+Time sleep: 10000
+Sent request at 1711548503304713030
+Read reply: 1711548503304784414
+Time taken: 71311
+Time sleep: 10000
+Sent request at 1711548503314901664
+Read reply: 1711548503314974824
+Time taken: 73271
+Time sleep: 10000
+Sent request at 1711548503325091985
+Read reply: 1711548503325169091
+Time taken: 77053
+Time sleep: 10000
+Sent request at 1711548503335285714
+Read reply: 1711548503335356759
+Time taken: 70876
+Time sleep: 10000
+Sent request at 1711548503345473411
+Read reply: 1711548503345544327
+Time taken: 70710
+Time sleep: 10000
+Sent request at 1711548503355660640
+Read reply: 1711548503355732130
+Time taken: 71482
+Time sleep: 10000
+Sent request at 1711548503365849878
+Read reply: 1711548503365922520
+Time taken: 72398
+Time sleep: 10000
+Sent request at 1711548503376039328
+Read reply: 1711548503376110513
+Time taken: 71378
+Time sleep: 10000
+Sent request at 1711548503386227487
+Read reply: 1711548503386297543
+Time taken: 69922
+Time sleep: 10000
+Sent request at 1711548503396414237
+Read reply: 1711548503396485363
+Time taken: 71211
+Time sleep: 10000
+Sent request at 1711548503406602298
+Read reply: 1711548503406672349
+Time taken: 70005
+Time sleep: 10000
+Sent request at 1711548503416790051
+Read reply: 1711548503416862500
+Time taken: 72049
+Time sleep: 10000
+Sent request at 1711548503426967580
+Read reply: 1711548503427039597
+Time taken: 71893
+Time sleep: 10000
+Sent request at 1711548503437156399
+Read reply: 1711548503437227589
+Time taken: 71153
+Time sleep: 10000
+Sent request at 1711548503447344255
+Read reply: 1711548503447417491
+Time taken: 73058
+Time sleep: 10000
+Sent request at 1711548503457534326
+Read reply: 1711548503457603931
+Time taken: 69521
+Time sleep: 10000
+Sent request at 1711548503467720491
+Read reply: 1711548503467790348
+Time taken: 69892
+Time sleep: 10000
+Sent request at 1711548503477907156
+Read reply: 1711548503477977526
+Time taken: 70380
+Time sleep: 10000
+Sent request at 1711548503488094274
+Read reply: 1711548503488165424
+Time taken: 71039
+Time sleep: 10000
+Sent request at 1711548503498282182
+Read reply: 1711548503498354699
+Time taken: 72581
+Time sleep: 10000
+Sent request at 1711548503508471726
+Read reply: 1711548503508543356
+Time taken: 71462
+Time sleep: 10000
+Sent request at 1711548503518660061
+Read reply: 1711548503518731154
+Time taken: 71239
+Time sleep: 10000
+Sent request at 1711548503528848435
+Read reply: 1711548503528919637
+Time taken: 71133
+Time sleep: 10000
+Sent request at 1711548503539036088
+Read reply: 1711548503539105539
+Time taken: 69357
+Time sleep: 10000
+Sent request at 1711548503549223058
+Read reply: 1711548503549298796
+Time taken: 75412
+Time sleep: 10000
+Sent request at 1711548503559415695
+Read reply: 1711548503559489874
+Time taken: 74264
+Time sleep: 10000
+Sent request at 1711548503569606707
+Read reply: 1711548503569676343
+Time taken: 69576
+Time sleep: 10000
+Sent request at 1711548503579793362
+Read reply: 1711548503579863925
+Time taken: 70251
+Time sleep: 10000
+Sent request at 1711548503589980675
+Read reply: 1711548503590052414
+Time taken: 71691
+Time sleep: 10000
+Sent request at 1711548503600169123
+Read reply: 1711548503600240941
+Time taken: 71710
+Time sleep: 10000
+Sent request at 1711548503610357871
+Read reply: 1711548503610429664
+Time taken: 71810
+Time sleep: 10000
+Sent request at 1711548503620546345
+Read reply: 1711548503620617401
+Time taken: 70988
+Time sleep: 10000
+Sent request at 1711548503630734508
+Read reply: 1711548503630807779
+Time taken: 73208
+Time sleep: 10000
+Sent request at 1711548503640924828
+Read reply: 1711548503640995257
+Time taken: 70501
+Time sleep: 10000
+Sent request at 1711548503651112062
+Read reply: 1711548503651183098
+Time taken: 70927
+Time sleep: 10000
+Sent request at 1711548503661299791
+Read reply: 1711548503661370465
+Time taken: 70495
+Time sleep: 10000
+Sent request at 1711548503671486757
+Read reply: 1711548503671556833
+Time taken: 70012
+Time sleep: 10000
+Sent request at 1711548503681673421
+Read reply: 1711548503681744593
+Time taken: 71125
+Time sleep: 10000
+Sent request at 1711548503691861812
+Read reply: 1711548503691931690
+Time taken: 69951
+Time sleep: 10000
+Sent request at 1711548503702048596
+Read reply: 1711548503702122120
+Time taken: 73461
+Time sleep: 10000
+Sent request at 1711548503712238598
+Read reply: 1711548503712311421
+Time taken: 72836
+Time sleep: 10000
+Sent request at 1711548503722428176
+Read reply: 1711548503722500362
+Time taken: 72208
+Time sleep: 10000
+Sent request at 1711548503732617153
+Read reply: 1711548503732688336
+Time taken: 71137
+Time sleep: 10000
+Sent request at 1711548503742805115
+Read reply: 1711548503742877208
+Time taken: 72118
+Time sleep: 10000
+Sent request at 1711548503752994432
+Read reply: 1711548503753066446
+Time taken: 71882
+Time sleep: 10000
+Sent request at 1711548503763183237
+Read reply: 1711548503763254975
+Time taken: 71865
+Time sleep: 10000
+Sent request at 1711548503773371922
+Read reply: 1711548503773442924
+Time taken: 71044
+Time sleep: 10000
+Sent request at 1711548503783559891
+Read reply: 1711548503783631316
+Time taken: 71358
+Time sleep: 10000
+Sent request at 1711548503793748092
+Read reply: 1711548503793819744
+Time taken: 71551
+Time sleep: 10000
+Sent request at 1711548503803936427
+Read reply: 1711548503804005702
+Time taken: 69101
+Time sleep: 10000
+Sent request at 1711548503814122456
+Read reply: 1711548503814189619
+Time taken: 66993
+Time sleep: 10000
+Sent request at 1711548503824306206
+Read reply: 1711548503824379574
+Time taken: 73121
+Time sleep: 10000
+Sent request at 1711548503834496341
+Read reply: 1711548503834569280
+Time taken: 72877
+Time sleep: 10000
+Sent request at 1711548503844685920
+Read reply: 1711548503844793428
+Time taken: 107633
+Time sleep: 10000
+Sent request at 1711548503854910277
+Read reply: 1711548503854981636
+Time taken: 71235
+Time sleep: 10000
+Sent request at 1711548503865098762
+Read reply: 1711548503865169979
+Time taken: 71194
+Time sleep: 10000
+Sent request at 1711548503875286928
+Read reply: 1711548503875357373
+Time taken: 70376
+Time sleep: 10000
+Sent request at 1711548503885474156
+Read reply: 1711548503885545855
+Time taken: 71450
+Time sleep: 10000
+Sent request at 1711548503895662333
+Read reply: 1711548503895732872
+Time taken: 70487
+Time sleep: 10000
+Sent request at 1711548503905849681
+Read reply: 1711548503905922493
+Time taken: 72807
+Time sleep: 10000
+Sent request at 1711548503916039201
+Read reply: 1711548503916113005
+Time taken: 73801
+Time sleep: 10000
+Sent request at 1711548503926229667
+Read reply: 1711548503926300041
+Time taken: 70350
+Time sleep: 10000
+Sent request at 1711548503936416763
+Read reply: 1711548503936488209
+Time taken: 71458
+Time sleep: 10000
+Sent request at 1711548503946605189
+Read reply: 1711548503946676918
+Time taken: 71841
+Time sleep: 10000
+Sent request at 1711548503956793978
+Read reply: 1711548503956864792
+Time taken: 70656
+Time sleep: 10000
+Sent request at 1711548503966966544
+Read reply: 1711548503967038920
+Time taken: 72330
+Time sleep: 10000
+Sent request at 1711548503977155925
+Read reply: 1711548503977226433
+Time taken: 70552
+Time sleep: 10000
+Sent request at 1711548503987342866
+Read reply: 1711548503987416135
+Time taken: 73241
+Time sleep: 10000
+Sent request at 1711548503997532923
+Read reply: 1711548503997603706
+Time taken: 70617
+Time sleep: 10000
+Sent request at 1711548504007720228
+Read reply: 1711548504007790114
+Time taken: 69883
+Time sleep: 10000
+Sent request at 1711548504017907439
+Read reply: 1711548504017979729
+Time taken: 71997
+Time sleep: 10000
+Sent request at 1711548504028097056
+Read reply: 1711548504028168792
+Time taken: 71548
+Time sleep: 10000
+Sent request at 1711548504038285582
+Read reply: 1711548504038356958
+Time taken: 71334
+Time sleep: 10000
+Sent request at 1711548504048473607
+Read reply: 1711548504048547311
+Time taken: 73641
+Time sleep: 10000
+Sent request at 1711548504058664028
+Read reply: 1711548504058733595
+Time taken: 69633
+Time sleep: 10000
+Sent request at 1711548504068850580
+Read reply: 1711548504068922631
+Time taken: 71928
+Time sleep: 10000
+Sent request at 1711548504079039023
+Read reply: 1711548504079108894
+Time taken: 69710
+Time sleep: 10000
+Sent request at 1711548504089225756
+Read reply: 1711548504089298362
+Time taken: 72488
+Time sleep: 10000
+Sent request at 1711548504099415383
+Read reply: 1711548504099485768
+Time taken: 70255
+Time sleep: 10000
+Sent request at 1711548504109602484
+Read reply: 1711548504109673702
+Time taken: 71102
+Time sleep: 10000
+Sent request at 1711548504119790388
+Read reply: 1711548504119862520
+Time taken: 72016
+Time sleep: 10000
+Sent request at 1711548504129979335
+Read reply: 1711548504130051354
+Time taken: 71957
+Time sleep: 10000
+Sent request at 1711548504140168162
+Read reply: 1711548504140239479
+Time taken: 71269
+Time sleep: 10000
+Sent request at 1711548504150356509
+Read reply: 1711548504150430096
+Time taken: 73428
+Time sleep: 10000
+Sent request at 1711548504160546649
+Read reply: 1711548504160616927
+Time taken: 70321
+Time sleep: 10000
+Sent request at 1711548504170733647
+Read reply: 1711548504170806096
+Time taken: 72523
+Time sleep: 10000
+Sent request at 1711548504180923903
+Read reply: 1711548504180993012
+Time taken: 69064
+Time sleep: 10000
+Sent request at 1711548504191110455
+Read reply: 1711548504191183994
+Time taken: 73054
+Time sleep: 10000
+Sent request at 1711548504201300937
+Read reply: 1711548504201370942
+Time taken: 69900
+Time sleep: 10000
+Sent request at 1711548504211487804
+Read reply: 1711548504211558961
+Time taken: 71202
+Time sleep: 10000
+Sent request at 1711548504221675777
+Read reply: 1711548504221745769
+Time taken: 69857
+Time sleep: 10000
+Sent request at 1711548504231862350
+Read reply: 1711548504231933723
+Time taken: 71228
+Time sleep: 10000
+Sent request at 1711548504242050411
+Read reply: 1711548504242120365
+Time taken: 69831
+Time sleep: 10000
+Sent request at 1711548504252237121
+Read reply: 1711548504252310293
+Time taken: 73056
+Time sleep: 10000
+Sent request at 1711548504262427285
+Read reply: 1711548504262497988
+Time taken: 70626
+Time sleep: 10000
+Sent request at 1711548504272615495
+Read reply: 1711548504272688041
+Time taken: 72379
+Time sleep: 10000
+Sent request at 1711548504282804901
+Read reply: 1711548504282874215
+Time taken: 69202
+Time sleep: 10000
+Sent request at 1711548504292991334
+Read reply: 1711548504293063592
+Time taken: 72216
+Time sleep: 10000
+Sent request at 1711548504303180263
+Read reply: 1711548504303250936
+Time taken: 70558
+Time sleep: 10000
+Sent request at 1711548504313367787
+Read reply: 1711548504313440087
+Time taken: 72285
+Time sleep: 10000
+Sent request at 1711548504323556673
+Read reply: 1711548504323629305
+Time taken: 72494
+Time sleep: 10000
+Sent request at 1711548504333746194
+Read reply: 1711548504333818146
+Time taken: 71896
+Time sleep: 10000
+Sent request at 1711548504343934709
+Read reply: 1711548504344007319
+Time taken: 72463
+Time sleep: 10000
+Sent request at 1711548504354123937
+Read reply: 1711548504354195687
+Time taken: 71715
+Time sleep: 10000
+Sent request at 1711548504364312521
+Read reply: 1711548504364384025
+Time taken: 71499
+Time sleep: 10000
+Sent request at 1711548504374501120
+Read reply: 1711548504374572529
+Time taken: 71180
+Time sleep: 10000
+Sent request at 1711548504384689060
+Read reply: 1711548504384759745
+Time taken: 70260
+Time sleep: 10000
+Sent request at 1711548504394876355
+Read reply: 1711548504394947916
+Time taken: 71474
+Time sleep: 10000
+Sent request at 1711548504405064839
+Read reply: 1711548504405135207
+Time taken: 70205
+Time sleep: 10000
+Sent request at 1711548504415252141
+Read reply: 1711548504415323128
+Time taken: 70609
+Time sleep: 10000
+Sent request at 1711548504425439877
+Read reply: 1711548504425547081
+Time taken: 107273
+Time sleep: 10000
+Sent request at 1711548504435663957
+Read reply: 1711548504435736104
+Time taken: 72098
+Time sleep: 10000
+Sent request at 1711548504445853113
+Read reply: 1711548504445923768
+Time taken: 70655
+Time sleep: 10000
+Sent request at 1711548504456040304
+Read reply: 1711548504456115741
+Time taken: 75246
+Time sleep: 10000
+Sent request at 1711548504466232492
+Read reply: 1711548504466313634
+Time taken: 80990
+Time sleep: 10000
+Sent request at 1711548504476430479
+Read reply: 1711548504476504885
+Time taken: 74302
+Time sleep: 10000
+Sent request at 1711548504486621719
+Read reply: 1711548504486691081
+Time taken: 69370
+Time sleep: 10000
+Sent request at 1711548504496807910
+Read reply: 1711548504496877960
+Time taken: 69856
+Time sleep: 10000
+Sent request at 1711548504506965845
+Read reply: 1711548504507038136
+Time taken: 72117
+Time sleep: 10000
+Sent request at 1711548504517154870
+Read reply: 1711548504517223213
+Time taken: 68368
+Time sleep: 10000
+Sent request at 1711548504527340332
+Read reply: 1711548504527412585
+Time taken: 72196
+Time sleep: 10000
+Sent request at 1711548504537529497
+Read reply: 1711548504537600077
+Time taken: 70531
+Time sleep: 10000
+Sent request at 1711548504547716707
+Read reply: 1711548504547787516
+Time taken: 70695
+Time sleep: 10000
+Sent request at 1711548504557904444
+Read reply: 1711548504557975467
+Time taken: 70901
+Time sleep: 10000
+Sent request at 1711548504568092104
+Read reply: 1711548504568162604
+Time taken: 70309
+Time sleep: 10000
+Sent request at 1711548504578279409
+Read reply: 1711548504578348449
+Time taken: 68825
+Time sleep: 10000
+Sent request at 1711548504588465407
+Read reply: 1711548504588538476
+Time taken: 73031
+Time sleep: 10000
+Sent request at 1711548504598655485
+Read reply: 1711548504598724986
+Time taken: 69578
+Time sleep: 10000
+Sent request at 1711548504608841959
+Read reply: 1711548504608912222
+Time taken: 70095
+Time sleep: 10000
+Sent request at 1711548504619028630
+Read reply: 1711548504619102957
+Time taken: 74335
+Time sleep: 10000
+Sent request at 1711548504629219864
+Read reply: 1711548504629292975
+Time taken: 73013
+Time sleep: 10000
+Sent request at 1711548504639409766
+Read reply: 1711548504639481238
+Time taken: 71401
+Time sleep: 10000
+Sent request at 1711548504649597812
+Read reply: 1711548504649667960
+Time taken: 70088
+Time sleep: 10000
+Sent request at 1711548504659784670
+Read reply: 1711548504659856935
+Time taken: 72158
+Time sleep: 10000
+Sent request at 1711548504669973639
+Read reply: 1711548504670045550
+Time taken: 71855
+Time sleep: 10000
+Sent request at 1711548504680162080
+Read reply: 1711548504680234369
+Time taken: 72236
+Time sleep: 10000
+Sent request at 1711548504690351129
+Read reply: 1711548504690421362
+Time taken: 70258
+Time sleep: 10000
+Sent request at 1711548504700537925
+Read reply: 1711548504700607949
+Time taken: 70053
+Time sleep: 10000
+Sent request at 1711548504710724800
+Read reply: 1711548504710795525
+Time taken: 70808
+Time sleep: 10000
+Sent request at 1711548504720912358
+Read reply: 1711548504720982915
+Time taken: 70513
+Time sleep: 10000
+Sent request at 1711548504731099906
+Read reply: 1711548504731166289
+Time taken: 66360
+Time sleep: 10000
+Sent request at 1711548504741283206
+Read reply: 1711548504741358501
+Time taken: 75321
+Time sleep: 10000
+Sent request at 1711548504751475193
+Read reply: 1711548504751547381
+Time taken: 72106
+Time sleep: 10000
+Sent request at 1711548504761664111
+Read reply: 1711548504761735398
+Time taken: 71230
+Time sleep: 10000
+Sent request at 1711548504771852235
+Read reply: 1711548504771921899
+Time taken: 69839
+Time sleep: 10000
+Sent request at 1711548504782038683
+Read reply: 1711548504782110954
+Time taken: 72268
+Time sleep: 10000
+Sent request at 1711548504792228151
+Read reply: 1711548504792299803
+Time taken: 71368
+Time sleep: 10000
+Sent request at 1711548504802416748
+Read reply: 1711548504802488997
+Time taken: 72001
+Time sleep: 10000
+Sent request at 1711548504812605582
+Read reply: 1711548504812677421
+Time taken: 71794
+Time sleep: 10000
+Sent request at 1711548504822794065
+Read reply: 1711548504822865100
+Time taken: 70857
+Time sleep: 10000
+Sent request at 1711548504832982452
+Read reply: 1711548504833052561
+Time taken: 70001
+Time sleep: 10000
+Sent request at 1711548504843169169
+Read reply: 1711548504843238557
+Time taken: 69235
+Time sleep: 10000
+Sent request at 1711548504853355403
+Read reply: 1711548504853425639
+Time taken: 70232
+Time sleep: 10000
+Sent request at 1711548504863542223
+Read reply: 1711548504863613340
+Time taken: 71018
+Time sleep: 10000
+Sent request at 1711548504873730205
+Read reply: 1711548504873802481
+Time taken: 72307
+Time sleep: 10000
+Sent request at 1711548504883919337
+Read reply: 1711548504883988607
+Time taken: 69369
+Time sleep: 10000
+Sent request at 1711548504894105415
+Read reply: 1711548504894175237
+Time taken: 69633
+Time sleep: 10000
+Sent request at 1711548504904291637
+Read reply: 1711548504904361333
+Time taken: 69519
+Time sleep: 10000
+Sent request at 1711548504914478021
+Read reply: 1711548504914548596
+Time taken: 70482
+Time sleep: 10000
+Sent request at 1711548504924665347
+Read reply: 1711548504924734649
+Time taken: 69407
+Time sleep: 10000
+Sent request at 1711548504934851596
+Read reply: 1711548504934921722
+Time taken: 70015
+Time sleep: 10000
+Sent request at 1711548504945039733
+Read reply: 1711548504945109654
+Time taken: 69528
+Time sleep: 10000
+Sent request at 1711548504955226632
+Read reply: 1711548504955299770
+Time taken: 72976
+Time sleep: 10000
+Sent request at 1711548504965416505
+Read reply: 1711548504965486413
+Time taken: 69838
+Time sleep: 10000
+Sent request at 1711548504975602926
+Read reply: 1711548504975673354
+Time taken: 70307
+Time sleep: 10000
+Sent request at 1711548504985790387
+Read reply: 1711548504985860963
+Time taken: 70573
+Time sleep: 10000
+Sent request at 1711548504995977661
+Read reply: 1711548504996051848
+Time taken: 74067
+Time sleep: 10000
+Sent request at 1711548505006168398
+Read reply: 1711548505006295503
+Time taken: 127255
+Time sleep: 10000
+Sent request at 1711548505016412339
+Read reply: 1711548505016484341
+Time taken: 72045
+Time sleep: 10000
+Sent request at 1711548505026602305
+Read reply: 1711548505026672269
+Time taken: 69980
+Time sleep: 10000
+Sent request at 1711548505036789846
+Read reply: 1711548505036865328
+Time taken: 75265
+Time sleep: 10000
+Sent request at 1711548505046965417
+Read reply: 1711548505047034464
+Time taken: 68948
+Time sleep: 10000
+Sent request at 1711548505057151788
+Read reply: 1711548505057224288
+Time taken: 72374
+Time sleep: 10000
+Sent request at 1711548505067340895
+Read reply: 1711548505067412021
+Time taken: 70928
+Time sleep: 10000
+Sent request at 1711548505077528571
+Read reply: 1711548505077599987
+Time taken: 71436
+Time sleep: 10000
+Sent request at 1711548505087716814
+Read reply: 1711548505087787216
+Time taken: 70442
+Time sleep: 10000
+Sent request at 1711548505097904222
+Read reply: 1711548505097975016
+Time taken: 70980
+Time sleep: 10000
+Sent request at 1711548505108091937
+Read reply: 1711548505108164269
+Time taken: 72269
+Time sleep: 10000
+Sent request at 1711548505118281556
+Read reply: 1711548505118355672
+Time taken: 73771
+Time sleep: 10000
+Sent request at 1711548505128472601
+Read reply: 1711548505128543393
+Time taken: 70622
+Time sleep: 10000
+Sent request at 1711548505138660260
+Read reply: 1711548505138732947
+Time taken: 72842
+Time sleep: 10000
+Sent request at 1711548505148850130
+Read reply: 1711548505148922508
+Time taken: 72196
+Time sleep: 10000
+Sent request at 1711548505159038901
+Read reply: 1711548505159110597
+Time taken: 71561
+Time sleep: 10000
+Sent request at 1711548505169227035
+Read reply: 1711548505169296869
+Time taken: 69853
+Time sleep: 10000
+Sent request at 1711548505179413464
+Read reply: 1711548505179484490
+Time taken: 70991
+Time sleep: 10000
+Sent request at 1711548505189601280
+Read reply: 1711548505189670705
+Time taken: 69389
+Time sleep: 10000
+Sent request at 1711548505199788495
+Read reply: 1711548505199860878
+Time taken: 72189
+Time sleep: 10000
+Sent request at 1711548505209977443
+Read reply: 1711548505210049175
+Time taken: 71728
+Time sleep: 10000
+Sent request at 1711548505220165815
+Read reply: 1711548505220238078
+Time taken: 72302
+Time sleep: 10000
+Sent request at 1711548505230355013
+Read reply: 1711548505230424768
+Time taken: 69835
+Time sleep: 10000
+Sent request at 1711548505240541461
+Read reply: 1711548505240611940
+Time taken: 70176
+Time sleep: 10000
+Sent request at 1711548505250728610
+Read reply: 1711548505250797777
+Time taken: 69261
+Time sleep: 10000
+Sent request at 1711548505260920636
+Read reply: 1711548505260992325
+Time taken: 71570
+Time sleep: 10000
+Sent request at 1711548505271109062
+Read reply: 1711548505271180435
+Time taken: 71232
+Time sleep: 10000
+Sent request at 1711548505281297954
+Read reply: 1711548505281371089
+Time taken: 73029
+Time sleep: 10000
+Sent request at 1711548505291487808
+Read reply: 1711548505291559975
+Time taken: 72172
+Time sleep: 10000
+Sent request at 1711548505301676824
+Read reply: 1711548505301747507
+Time taken: 70563
+Time sleep: 10000
+Sent request at 1711548505311864219
+Read reply: 1711548505311936531
+Time taken: 72364
+Time sleep: 10000
+Sent request at 1711548505322053232
+Read reply: 1711548505322124362
+Time taken: 70958
+Time sleep: 10000
+Sent request at 1711548505332241105
+Read reply: 1711548505332314061
+Time taken: 73137
