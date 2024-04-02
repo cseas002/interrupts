@@ -1,0 +1,468 @@
+
+--------------------------------------------------------------------------
+Intel(R) SoC Watch for Linux* OS Version 2023.4.0 [Aug 14 2023]
+Build Ref: d424b1e6d9128f442fdc901a2f7f09e75671d271
+Post Processed using SoC Watch for Linux* OS Version 2023.4.0 [Aug 14 2023]
+Post Processed Build Ref: d424b1e6d9128f442fdc901a2f7f09e75671d271
+Copyright (c) 2023 Intel Corporation. All Rights Reserved.
+Platform power analysis tool for use with Intel processors/chipsets/platforms.
+*Other names and brands may be claimed as the property of others. 
+--------------------------------------------------------------------------
+
+Command line options: -f cpu-cstate -m -r int -o TRACE_FIXED_C6_ENABLED_SMT_DISABLED/State=enable/fixed/Pre-req=false/Pre-req-interval=100/Sleep=1000/Warmup-requests=0//Socwatch 
+
+Program Started: N/A
+Data Collection Started: 2024-04-02 23:02:14 GMT 
+Nano Clock Frequency (MHz): 1000 
+CPU Base Operating Frequency (MHz): 2200
+Collection duration (sec): 2.39401
+Collection begin timestamp: 1712098934004558593
+Collection end timestamp: 1712098936398338753
+
+System Name: node0.inter2-no-c220.ucy-cs499-dc-pg0.wisc.cloudlab.us
+Operating System: Linux [5.15.0-86-generic]
+CPU: Skylake Server
+CPU ID (family.model.stepping): 0x6.0x55.0x4
+Platform ID: 0b000
+Integrated GPU Device: NA
+EDRAM Present: No 
+Total # of packages: 2 
+Total # of cores: 20 
+Total # of logical processors: 20
+
+
+
+WARNING: unsupported PCH detected: 0xa1c1
+
+===============
+Package C-State
+===============
+
+Note: PC2 is non-architectural state - software cannot request to go to PC2 explicitly.  PC2 can be a transient state between PC0 and deeper pkgC states.
+Note: PC3 is non-architectural state - software cannot request to go to PC3 explicitly.
+
+
+Package C-State Summary: Residency (Percentage and Time)
+C-State, CPU/Package_0 Residency (%), CPU/Package_1 Residency (%), CPU/Package_0 Residency (msec), CPU/Package_1 Residency (msec)
+-------, ---------------------------, ---------------------------, ------------------------------, ------------------------------
+PC0    , 100.00                     , 100.00                     , 2393.67                       , 2393.67                       
+PC2    , 0.00                       , 0.00                       , 0.00                          , 0.00                          
+PC3    , 0.00                       , 0.00                       , 0.00                          , 0.00                          
+PC6    , 0.00                       , 0.00                       , 0.00                          , 0.00                          
+
+Package C-State Summary: Entry Counts
+C-State, CPU/Package_0 Entry Count, CPU/Package_1 Entry Count
+-------, -------------------------, -------------------------
+PC0    , 1                        , 1                        
+PC2    , 0                        , 0                        
+PC3    , 0                        , 0                        
+PC6    , 0                        , 0                        
+Total  , 1                        , 1                        
+
+============
+Core C-State
+============
+
+CPU Core Concurrency
+# Active Cores, Time Active (%), Time Active (ms)
+--------------, ---------------, ----------------
+0             , 43.06          , 1030.61         
+1             , 16.02          , 383.39          
+2             , 11.71          , 280.36          
+3             , 6.56           , 157.09          
+4             , 16.94          , 405.41          
+5             , 2.83           , 67.77           
+6             , 0.66           , 15.89           
+7             , 0.44           , 10.47           
+8             , 0.37           , 8.89            
+9             , 0.17           , 4.15            
+10            , 0.15           , 3.68            
+11            , 0.07           , 1.64            
+12            , 0.06           , 1.37            
+13            , 0.10           , 2.44            
+14            , 0.06           , 1.49            
+15            , 0.10           , 2.41            
+16            , 0.19           , 4.47            
+17            , 0.17           , 3.95            
+18            , 0.11           , 2.71            
+19            , 0.04           , 0.87            
+20            , 0.19           , 4.61            
+
+Total time during which at least one core was active: 1363.06ms
+
+Core C-State Summary: Residency (Percentage and Time)
+C-State, CPU/Package_0/Die_0/Core_0 Residency (%), CPU/Package_0/Die_0/Core_1 Residency (%), CPU/Package_0/Die_0/Core_2 Residency (%), CPU/Package_0/Die_0/Core_3 Residency (%), CPU/Package_0/Die_0/Core_4 Residency (%), CPU/Package_0/Die_0/Core_8 Residency (%), CPU/Package_0/Die_0/Core_9 Residency (%), CPU/Package_0/Die_0/Core_10 Residency (%), CPU/Package_0/Die_0/Core_11 Residency (%), CPU/Package_0/Die_0/Core_12 Residency (%), CPU/Package_1/Die_0/Core_0 Residency (%), CPU/Package_1/Die_0/Core_1 Residency (%), CPU/Package_1/Die_0/Core_2 Residency (%), CPU/Package_1/Die_0/Core_3 Residency (%), CPU/Package_1/Die_0/Core_4 Residency (%), CPU/Package_1/Die_0/Core_8 Residency (%), CPU/Package_1/Die_0/Core_9 Residency (%), CPU/Package_1/Die_0/Core_10 Residency (%), CPU/Package_1/Die_0/Core_11 Residency (%), CPU/Package_1/Die_0/Core_12 Residency (%), CPU/Package_0/Die_0/Core_0 Residency (msec), CPU/Package_0/Die_0/Core_1 Residency (msec), CPU/Package_0/Die_0/Core_2 Residency (msec), CPU/Package_0/Die_0/Core_3 Residency (msec), CPU/Package_0/Die_0/Core_4 Residency (msec), CPU/Package_0/Die_0/Core_8 Residency (msec), CPU/Package_0/Die_0/Core_9 Residency (msec), CPU/Package_0/Die_0/Core_10 Residency (msec), CPU/Package_0/Die_0/Core_11 Residency (msec), CPU/Package_0/Die_0/Core_12 Residency (msec), CPU/Package_1/Die_0/Core_0 Residency (msec), CPU/Package_1/Die_0/Core_1 Residency (msec), CPU/Package_1/Die_0/Core_2 Residency (msec), CPU/Package_1/Die_0/Core_3 Residency (msec), CPU/Package_1/Die_0/Core_4 Residency (msec), CPU/Package_1/Die_0/Core_8 Residency (msec), CPU/Package_1/Die_0/Core_9 Residency (msec), CPU/Package_1/Die_0/Core_10 Residency (msec), CPU/Package_1/Die_0/Core_11 Residency (msec), CPU/Package_1/Die_0/Core_12 Residency (msec)
+-------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, -----------------------------------------, -----------------------------------------, -----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, ----------------------------------------, -----------------------------------------, -----------------------------------------, -----------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, --------------------------------------------, --------------------------------------------, --------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, -------------------------------------------, --------------------------------------------, --------------------------------------------, --------------------------------------------
+CC0    , 30.07                                   , 29.48                                   , 6.85                                    , 5.70                                    , 3.12                                    , 25.78                                   , 4.08                                    , 20.33                                    , 5.01                                     , 35.22                                    , 5.98                                    , 4.58                                    , 3.89                                    , 1.98                                    , 1.39                                    , 3.98                                    , 4.99                                    , 3.17                                     , 2.91                                     , 2.75                                     , 719.72                                     , 705.74                                     , 163.96                                     , 136.40                                     , 74.65                                      , 617.09                                     , 97.77                                      , 486.58                                      , 119.95                                      , 843.04                                      , 143.07                                     , 109.59                                     , 93.07                                      , 47.39                                      , 33.38                                      , 95.36                                      , 119.41                                     , 75.99                                       , 69.71                                       , 65.93                                       
+CC1    , 18.42                                   , 3.54                                    , 0.41                                    , 0.20                                    , 0.23                                    , 3.88                                    , 0.14                                    , 0.44                                     , 0.21                                     , 6.90                                     , 0.39                                    , 0.18                                    , 0.16                                    , 0.19                                    , 0.15                                    , 0.59                                    , 0.44                                    , 0.84                                     , 0.24                                     , 0.44                                     , 440.94                                     , 84.70                                      , 9.91                                       , 4.67                                       , 5.47                                       , 92.93                                      , 3.31                                       , 10.54                                       , 4.93                                        , 165.11                                      , 9.33                                       , 4.42                                       , 3.92                                       , 4.53                                       , 3.53                                       , 14.17                                      , 10.60                                      , 20.01                                       , 5.82                                        , 10.43                                       
+CC6    , 51.51                                   , 66.98                                   , 92.74                                   , 94.11                                   , 96.65                                   , 70.34                                   , 95.78                                   , 79.23                                    , 94.78                                    , 57.88                                    , 93.63                                   , 95.24                                   , 95.95                                   , 97.83                                   , 98.46                                   , 95.42                                   , 94.57                                   , 95.99                                    , 96.84                                    , 96.81                                    , 1233.02                                    , 1603.24                                    , 2219.80                                    , 2252.61                                    , 2313.55                                    , 1683.66                                    , 2292.60                                    , 1896.55                                     , 2268.79                                     , 1385.52                                     , 2241.27                                    , 2279.66                                    , 2296.69                                    , 2341.75                                    , 2356.76                                    , 2284.14                                    , 2263.66                                    , 2297.68                                     , 2318.14                                     , 2317.31                                     
+
+Core C-State Summary: Entry Counts
+C-State, CPU/Package_0/Die_0/Core_0 Entry Count, CPU/Package_0/Die_0/Core_1 Entry Count, CPU/Package_0/Die_0/Core_2 Entry Count, CPU/Package_0/Die_0/Core_3 Entry Count, CPU/Package_0/Die_0/Core_4 Entry Count, CPU/Package_0/Die_0/Core_8 Entry Count, CPU/Package_0/Die_0/Core_9 Entry Count, CPU/Package_0/Die_0/Core_10 Entry Count, CPU/Package_0/Die_0/Core_11 Entry Count, CPU/Package_0/Die_0/Core_12 Entry Count, CPU/Package_1/Die_0/Core_0 Entry Count, CPU/Package_1/Die_0/Core_1 Entry Count, CPU/Package_1/Die_0/Core_2 Entry Count, CPU/Package_1/Die_0/Core_3 Entry Count, CPU/Package_1/Die_0/Core_4 Entry Count, CPU/Package_1/Die_0/Core_8 Entry Count, CPU/Package_1/Die_0/Core_9 Entry Count, CPU/Package_1/Die_0/Core_10 Entry Count, CPU/Package_1/Die_0/Core_11 Entry Count, CPU/Package_1/Die_0/Core_12 Entry Count
+-------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, ---------------------------------------, ---------------------------------------, ---------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, --------------------------------------, ---------------------------------------, ---------------------------------------, ---------------------------------------
+CC0    , 4601                                  , 1424                                  , 188                                   , 295                                   , 165                                   , 2087                                  , 111                                   , 111                                    , 202                                    , 2452                                   , 145                                   , 115                                   , 193                                   , 113                                   , 111                                   , 200                                   , 188                                   , 199                                    , 120                                    , 151                                    
+CC1    , 3622                                  , 351                                   , 62                                    , 71                                    , 58                                    , 1053                                  , 53                                    , 29                                     , 66                                     , 1464                                   , 51                                    , 13                                    , 37                                    , 54                                    , 59                                    , 84                                    , 78                                    , 105                                    , 46                                     , 68                                     
+CC6    , 979                                   , 1073                                  , 126                                   , 224                                   , 107                                   , 1034                                  , 58                                    , 82                                     , 136                                    , 988                                    , 94                                    , 102                                   , 156                                   , 59                                    , 52                                    , 116                                   , 110                                   , 94                                     , 74                                     , 83                                     
+Total  , 9202                                  , 2848                                  , 376                                   , 590                                   , 330                                   , 4174                                  , 222                                   , 222                                    , 404                                    , 4904                                   , 290                                   , 230                                   , 386                                   , 226                                   , 222                                   , 400                                   , 376                                   , 398                                    , 240                                    , 302                                    
+
+=======
+Wakeups
+=======
+
+N.B: "Unknown" wakeups mean the CPU wakeup reason could not be attributed to a known cause
+
+Wakeups Summary: Type Count
+Wakeup Category, CPU/Package_0/Die_0/Core_0 Count, CPU/Package_0/Die_0/Core_1 Count, CPU/Package_0/Die_0/Core_2 Count, CPU/Package_0/Die_0/Core_3 Count, CPU/Package_0/Die_0/Core_4 Count, CPU/Package_0/Die_0/Core_8 Count, CPU/Package_0/Die_0/Core_9 Count, CPU/Package_0/Die_0/Core_10 Count, CPU/Package_0/Die_0/Core_11 Count, CPU/Package_0/Die_0/Core_12 Count, CPU/Package_1/Die_0/Core_0 Count, CPU/Package_1/Die_0/Core_1 Count, CPU/Package_1/Die_0/Core_2 Count, CPU/Package_1/Die_0/Core_3 Count, CPU/Package_1/Die_0/Core_4 Count, CPU/Package_1/Die_0/Core_8 Count, CPU/Package_1/Die_0/Core_9 Count, CPU/Package_1/Die_0/Core_10 Count, CPU/Package_1/Die_0/Core_11 Count, CPU/Package_1/Die_0/Core_12 Count
+---------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, ---------------------------------, ---------------------------------, ---------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, ---------------------------------, ---------------------------------, ---------------------------------
+IPI            , 10                              , 45                              , 47                              , 50                              , 49                              , 43                              , 50                              , 13                               , 51                               , 84                               , 29                              , 5                               , 33                              , 50                              , 54                              , 44                              , 53                              , 93                               , 36                               , 56                               
+IRQ            , 4348                            , 8                               , 4                               , 192                             , 34                              , 2011                            , 5                               , 5                                , 20                               , 5                                , 0                               , 0                               , 0                               , 0                               , 0                               , 0                               , 0                               , 0                                , 0                                , 0                                
+SCHEDULER      , 0                               , 1                               , 0                               , 0                               , 0                               , 0                               , 0                               , 0                                , 0                                , 0                                , 0                               , 0                               , 0                               , 0                               , 0                               , 0                               , 1                               , 0                                , 0                                , 0                                
+TIMER          , 192                             , 336                             , 75                              , 46                              , 53                              , 22                              , 53                              , 72                               , 91                               , 317                              , 87                              , 88                              , 131                             , 53                              , 41                              , 85                              , 95                              , 82                               , 64                               , 67                               
+UNKNOWN        , 44                              , 1033                            , 61                              , 6                               , 28                              , 9                               , 3                               , 20                               , 38                               , 2044                             , 28                              , 21                              , 29                              , 10                              , 14                              , 71                              , 37                              , 24                               , 19                               , 27                               
+WORKQUEUE      , 7                               , 1                               , 1                               , 1                               , 1                               , 2                               , 0                               , 1                                , 2                                , 2                                , 1                               , 1                               , 0                               , 0                               , 2                               , 0                               , 2                               , 0                                , 1                                , 1                                
+
+Wakeups Summary: Top 10 Most-Frequent for Core_0
+Wakeup Category, IRQ, Process, Thread, Source, Name                               , Count
+---------------, ---, -------, ------, ------, ----                               , -----
+IRQ            , 47 ,        ,       ,       , 49283082-edge i40e-enp94s0f0-TxRx-9, 4347 
+TIMER          ,    , -1     , -1    ,       , unknown                            , 192  
+UNKNOWN        ,    ,        ,       ,       ,                                    , 44   
+IPI            ,    ,        ,       ,       ,                                    , 10   
+WORKQUEUE      ,    ,        ,       ,       ,                                    , 7    
+IRQ            , 198,        ,       ,       , 30933003-edge eno1-TxRx-11         , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_1
+Wakeup Category, IRQ, Process, Thread, Source                    , Name                      , Count
+---------------, ---, -------, ------, ------                    , ----                      , -----
+UNKNOWN        ,    ,        ,       ,                           ,                           , 1033 
+TIMER          ,    , -1     , -1    ,                           , unknown                   , 336  
+IPI            ,    ,        ,       ,                           ,                           , 45   
+IRQ            , 9  ,        ,       ,                           , 9-fasteoi acpi            , 6    
+IRQ            , 219,        ,       ,                           , 30933024-edge eno1-TxRx-32, 1    
+SCHEDULER      ,    ,        ,       , CPU/Package_0/Die_0/Core_9,                           , 1    
+IRQ            , 201,        ,       ,                           , 30933006-edge eno1-TxRx-14, 1    
+WORKQUEUE      ,    ,        ,       ,                           ,                           , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_2
+Wakeup Category, IRQ, Process, Thread, Source, Name                                , Count
+---------------, ---, -------, ------, ------, ----                                , -----
+TIMER          ,    , -1     , -1    ,       , unknown                             , 75   
+UNKNOWN        ,    ,        ,       ,       ,                                     , 61   
+IPI            ,    ,        ,       ,       ,                                     , 47   
+IRQ            , 75 ,        ,       ,       , 49283110-edge i40e-enp94s0f0-TxRx-37, 2    
+IRQ            , 216,        ,       ,       , 30933021-edge eno1-TxRx-29          , 1    
+IRQ            , 202,        ,       ,       , 30933007-edge eno1-TxRx-15          , 1    
+WORKQUEUE      ,    ,        ,       ,       ,                                     , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_3
+Wakeup Category, IRQ, Process, Thread, Source, Name                                , Count
+---------------, ---, -------, ------, ------, ----                                , -----
+IRQ            , 187,        ,       ,       , 30932992-edge eno1-TxRx-0           , 177  
+IPI            ,    ,        ,       ,       ,                                     , 50   
+TIMER          ,    , -1     , -1    ,       , unknown                             , 46   
+IRQ            , 191,        ,       ,       , 30932996-edge eno1-TxRx-4           , 12   
+UNKNOWN        ,    ,        ,       ,       ,                                     , 6    
+IRQ            , 214,        ,       ,       , 30933019-edge eno1-TxRx-27          , 2    
+IRQ            , 76 ,        ,       ,       , 49283111-edge i40e-enp94s0f0-TxRx-38, 1    
+WORKQUEUE      ,    ,        ,       ,       ,                                     , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_4
+Wakeup Category, IRQ, Process, Thread, Source, Name                                , Count
+---------------, ---, -------, ------, ------, ----                                , -----
+TIMER          ,    , -1     , -1    ,       , unknown                             , 53   
+IPI            ,    ,        ,       ,       ,                                     , 49   
+UNKNOWN        ,    ,        ,       ,       ,                                     , 28   
+IRQ            , 207,        ,       ,       , 30933012-edge eno1-TxRx-20          , 17   
+IRQ            , 40 ,        ,       ,       , 49283075-edge i40e-enp94s0f0-TxRx-2 , 14   
+IRQ            , 221,        ,       ,       , 30933026-edge eno1-TxRx-34          , 2    
+IRQ            , 64 ,        ,       ,       , 49283099-edge i40e-enp94s0f0-TxRx-26, 1    
+WORKQUEUE      ,    ,        ,       ,       ,                                     , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_8
+Wakeup Category, IRQ, Process, Thread, Source, Name                               , Count
+---------------, ---, -------, ------, ------, ----                               , -----
+IRQ            , 39 ,        ,       ,       , 49283074-edge i40e-enp94s0f0-TxRx-1, 1989 
+IPI            ,    ,        ,       ,       ,                                    , 43   
+TIMER          ,    , -1     , -1    ,       , unknown                            , 22   
+IRQ            , 209,        ,       ,       , 30933014-edge eno1-TxRx-22         , 19   
+UNKNOWN        ,    ,        ,       ,       ,                                    , 9    
+IRQ            , 38 ,        ,       ,       , 49283073-edge i40e-enp94s0f0-TxRx-0, 3    
+WORKQUEUE      ,    ,        ,       ,       ,                                    , 2    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_9
+Wakeup Category, IRQ, Process, Thread, Source, Name                               , Count
+---------------, ---, -------, ------, ------, ----                               , -----
+TIMER          ,    , -1     , -1    ,       , unknown                            , 53   
+IPI            ,    ,        ,       ,       ,                                    , 50   
+IRQ            , 45 ,        ,       ,       , 49283080-edge i40e-enp94s0f0-TxRx-7, 3    
+UNKNOWN        ,    ,        ,       ,       ,                                    , 3    
+IRQ            , 225,        ,       ,       , 30933030-edge eno1-TxRx-38         , 1    
+IRQ            , 206,        ,       ,       , 30933011-edge eno1-TxRx-19         , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_10
+Wakeup Category, IRQ, Process, Thread, Source, Name                                , Count
+---------------, ---, -------, ------, ------, ----                                , -----
+TIMER          ,    , -1     , -1    ,       , unknown                             , 72   
+UNKNOWN        ,    ,        ,       ,       ,                                     , 20   
+IPI            ,    ,        ,       ,       ,                                     , 13   
+IRQ            , 42 ,        ,       ,       , 49283077-edge i40e-enp94s0f0-TxRx-4 , 2    
+IRQ            , 66 ,        ,       ,       , 49283101-edge i40e-enp94s0f0-TxRx-28, 2    
+IRQ            , 222,        ,       ,       , 30933027-edge eno1-TxRx-35          , 1    
+WORKQUEUE      ,    ,        ,       ,       ,                                     , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_11
+Wakeup Category, IRQ, Process, Thread, Source, Name                      , Count
+---------------, ---, -------, ------, ------, ----                      , -----
+TIMER          ,    , -1     , -1    ,       , unknown                   , 91   
+IPI            ,    ,        ,       ,       ,                           , 51   
+UNKNOWN        ,    ,        ,       ,       ,                           , 38   
+IRQ            , 211,        ,       ,       , 30933016-edge eno1-TxRx-24, 17   
+IRQ            , 197,        ,       ,       , 30933002-edge eno1-TxRx-10, 2    
+WORKQUEUE      ,    ,        ,       ,       ,                           , 2    
+IRQ            , 220,        ,       ,       , 30933025-edge eno1-TxRx-33, 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_12
+Wakeup Category, IRQ, Process, Thread, Source, Name                      , Count
+---------------, ---, -------, ------, ------, ----                      , -----
+UNKNOWN        ,    ,        ,       ,       ,                           , 2044 
+TIMER          ,    , -1     , -1    ,       , unknown                   , 317  
+IPI            ,    ,        ,       ,       ,                           , 84   
+IRQ            , 195,        ,       ,       , 30933000-edge eno1-TxRx-8 , 3    
+WORKQUEUE      ,    ,        ,       ,       ,                           , 2    
+IRQ            , 226,        ,       ,       , 30933031-edge eno1-TxRx-39, 1    
+IRQ            , 194,        ,       ,       , 30932999-edge eno1-TxRx-7 , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_0
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 87   
+IPI            ,    ,        ,       ,       ,        , 29   
+UNKNOWN        ,    ,        ,       ,       ,        , 28   
+WORKQUEUE      ,    ,        ,       ,       ,        , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_1
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 88   
+UNKNOWN        ,    ,        ,       ,       ,        , 21   
+IPI            ,    ,        ,       ,       ,        , 5    
+WORKQUEUE      ,    ,        ,       ,       ,        , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_2
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 131  
+IPI            ,    ,        ,       ,       ,        , 33   
+UNKNOWN        ,    ,        ,       ,       ,        , 29   
+
+Wakeups Summary: Top 10 Most-Frequent for Core_3
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 53   
+IPI            ,    ,        ,       ,       ,        , 50   
+UNKNOWN        ,    ,        ,       ,       ,        , 10   
+
+Wakeups Summary: Top 10 Most-Frequent for Core_4
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+IPI            ,    ,        ,       ,       ,        , 54   
+TIMER          ,    , -1     , -1    ,       , unknown, 41   
+UNKNOWN        ,    ,        ,       ,       ,        , 14   
+WORKQUEUE      ,    ,        ,       ,       ,        , 2    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_8
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 85   
+UNKNOWN        ,    ,        ,       ,       ,        , 71   
+IPI            ,    ,        ,       ,       ,        , 44   
+
+Wakeups Summary: Top 10 Most-Frequent for Core_9
+Wakeup Category, IRQ, Process, Thread, Source                     , Name   , Count
+---------------, ---, -------, ------, ------                     , ----   , -----
+TIMER          ,    , -1     , -1    ,                            , unknown, 95   
+IPI            ,    ,        ,       ,                            ,        , 53   
+UNKNOWN        ,    ,        ,       ,                            ,        , 37   
+WORKQUEUE      ,    ,        ,       ,                            ,        , 2    
+SCHEDULER      ,    ,        ,       , CPU/Package_1/Die_0/Core_11,        , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_10
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+IPI            ,    ,        ,       ,       ,        , 93   
+TIMER          ,    , -1     , -1    ,       , unknown, 82   
+UNKNOWN        ,    ,        ,       ,       ,        , 24   
+
+Wakeups Summary: Top 10 Most-Frequent for Core_11
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 64   
+IPI            ,    ,        ,       ,       ,        , 36   
+UNKNOWN        ,    ,        ,       ,       ,        , 19   
+WORKQUEUE      ,    ,        ,       ,       ,        , 1    
+
+Wakeups Summary: Top 10 Most-Frequent for Core_12
+Wakeup Category, IRQ, Process, Thread, Source, Name   , Count
+---------------, ---, -------, ------, ------, ----   , -----
+TIMER          ,    , -1     , -1    ,       , unknown, 67   
+IPI            ,    ,        ,       ,       ,        , 56   
+UNKNOWN        ,    ,        ,       ,       ,        , 27   
+WORKQUEUE      ,    ,        ,       ,       ,        , 1    
+
+Wakeups Summary: Total Samples Received
+Core                       , Total # of samples
+----                       , ------------------
+CPU/Package_0/Die_0/Core_0 , 4601              
+CPU/Package_0/Die_0/Core_1 , 1424              
+CPU/Package_0/Die_0/Core_2 , 188               
+CPU/Package_0/Die_0/Core_3 , 295               
+CPU/Package_0/Die_0/Core_4 , 165               
+CPU/Package_0/Die_0/Core_8 , 2087              
+CPU/Package_0/Die_0/Core_9 , 111               
+CPU/Package_0/Die_0/Core_10, 111               
+CPU/Package_0/Die_0/Core_11, 202               
+CPU/Package_0/Die_0/Core_12, 2452              
+CPU/Package_1/Die_0/Core_0 , 145               
+CPU/Package_1/Die_0/Core_1 , 115               
+CPU/Package_1/Die_0/Core_2 , 193               
+CPU/Package_1/Die_0/Core_3 , 113               
+CPU/Package_1/Die_0/Core_4 , 111               
+CPU/Package_1/Die_0/Core_8 , 200               
+CPU/Package_1/Die_0/Core_9 , 188               
+CPU/Package_1/Die_0/Core_10, 199               
+CPU/Package_1/Die_0/Core_11, 120               
+CPU/Package_1/Die_0/Core_12, 151               
+
+======
+Aborts
+======
+
+Aborts Summary: Type Count
+     , CPU/Package_0/Die_0/Core_0 Count, CPU/Package_0/Die_0/Core_1 Count, CPU/Package_0/Die_0/Core_2 Count, CPU/Package_0/Die_0/Core_3 Count, CPU/Package_0/Die_0/Core_4 Count, CPU/Package_0/Die_0/Core_8 Count, CPU/Package_0/Die_0/Core_9 Count, CPU/Package_0/Die_0/Core_10 Count, CPU/Package_0/Die_0/Core_11 Count, CPU/Package_0/Die_0/Core_12 Count, CPU/Package_1/Die_0/Core_0 Count, CPU/Package_1/Die_0/Core_1 Count, CPU/Package_1/Die_0/Core_2 Count, CPU/Package_1/Die_0/Core_3 Count, CPU/Package_1/Die_0/Core_4 Count, CPU/Package_1/Die_0/Core_8 Count, CPU/Package_1/Die_0/Core_9 Count, CPU/Package_1/Die_0/Core_10 Count, CPU/Package_1/Die_0/Core_11 Count, CPU/Package_1/Die_0/Core_12 Count
+     , --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, ---------------------------------, ---------------------------------, ---------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, --------------------------------, ---------------------------------, ---------------------------------, ---------------------------------
+ABORT, 24                              , 42                              , 38                              , 47                              , 36                              , 43                              , 35                              , 4                                , 37                               , 70                               , 27                              , 1                               , 21                              , 36                              , 35                              , 47                              , 48                              , 7                                , 28                               , 29                               
+
+Aborts Summary: Top 10 Most-Frequent for Core_0
+     , Count
+     , -----
+ABORT, 24   
+
+Aborts Summary: Top 10 Most-Frequent for Core_1
+     , Count
+     , -----
+ABORT, 42   
+
+Aborts Summary: Top 10 Most-Frequent for Core_2
+     , Count
+     , -----
+ABORT, 38   
+
+Aborts Summary: Top 10 Most-Frequent for Core_3
+     , Count
+     , -----
+ABORT, 47   
+
+Aborts Summary: Top 10 Most-Frequent for Core_4
+     , Count
+     , -----
+ABORT, 36   
+
+Aborts Summary: Top 10 Most-Frequent for Core_8
+     , Count
+     , -----
+ABORT, 43   
+
+Aborts Summary: Top 10 Most-Frequent for Core_9
+     , Count
+     , -----
+ABORT, 35   
+
+Aborts Summary: Top 10 Most-Frequent for Core_10
+     , Count
+     , -----
+ABORT, 4    
+
+Aborts Summary: Top 10 Most-Frequent for Core_11
+     , Count
+     , -----
+ABORT, 37   
+
+Aborts Summary: Top 10 Most-Frequent for Core_12
+     , Count
+     , -----
+ABORT, 70   
+
+Aborts Summary: Top 10 Most-Frequent for Core_0
+     , Count
+     , -----
+ABORT, 27   
+
+Aborts Summary: Top 10 Most-Frequent for Core_1
+     , Count
+     , -----
+ABORT, 1    
+
+Aborts Summary: Top 10 Most-Frequent for Core_2
+     , Count
+     , -----
+ABORT, 21   
+
+Aborts Summary: Top 10 Most-Frequent for Core_3
+     , Count
+     , -----
+ABORT, 36   
+
+Aborts Summary: Top 10 Most-Frequent for Core_4
+     , Count
+     , -----
+ABORT, 35   
+
+Aborts Summary: Top 10 Most-Frequent for Core_8
+     , Count
+     , -----
+ABORT, 47   
+
+Aborts Summary: Top 10 Most-Frequent for Core_9
+     , Count
+     , -----
+ABORT, 48   
+
+Aborts Summary: Top 10 Most-Frequent for Core_10
+     , Count
+     , -----
+ABORT, 7    
+
+Aborts Summary: Top 10 Most-Frequent for Core_11
+     , Count
+     , -----
+ABORT, 28   
+
+Aborts Summary: Top 10 Most-Frequent for Core_12
+     , Count
+     , -----
+ABORT, 29   
+
+Aborts Summary: Total Samples Received
+Core                       , Total # of samples
+----                       , ------------------
+CPU/Package_0/Die_0/Core_0 , 24                
+CPU/Package_0/Die_0/Core_1 , 42                
+CPU/Package_0/Die_0/Core_2 , 38                
+CPU/Package_0/Die_0/Core_3 , 47                
+CPU/Package_0/Die_0/Core_4 , 36                
+CPU/Package_0/Die_0/Core_8 , 43                
+CPU/Package_0/Die_0/Core_9 , 35                
+CPU/Package_0/Die_0/Core_10, 4                 
+CPU/Package_0/Die_0/Core_11, 37                
+CPU/Package_0/Die_0/Core_12, 70                
+CPU/Package_1/Die_0/Core_0 , 27                
+CPU/Package_1/Die_0/Core_1 , 1                 
+CPU/Package_1/Die_0/Core_2 , 21                
+CPU/Package_1/Die_0/Core_3 , 36                
+CPU/Package_1/Die_0/Core_4 , 35                
+CPU/Package_1/Die_0/Core_8 , 47                
+CPU/Package_1/Die_0/Core_9 , 48                
+CPU/Package_1/Die_0/Core_10, 7                 
+CPU/Package_1/Die_0/Core_11, 28                
+CPU/Package_1/Die_0/Core_12, 29                
+
