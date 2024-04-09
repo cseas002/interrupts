@@ -9,8 +9,7 @@ sudo apt install -y tshark
 # sudo tshark -i enp94s0f0 -Y "ip.dst == 10.10.1.1 and tcp.dstport == 8080"  # (enp94s0f0 is the interface)
 
 # To show the timestamp (first column) 
-start_time=$(date +%s.%N); sudo tshark -i enp94s0f0 -Y "tcp.dstport == 8081 or tcp.srcport == 8081" -t r | grep "Len=17" | awk -v st="$start_time" '{print $1 + st, $0'} &
-
+# start_time=$(date +%s.%N); sudo tshark -i enp94s0f0 -Y "tcp.dstport == 8081 or tcp.srcport == 8081" -t r | grep "Len=17" | awk -v st="$start_time" '{print $1 + st, $0'} &
 
 
 # To stop:
