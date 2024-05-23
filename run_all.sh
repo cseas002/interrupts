@@ -16,12 +16,12 @@ echo "RUN setup.sh FIRST IF YOU HAVEN'T!!!"
 
 mkdir $save_folder_name
 
-for sleep_val in 1000 10000; do
+for sleep_val in 100 1000; do
     for pre_request in true false; do
         for pre_request_interval in 50 100; do
             for state in enable; do
-                for distribution_type in fixed; do
-                    for warmup_requests in 0; do
+                for distribution_type in exponential fixed; do
+                    for warmup_requests in 0 50; do
                         parent_folder_name="${save_folder_name}/State=${state}/${distribution_type}"
                         folder_name="${parent_folder_name}/Pre-req=${pre_request}/Pre-req-interval=${pre_request_interval}/Sleep=${sleep_val}/Warmup-requests=${warmup_requests}/"
 

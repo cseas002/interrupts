@@ -1,94 +1,112 @@
 import os
+import numpy as np
 import matplotlib.pyplot as plt
 
-def extract_latency_data(folder_path):
-    latencies = {'Average Latency': {}, '99th Percentile Latency': {}}
+def extract_time_taken(times_content):
+    lines = times_content.strip().split('\n')
+    time_taken_values = [int(line.split(': ')[1]) for line in lines if "Time taken" in line]
+    return time_taken_values
 
-    for root, dirs, files in os.walk(folder_path):
-        for dir_name in dirs:
-            output_file = os.path.join(root, dir_name, 'output.txt')
-            if os.path.exists(output_file):
-                with open(output_file, 'r') as file:
-                    lines = file.readlines()
+def calculate_statistics(time_taken_values):
+    average = np.mean(time_taken_values)
+    percentile_99th = np.percentile(time_taken_values, 99)
+    return average, percentile_99th
 
-                    avg_latency_line = next((line for line in lines if line.startswith("Average Latency")), None)
-                    percentile_latency_line = next((line for line in lines if line.startswith("99th Percentile Latency")), None)
+def traverse_and_compare(base_path):
+    pre_req_false_files = {}
+    pre_req_true_files = {}
 
-                    if avg_latency_line and percentile_latency_line:
-                        try:
-                            avg_latency = float(avg_latency_line.split()[2])
-                            percentile_latency = float(percentile_latency_line.split()[3])
-                            latencies['Average Latency'][f"{root}/{dir_name}"] = avg_latency
-                            latencies['99th Percentile Latency'][f"{root}/{dir_name}"] = percentile_latency
-                        except (ValueError, IndexError):
-                            print(f"Error processing file {output_file}. Skipping.")
-                            continue
-                    else:
-                        print(f"Lines not found in the expected format in file {output_file}. Skipping.")
+    for root, dirs, files in os.walk(base_path):
+        for file in files:
+            if file == "times.txt":
+                relative_path = os.path.relpath(root, base_path)
+                key = relative_path.replace("Pre-req=false", "").replace("Pre-req=true", "")
+                if "Pre-req=false" in relative_path:
+                    pre_req_false_files[key] = os.path.join(root, file)
+                elif "Pre-req=true" in relative_path:
+                    pre_req_true_files[key] = os.path.join(root, file)
+    
+    results = []
 
-    return latencies
+    for key in pre_req_false_files.keys():
+        if key in pre_req_true_files:
+            with open(pre_req_false_files[key], 'r') as file:
+                times_content_false = file.read()
+            with open(pre_req_true_files[key], 'r') as file:
+                times_content_true = file.read()
+            
+            time_taken_false = extract_time_taken(times_content_false)
+            time_taken_true = extract_time_taken(times_content_true)
+            
+            avg_false, p99_false = calculate_statistics(time_taken_false)
+            avg_true, p99_true = calculate_statistics(time_taken_true)
 
+            average_improvement = ((avg_false - avg_true) / avg_false) * 100
+            percentile_improvement = ((p99_false - p99_true) / p99_false) * 100
 
+            results.append({
+                'path': key,
+                'avg_false': avg_false,
+                'avg_true': avg_true,
+                'p99_false': p99_false,
+                'p99_true': p99_true,
+                'average_improvement': average_improvement,
+                'percentile_improvement': percentile_improvement
+            })
+    
+    return results
 
+def plot_results(results, output_path):
+    labels = []
+    avg_improvements = []
+    p99_improvements = []
 
-def save_with_incremented_suffix(file_path):
-    base, ext = os.path.splitext(file_path)
-    count = 1
-    while os.path.exists(file_path):
-        file_path = f"{base} ({count}){ext}"
-        count += 1
-    return file_path
+    for result in results:
+        labels.append(result['path'])
+        avg_improvements.append(result['average_improvement'])
+        p99_improvements.append(result['percentile_improvement'])
 
-def create_latency_graph(latency_data, metric_name, output_filename, graph_name):
-    plt.bar(latency_data.keys(), latency_data.values())
-    plt.xlabel('Folder Path')
-    plt.ylabel(f'{metric_name} (microseconds)')
-    plt.title(f'{metric_name} {graph_name}')
-    plt.xticks(rotation=80, ha='right')  # Adjust rotation angle
+    x = np.arange(len(labels))
+    width = 0.35
 
-    # Hide x-axis labels
-    plt.xticks([])
-    # Increase space at the bottom to make room for the title
-    plt.subplots_adjust(bottom=0.25)
+    fig, ax = plt.subplots(figsize=(15, 7))
 
-    # Expand margins to make more space on the bottom
-    plt.margins(x=0, y=0.3)
+    rects1 = ax.bar(x - width/2, avg_improvements, width, label='Average Improvement', color='orange')
+    rects2 = ax.bar(x + width/2, p99_improvements, width, label='99th Percentile Improvement', color='blue')
 
-    # Manually set the height of the figure
-    plt.gcf().set_size_inches(10, 8)  # Adjust the size as needed
+    ax.set_ylabel('Improvement (%)')
+    ax.set_title('Comparison of Time Taken Metrics (Pre-req=True vs Pre-req=False)')
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels, rotation=80, ha='right')
+    ax.legend()
 
-   # Create a list to store text annotations
-    text_annotations = []
+    # Annotate each bar with the corresponding label
+    for rect, label in zip(rects1, labels):
+        height = rect.get_height()
+        ax.text(
+            rect.get_x() + rect.get_width() / 2, height / 2, label,
+            ha='center', va='center', rotation=90, fontsize=8, color='black', bbox=dict(facecolor='white', alpha=0.5)
+        )
 
-    # Annotate each bar with the x-axis label (folder path) inside the column
-    for key, value in latency_data.items():
-        modified_key = key.replace(graph_name, '').strip('/')  # Remove graph_name and leading/trailing slashes
-        annotation = plt.text(key, value / 2, modified_key, ha='center', va='center', rotation=90, fontsize=8)
-        text_annotations.append(annotation)
+    for rect, label in zip(rects2, labels):
+        height = rect.get_height()
+        ax.text(
+            rect.get_x() + rect.get_width() / 2, height / 2, label,
+            ha='center', va='center', rotation=90, fontsize=8, color='black', bbox=dict(facecolor='white', alpha=0.5)
+        )
 
-    output_filename = save_with_incremented_suffix(output_filename)
-    plt.savefig(output_filename)
-    plt.show()
+    fig.tight_layout()
+    
+    plt.savefig(output_path)
+    plt.close()
 
-    # Clear the text
-    for annotation in text_annotations:
-        annotation.set_text("")
+# Base path to the exponential folder
+base_path = '~/interrupts/24-05-23_again/State=enable/exponential'
+# Replace '~' with the actual home directory
+base_path = os.path.expanduser(base_path)
 
+results = traverse_and_compare(base_path)
+output_image_path = 'comparison_plot_exponential.png'
+plot_results(results, output_image_path)
 
-
-if __name__ == "__main__":
-    import sys
-
-    if len(sys.argv) != 2:
-        print("Usage: python3 create_graphs.py <folder_path>")
-        sys.exit(1)
-
-    folder_path = sys.argv[1]
-    latency_data = extract_latency_data(folder_path)
-
-    name = folder_path.replace('/', '-')
-    # Create graph for 99th Percentile Latency
-    create_latency_graph(latency_data['99th Percentile Latency'], '99th Percentile Latency', f'99th_latency-{name}.png', folder_path)
-
-    # Create graph for Average Latency
-    create_latency_graph(latency_data['Average Latency'], 'Average Latency & 99th Percentile Latency', f'average-{name}.png', folder_path)
+print(f"Plot saved as {output_image_path}")

@@ -71,13 +71,18 @@ def plot_results(results, output_path):
 
     fig, ax = plt.subplots(figsize=(15, 7))
 
-    rects1 = ax.bar(x - width/2, avg_improvements, width, label='Average Improvement')
     rects2 = ax.bar(x + width/2, p99_improvements, width, label='99th Percentile Improvement')
+    rects1 = ax.bar(x - width/2, avg_improvements, width, label='Average Improvement')
 
     ax.set_ylabel('Improvement (%)')
     ax.set_title('Comparison of Time Taken Metrics (Pre-req=True vs Pre-req=False)')
     ax.set_xticks(x)
-    ax.set_xticklabels(labels, rotation=90)
+    ax.set_xticklabels(labels, rotation=90, ha='right', va='bottom')
+
+    # Adjust the position of each label slightly to the left
+    for label in ax.get_xticklabels():
+        label.set_x(label.get_position()[0] - 0.05)
+
     ax.legend()
 
     fig.tight_layout()
@@ -86,12 +91,12 @@ def plot_results(results, output_path):
     plt.close()
 
 # Base path to the exponential folder
-base_path = '~/interrupts/third_test/State=enable/exponential'
+base_path = '~/interrupts/24-05-23_again/State=enable/fixed'
 # Replace '~' with the actual home directory
 base_path = os.path.expanduser(base_path)
 
 results = traverse_and_compare(base_path)
-output_image_path = 'comparison_plot.png'
+output_image_path = 'comparison_plot_fixed.png'
 plot_results(results, output_image_path)
 
 print(f"Plot saved as {output_image_path}")

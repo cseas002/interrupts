@@ -1,0 +1,5000 @@
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Sent request at 1716461608017625333
+Read reply: 1716461608018240640
+Time taken: 617209
+Sent pre-request at 1716461608018248095
+Time sleep: 101
+Sent request at 1716461608018474019
+Read reply: 1716461608018547588
+Time taken: 74195
+Sent pre-request at 1716461608018554193
+Time sleep: 104
+Sent request at 1716461608018780437
+Read reply: 1716461608018838815
+Time taken: 58947
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608018939569
+Read reply: 1716461608019000173
+Time taken: 61085
+Sent pre-request at 1716461608019008877
+Time sleep: 282
+Sent request at 1716461608019419450
+Read reply: 1716461608019481869
+Time taken: 63270
+Sent pre-request at 1716461608019490352
+Time sleep: 68
+Sent request at 1716461608019687755
+Read reply: 1716461608019749065
+Time taken: 62094
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608019831393
+Read reply: 1716461608019893651
+Time taken: 62621
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608019965510
+Read reply: 1716461608020024765
+Time taken: 60271
+Sent pre-request at 1716461608020033393
+Time sleep: 75
+Sent request at 1716461608020234110
+Read reply: 1716461608020311040
+Time taken: 77749
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608020390897
+Read reply: 1716461608020456434
+Time taken: 66322
+Sent pre-request at 1716461608020465138
+Time sleep: 181
+Sent request at 1716461608020771707
+Read reply: 1716461608020839033
+Time taken: 68173
+Sent pre-request at 1716461608020847711
+Time sleep: 111
+Sent request at 1716461608021084675
+Read reply: 1716461608021147485
+Time taken: 63084
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608021223981
+Read reply: 1716461608021279432
+Time taken: 56509
+Sent pre-request at 1716461608021288162
+Time sleep: 118
+Sent request at 1716461608021531507
+Read reply: 1716461608021599684
+Time taken: 71286
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608021697013
+Read reply: 1716461608021753456
+Time taken: 57043
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608021861182
+Read reply: 1716461608021917550
+Time taken: 57344
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608022005317
+Read reply: 1716461608022062416
+Time taken: 57924
+Sent pre-request at 1716461608022071048
+Time sleep: 250
+Sent request at 1716461608022446654
+Read reply: 1716461608022504543
+Time taken: 59021
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608022619417
+Read reply: 1716461608022679980
+Time taken: 58901
+Sent pre-request at 1716461608022688638
+Time sleep: 140
+Sent request at 1716461608022954176
+Read reply: 1716461608023012925
+Time taken: 59512
+Sent pre-request at 1716461608023021585
+Time sleep: 124
+Sent request at 1716461608023272035
+Read reply: 1716461608023341061
+Time taken: 69940
+Sent pre-request at 1716461608023349917
+Time sleep: 472
+Sent request at 1716461608023956701
+Read reply: 1716461608024013933
+Time taken: 58116
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608024108757
+Read reply: 1716461608024162088
+Time taken: 54365
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608024232228
+Read reply: 1716461608024288513
+Time taken: 57111
+Sent pre-request at 1716461608024297055
+Time sleep: 250
+Sent request at 1716461608024672778
+Read reply: 1716461608024729744
+Time taken: 57726
+Sent pre-request at 1716461608024738204
+Time sleep: 255
+Sent request at 1716461608025118529
+Read reply: 1716461608025173474
+Time taken: 55857
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608025249586
+Read reply: 1716461608025314288
+Time taken: 65421
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608025432046
+Read reply: 1716461608025486465
+Time taken: 54621
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608025564330
+Read reply: 1716461608025628460
+Time taken: 65421
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608025704538
+Read reply: 1716461608025759111
+Time taken: 55076
+Sent pre-request at 1716461608025767573
+Time sleep: 97
+Sent request at 1716461608025990239
+Read reply: 1716461608026044803
+Time taken: 55391
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608026155451
+Read reply: 1716461608026211997
+Time taken: 54364
+Sent pre-request at 1716461608026220603
+Time sleep: 102
+Sent request at 1716461608026448617
+Read reply: 1716461608026503957
+Time taken: 56244
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608026604742
+Read reply: 1716461608026658147
+Time taken: 54299
+Sent pre-request at 1716461608026666787
+Time sleep: 98
+Sent request at 1716461608026890347
+Read reply: 1716461608026945076
+Time taken: 55583
+Sent pre-request at 1716461608026953733
+Time sleep: 87
+Sent request at 1716461608027166244
+Read reply: 1716461608027228909
+Time taken: 63475
+Sent pre-request at 1716461608027237442
+Time sleep: 143
+Sent request at 1716461608027506673
+Read reply: 1716461608027563377
+Time taken: 57638
+Sent pre-request at 1716461608027571985
+Time sleep: 114
+Sent request at 1716461608027811533
+Read reply: 1716461608027866064
+Time taken: 55400
+Sent pre-request at 1716461608027874526
+Time sleep: 94
+Sent request at 1716461608028094061
+Read reply: 1716461608028148866
+Time taken: 55434
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608028252635
+Read reply: 1716461608028305513
+Time taken: 53766
+Sent pre-request at 1716461608028314196
+Time sleep: 150
+Sent request at 1716461608028590356
+Read reply: 1716461608028646340
+Time taken: 56852
+Sent pre-request at 1716461608028654960
+Time sleep: 59
+Sent request at 1716461608028839428
+Read reply: 1716461608028893430
+Time taken: 54929
+Sent pre-request at 1716461608028902039
+Time sleep: 328
+Sent request at 1716461608029367436
+Read reply: 1716461608029428795
+Time taken: 66397
+Sent pre-request at 1716461608029444066
+Time sleep: 189
+Sent request at 1716461608029767885
+Read reply: 1716461608029832541
+Time taken: 62423
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608029920982
+Read reply: 1716461608029980636
+Time taken: 57824
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608030063833
+Read reply: 1716461608030123587
+Time taken: 57830
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608030214777
+Read reply: 1716461608030274440
+Time taken: 63114
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608030392560
+Read reply: 1716461608030453704
+Time taken: 62223
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608030531956
+Read reply: 1716461608030591937
+Time taken: 58163
+Sent pre-request at 1716461608030600157
+Time sleep: 76
+Sent request at 1716461608030811106
+Read reply: 1716461608030872392
+Time taken: 59408
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608030951580
+Read reply: 1716461608031010832
+Time taken: 57081
+Sent pre-request at 1716461608031018963
+Time sleep: 129
+Sent request at 1716461608031282336
+Read reply: 1716461608031347908
+Time taken: 66824
+Sent pre-request at 1716461608031359490
+Time sleep: 74
+Sent request at 1716461608031568345
+Read reply: 1716461608031630628
+Time taken: 62950
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608031741272
+Read reply: 1716461608031804940
+Time taken: 61895
+Sent pre-request at 1716461608031816660
+Time sleep: 132
+Sent request at 1716461608032082936
+Read reply: 1716461608032143888
+Time taken: 62398
+Sent pre-request at 1716461608032155481
+Time sleep: 58
+Sent request at 1716461608032347933
+Read reply: 1716461608032408830
+Time taken: 58981
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608032505664
+Read reply: 1716461608032619815
+Time taken: 115354
+Sent pre-request at 1716461608032631597
+Time sleep: 159
+Sent request at 1716461608032925048
+Read reply: 1716461608032987266
+Time taken: 64681
+Sent pre-request at 1716461608033000188
+Time sleep: 170
+Sent request at 1716461608033304547
+Read reply: 1716461608033366402
+Time taken: 63126
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608033481902
+Read reply: 1716461608033542981
+Time taken: 61297
+Sent pre-request at 1716461608033554323
+Time sleep: 162
+Sent request at 1716461608033852338
+Read reply: 1716461608033916033
+Time taken: 64813
+Sent pre-request at 1716461608033927668
+Time sleep: 57
+Sent request at 1716461608034119278
+Read reply: 1716461608034180539
+Time taken: 59447
+Sent pre-request at 1716461608034189094
+Time sleep: 100
+Sent request at 1716461608034423370
+Read reply: 1716461608034484134
+Time taken: 62270
+Sent pre-request at 1716461608034495624
+Time sleep: 59
+Sent request at 1716461608034689326
+Read reply: 1716461608034750635
+Time taken: 59250
+Sent pre-request at 1716461608034759466
+Time sleep: 122
+Sent request at 1716461608035015798
+Read reply: 1716461608035103329
+Time taken: 88653
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608035208819
+Read reply: 1716461608035275188
+Time taken: 66979
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608035353798
+Read reply: 1716461608035415160
+Time taken: 59346
+Sent pre-request at 1716461608035424181
+Time sleep: 63
+Sent request at 1716461608035621598
+Read reply: 1716461608035683561
+Time taken: 60155
+Sent pre-request at 1716461608035691803
+Time sleep: 280
+Sent request at 1716461608036106221
+Read reply: 1716461608036168679
+Time taken: 65324
+Sent pre-request at 1716461608036182026
+Time sleep: 102
+Sent request at 1716461608036418235
+Read reply: 1716461608036479263
+Time taken: 62214
+Sent pre-request at 1716461608036490641
+Time sleep: 142
+Sent request at 1716461608036767373
+Read reply: 1716461608036829026
+Time taken: 63235
+Sent pre-request at 1716461608036841508
+Time sleep: 126
+Sent request at 1716461608037109650
+Read reply: 1716461608037179646
+Time taken: 71761
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608037274207
+Read reply: 1716461608037347574
+Time taken: 74945
+Sent pre-request at 1716461608037362741
+Time sleep: 128
+Sent request at 1716461608037609823
+Read reply: 1716461608037706123
+Time taken: 94467
+Sent pre-request at 1716461608037722166
+Time sleep: 83
+Sent request at 1716461608037944706
+Read reply: 1716461608038007638
+Time taken: 64114
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608038110379
+Read reply: 1716461608038173900
+Time taken: 64481
+Sent pre-request at 1716461608038185433
+Time sleep: 171
+Sent request at 1716461608038490508
+Read reply: 1716461608038551706
+Time taken: 63491
+Sent pre-request at 1716461608038564291
+Time sleep: 132
+Sent request at 1716461608038830448
+Read reply: 1716461608038891521
+Time taken: 62810
+Sent pre-request at 1716461608038903502
+Time sleep: 78
+Sent request at 1716461608039140145
+Read reply: 1716461608039221333
+Time taken: 82858
+Sent pre-request at 1716461608039236552
+Time sleep: 180
+Sent request at 1716461608039562701
+Read reply: 1716461608039633468
+Time taken: 72498
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608039752070
+Read reply: 1716461608039826617
+Time taken: 75081
+Sent pre-request at 1716461608039841867
+Time sleep: 93
+Sent request at 1716461608040081874
+Read reply: 1716461608040156689
+Time taken: 76385
+Sent pre-request at 1716461608040171940
+Time sleep: 82
+Sent request at 1716461608040400149
+Read reply: 1716461608040471640
+Time taken: 73092
+Sent pre-request at 1716461608040487066
+Time sleep: 157
+Sent request at 1716461608040790129
+Read reply: 1716461608040865335
+Time taken: 76923
+Sent pre-request at 1716461608040880320
+Time sleep: 225
+Sent request at 1716461608041253011
+Read reply: 1716461608041325238
+Time taken: 74024
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608041445690
+Read reply: 1716461608041518585
+Time taken: 73572
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Sent request at 1716461608041620543
+Read reply: 1716461608041700991
+Time taken: 76971
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608041798610
+Read reply: 1716461608041874164
+Time taken: 72543
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608041969026
+Read reply: 1716461608042044229
+Time taken: 77024
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608042135157
+Read reply: 1716461608042210838
+Time taken: 77208
+Sent pre-request at 1716461608042226065
+Time sleep: 51
+Sent request at 1716461608042423868
+Read reply: 1716461608042495059
+Time taken: 73007
+Sent pre-request at 1716461608042510219
+Time sleep: 225
+Sent request at 1716461608042881189
+Read reply: 1716461608042951613
+Time taken: 72183
+Sent pre-request at 1716461608042966580
+Time sleep: 68
+Sent request at 1716461608043182105
+Read reply: 1716461608043264876
+Time taken: 84711
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608043354122
+Read reply: 1716461608043432536
+Time taken: 80317
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608043559669
+Read reply: 1716461608043629721
+Time taken: 71533
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Sent request at 1716461608043741591
+Read reply: 1716461608043812239
+Time taken: 71321
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608043932814
+Read reply: 1716461608044003660
+Time taken: 71514
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608044136089
+Read reply: 1716461608044207300
+Time taken: 72262
+Sent pre-request at 1716461608044222707
+Time sleep: 111
+Sent request at 1716461608044479904
+Read reply: 1716461608044550733
+Time taken: 72383
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608044667026
+Read reply: 1716461608044741442
+Time taken: 75230
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608044828432
+Read reply: 1716461608044898063
+Time taken: 71246
+Sent pre-request at 1716461608044913380
+Time sleep: 56
+Sent request at 1716461608045115764
+Read reply: 1716461608045187441
+Time taken: 73512
+Sent pre-request at 1716461608045202727
+Time sleep: 305
+Sent request at 1716461608045654715
+Read reply: 1716461608045728672
+Time taken: 74860
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608045824298
+Read reply: 1716461608045897712
+Time taken: 75156
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608045999424
+Read reply: 1716461608046073807
+Time taken: 71359
+Sent pre-request at 1716461608046088850
+Time sleep: 73
+Sent request at 1716461608046327484
+Read reply: 1716461608046399275
+Time taken: 73211
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608046525887
+Read reply: 1716461608046595238
+Time taken: 71046
+Sent pre-request at 1716461608046610662
+Time sleep: 365
+Sent request at 1716461608047121766
+Read reply: 1716461608047204830
+Time taken: 84700
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608047323779
+Read reply: 1716461608047402717
+Time taken: 79301
+Sent pre-request at 1716461608047417806
+Time sleep: 211
+Sent request at 1716461608047775216
+Read reply: 1716461608047847136
+Time taken: 73569
+Sent pre-request at 1716461608047862471
+Time sleep: 165
+Sent request at 1716461608048173730
+Read reply: 1716461608048245381
+Time taken: 73297
+Sent pre-request at 1716461608048260623
+Time sleep: 73
+Sent request at 1716461608048480546
+Read reply: 1716461608048553330
+Time taken: 73770
+Sent pre-request at 1716461608048569162
+Time sleep: 66
+Sent request at 1716461608048781749
+Read reply: 1716461608048853014
+Time taken: 72799
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608048984979
+Read reply: 1716461608049085284
+Time taken: 101996
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608049209255
+Read reply: 1716461608049279843
+Time taken: 72210
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608049413119
+Read reply: 1716461608049483920
+Time taken: 72309
+Sent pre-request at 1716461608049499143
+Time sleep: 110
+Sent request at 1716461608049747747
+Read reply: 1716461608049817929
+Time taken: 71581
+Sent pre-request at 1716461608049829041
+Time sleep: 79
+Sent request at 1716461608050054504
+Read reply: 1716461608050125169
+Time taken: 72554
+Sent pre-request at 1716461608050140300
+Time sleep: 66
+Sent request at 1716461608050352481
+Read reply: 1716461608050423676
+Time taken: 74179
+Sent pre-request at 1716461608050440924
+Time sleep: 142
+Sent request at 1716461608050729406
+Read reply: 1716461608050800293
+Time taken: 72621
+Sent pre-request at 1716461608050815635
+Time sleep: 92
+Sent request at 1716461608051054053
+Read reply: 1716461608051137589
+Time taken: 84512
+Sent pre-request at 1716461608051152763
+Time sleep: 221
+Sent request at 1716461608051521132
+Read reply: 1716461608051594124
+Time taken: 73788
+Sent pre-request at 1716461608051609394
+Time sleep: 106
+Sent request at 1716461608051861783
+Read reply: 1716461608051933305
+Time taken: 73288
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608052029406
+Read reply: 1716461608052106278
+Time taken: 73190
+Sent pre-request at 1716461608052121586
+Time sleep: 264
+Sent request at 1716461608052532512
+Read reply: 1716461608052605494
+Time taken: 73989
+Sent pre-request at 1716461608052620925
+Time sleep: 577
+Sent request at 1716461608053344404
+Read reply: 1716461608053415639
+Time taken: 72921
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608053538238
+Read reply: 1716461608053620940
+Time taken: 81959
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608053730155
+Read reply: 1716461608053805961
+Time taken: 75603
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608053936843
+Read reply: 1716461608054008641
+Time taken: 73376
+Sent pre-request at 1716461608054023825
+Time sleep: 353
+Sent request at 1716461608054523815
+Read reply: 1716461608054595047
+Time taken: 73161
+Sent pre-request at 1716461608054610564
+Time sleep: 61
+Sent request at 1716461608054818046
+Read reply: 1716461608054888761
+Time taken: 72717
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608055021925
+Read reply: 1716461608055098460
+Time taken: 78226
+Sent pre-request at 1716461608055113761
+Time sleep: 51
+Sent request at 1716461608055311179
+Read reply: 1716461608055387339
+Time taken: 77839
+Sent pre-request at 1716461608055402788
+Time sleep: 53
+Sent request at 1716461608055602287
+Read reply: 1716461608055673454
+Time taken: 74109
+Sent pre-request at 1716461608055690175
+Time sleep: 65
+Sent request at 1716461608055901731
+Read reply: 1716461608055975049
+Time taken: 74909
+Sent pre-request at 1716461608055990387
+Time sleep: 81
+Sent request at 1716461608056217786
+Read reply: 1716461608056288773
+Time taken: 72657
+Sent pre-request at 1716461608056304018
+Time sleep: 271
+Sent request at 1716461608056722127
+Read reply: 1716461608056794044
+Time taken: 72961
+Sent pre-request at 1716461608056809535
+Time sleep: 170
+Sent request at 1716461608057125969
+Read reply: 1716461608057197070
+Time taken: 72884
+Sent pre-request at 1716461608057212486
+Time sleep: 75
+Sent request at 1716461608057433954
+Read reply: 1716461608057504538
+Time taken: 72218
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608057610602
+Read reply: 1716461608057691171
+Time taken: 75264
+Sent pre-request at 1716461608057706737
+Time sleep: 119
+Sent request at 1716461608057972775
+Read reply: 1716461608058044442
+Time taken: 73541
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608058171500
+Read reply: 1716461608058241716
+Time taken: 71797
+Sent pre-request at 1716461608058256989
+Time sleep: 122
+Sent request at 1716461608058525505
+Read reply: 1716461608058595806
+Time taken: 71979
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608058706986
+Read reply: 1716461608058777672
+Time taken: 71561
+Sent pre-request at 1716461608058793287
+Time sleep: 124
+Sent request at 1716461608059064018
+Read reply: 1716461608059145909
+Time taken: 83504
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608059233275
+Read reply: 1716461608059304731
+Time taken: 73308
+Sent pre-request at 1716461608059320051
+Time sleep: 82
+Sent request at 1716461608059548647
+Read reply: 1716461608059620956
+Time taken: 74035
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608059754123
+Read reply: 1716461608059824194
+Time taken: 72441
+Sent pre-request at 1716461608059840122
+Time sleep: 83
+Sent request at 1716461608060069926
+Read reply: 1716461608060144621
+Time taken: 75808
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608060235764
+Read reply: 1716461608060310375
+Time taken: 76322
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608060410437
+Read reply: 1716461608060485008
+Time taken: 71495
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608060589142
+Read reply: 1716461608060663427
+Time taken: 71514
+Sent pre-request at 1716461608060678820
+Time sleep: 282
+Sent request at 1716461608061108073
+Read reply: 1716461608061179702
+Time taken: 73131
+Sent pre-request at 1716461608061194984
+Time sleep: 158
+Sent request at 1716461608061499656
+Read reply: 1716461608061570480
+Time taken: 72599
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608061705202
+Read reply: 1716461608061780885
+Time taken: 76504
+Sent pre-request at 1716461608061796110
+Time sleep: 203
+Sent request at 1716461608062147372
+Read reply: 1716461608062218538
+Time taken: 72832
+Sent pre-request at 1716461608062233622
+Time sleep: 156
+Sent request at 1716461608062536197
+Read reply: 1716461608062607011
+Time taken: 72485
+Sent pre-request at 1716461608062622268
+Time sleep: 84
+Sent request at 1716461608062852752
+Read reply: 1716461608062923318
+Time taken: 72300
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608063019090
+Read reply: 1716461608063109169
+Time taken: 85877
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Sent request at 1716461608063211745
+Read reply: 1716461608063290932
+Time taken: 76868
+Sent pre-request at 1716461608063306479
+Time sleep: 77
+Sent request at 1716461608063530035
+Read reply: 1716461608063604256
+Time taken: 75992
+Sent pre-request at 1716461608063619619
+Time sleep: 81
+Sent request at 1716461608063847349
+Read reply: 1716461608063918051
+Time taken: 72397
+Sent pre-request at 1716461608063933310
+Time sleep: 77
+Sent request at 1716461608064158204
+Read reply: 1716461608064232857
+Time taken: 75417
+Sent pre-request at 1716461608064248440
+Time sleep: 284
+Sent request at 1716461608064678952
+Read reply: 1716461608064750438
+Time taken: 73243
+Sent pre-request at 1716461608064765842
+Time sleep: 352
+Sent request at 1716461608065264842
+Read reply: 1716461608065336458
+Time taken: 72812
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608065423469
+Read reply: 1716461608065492429
+Time taken: 70851
+Sent pre-request at 1716461608065507893
+Time sleep: 69
+Sent request at 1716461608065701127
+Read reply: 1716461608065775713
+Time taken: 74810
+Sent pre-request at 1716461608065790777
+Time sleep: 234
+Sent request at 1716461608066172009
+Read reply: 1716461608066244331
+Time taken: 73406
+Sent pre-request at 1716461608066259487
+Time sleep: 181
+Sent request at 1716461608066587049
+Read reply: 1716461608066658700
+Time taken: 73412
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608066747631
+Read reply: 1716461608066817008
+Time taken: 71238
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608066912350
+Read reply: 1716461608067014467
+Time taken: 98334
+Sent pre-request at 1716461608067030115
+Time sleep: 76
+Sent request at 1716461608067253331
+Read reply: 1716461608067334919
+Time taken: 82865
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608067467488
+Read reply: 1716461608067542033
+Time taken: 76081
+Sent pre-request at 1716461608067557379
+Time sleep: 158
+Sent request at 1716461608067862372
+Read reply: 1716461608067934413
+Time taken: 73631
+Sent pre-request at 1716461608067949815
+Time sleep: 125
+Sent request at 1716461608068222239
+Read reply: 1716461608068294857
+Time taken: 73597
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608068388662
+Read reply: 1716461608068464443
+Time taken: 77612
+Sent pre-request at 1716461608068480033
+Time sleep: 167
+Sent request at 1716461608068793677
+Read reply: 1716461608068864758
+Time taken: 72721
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608068985680
+Read reply: 1716461608069056995
+Time taken: 71971
+Sent pre-request at 1716461608069072257
+Time sleep: 61
+Sent request at 1716461608069280380
+Read reply: 1716461608069351769
+Time taken: 72454
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608069485314
+Read reply: 1716461608069556324
+Time taken: 72721
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608069681979
+Read reply: 1716461608069756701
+Time taken: 74888
+Sent pre-request at 1716461608069772002
+Time sleep: 91
+Sent request at 1716461608070010135
+Read reply: 1716461608070081924
+Time taken: 73544
+Sent pre-request at 1716461608070097323
+Time sleep: 80
+Sent request at 1716461608070324733
+Read reply: 1716461608070395934
+Time taken: 72343
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608070517311
+Read reply: 1716461608070588850
+Time taken: 72268
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Sent request at 1716461608070723932
+Read reply: 1716461608070794115
+Time taken: 71767
+Sent pre-request at 1716461608070809653
+Time sleep: 171
+Sent request at 1716461608071127181
+Read reply: 1716461608071207466
+Time taken: 82036
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608071308209
+Read reply: 1716461608071387298
+Time taken: 76171
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608071498732
+Read reply: 1716461608071571733
+Time taken: 73680
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Sent request at 1716461608071706868
+Read reply: 1716461608071778564
+Time taken: 73298
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608071894496
+Read reply: 1716461608071967146
+Time taken: 73268
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608072094010
+Read reply: 1716461608072165312
+Time taken: 72872
+Sent pre-request at 1716461608072180962
+Time sleep: 263
+Sent request at 1716461608072591248
+Read reply: 1716461608072664899
+Time taken: 74607
+Sent pre-request at 1716461608072680396
+Time sleep: 155
+Sent request at 1716461608072982557
+Read reply: 1716461608073053889
+Time taken: 73020
+Sent pre-request at 1716461608073069202
+Time sleep: 211
+Sent request at 1716461608073426830
+Read reply: 1716461608073497379
+Time taken: 72591
+Sent pre-request at 1716461608073513048
+Time sleep: 204
+Sent request at 1716461608073853578
+Read reply: 1716461608073928845
+Time taken: 76441
+Sent pre-request at 1716461608073943887
+Time sleep: 142
+Sent request at 1716461608074232978
+Read reply: 1716461608074303360
+Time taken: 72412
+Sent pre-request at 1716461608074318766
+Time sleep: 228
+Sent request at 1716461608074693978
+Read reply: 1716461608074765386
+Time taken: 72978
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608074897461
+Read reply: 1716461608074967282
+Time taken: 71545
+Sent pre-request at 1716461608074982572
+Time sleep: 109
+Sent request at 1716461608075238117
+Read reply: 1716461608075319487
+Time taken: 82893
+Sent pre-request at 1716461608075334527
+Time sleep: 132
+Sent request at 1716461608075613821
+Read reply: 1716461608075687079
+Time taken: 74574
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Sent request at 1716461608075841249
+Read reply: 1716461608075913355
+Time taken: 73871
+Sent pre-request at 1716461608075929380
+Time sleep: 140
+Sent request at 1716461608076216080
+Read reply: 1716461608076289604
+Time taken: 75254
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608076407583
+Read reply: 1716461608076480656
+Time taken: 73780
+Sent pre-request at 1716461608076496148
+Time sleep: 146
+Sent request at 1716461608076790172
+Read reply: 1716461608076863203
+Time taken: 74771
+Sent pre-request at 1716461608076878594
+Time sleep: 79
+Sent request at 1716461608077104700
+Read reply: 1716461608077176828
+Time taken: 73065
+Sent pre-request at 1716461608077192301
+Time sleep: 425
+Sent request at 1716461608077766513
+Read reply: 1716461608077843458
+Time taken: 76669
+Sent pre-request at 1716461608077858582
+Time sleep: 189
+Sent request at 1716461608078194858
+Read reply: 1716461608078265859
+Time taken: 72647
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608078396838
+Read reply: 1716461608078467199
+Time taken: 71961
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Sent request at 1716461608078585125
+Read reply: 1716461608078656315
+Time taken: 71855
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608078779515
+Read reply: 1716461608078851556
+Time taken: 72338
+Sent pre-request at 1716461608078866706
+Time sleep: 136
+Sent request at 1716461608079149317
+Read reply: 1716461608079231578
+Time taken: 84035
+Sent pre-request at 1716461608079247291
+Time sleep: 89
+Sent request at 1716461608079482907
+Read reply: 1716461608079554631
+Time taken: 73411
+Sent pre-request at 1716461608079570042
+Time sleep: 238
+Sent request at 1716461608079955202
+Read reply: 1716461608080027315
+Time taken: 73715
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608080148795
+Read reply: 1716461608080221872
+Time taken: 73547
+Sent pre-request at 1716461608080237141
+Time sleep: 198
+Sent request at 1716461608080581771
+Read reply: 1716461608080653372
+Time taken: 73502
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608080774525
+Read reply: 1716461608080849025
+Time taken: 75155
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608080947368
+Read reply: 1716461608081023973
+Time taken: 73123
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608081110790
+Read reply: 1716461608081179766
+Time taken: 70657
+Sent pre-request at 1716461608081195190
+Time sleep: 66
+Sent request at 1716461608081407694
+Read reply: 1716461608081478774
+Time taken: 72618
+Sent pre-request at 1716461608081494274
+Time sleep: 70
+Sent request at 1716461608081703902
+Read reply: 1716461608081778893
+Time taken: 75315
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608081894676
+Read reply: 1716461608081966717
+Time taken: 72671
+Sent pre-request at 1716461608081982130
+Time sleep: 175
+Sent request at 1716461608082304295
+Read reply: 1716461608082375388
+Time taken: 72810
+Sent pre-request at 1716461608082390757
+Time sleep: 56
+Sent request at 1716461608082593424
+Read reply: 1716461608082664251
+Time taken: 72613
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608082752665
+Read reply: 1716461608082821826
+Time taken: 70886
+Sent pre-request at 1716461608082837986
+Time sleep: 122
+Sent request at 1716461608083107237
+Read reply: 1716461608083189334
+Time taken: 83836
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608083312274
+Read reply: 1716461608083387510
+Time taken: 76008
+Sent pre-request at 1716461608083402943
+Time sleep: 153
+Sent request at 1716461608083702440
+Read reply: 1716461608083774521
+Time taken: 73815
+Sent pre-request at 1716461608083789852
+Time sleep: 92
+Sent request at 1716461608084028990
+Read reply: 1716461608084135886
+Time taken: 108255
+Sent pre-request at 1716461608084151277
+Time sleep: 111
+Sent request at 1716461608084408862
+Read reply: 1716461608084482313
+Time taken: 75147
+Sent pre-request at 1716461608084497667
+Time sleep: 59
+Sent request at 1716461608084703536
+Read reply: 1716461608084774876
+Time taken: 72893
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608084902012
+Read reply: 1716461608084972353
+Time taken: 71990
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608085065550
+Read reply: 1716461608085141900
+Time taken: 77803
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Sent request at 1716461608085254154
+Read reply: 1716461608085325221
+Time taken: 71725
+Sent pre-request at 1716461608085340485
+Time sleep: 94
+Sent request at 1716461608085581049
+Read reply: 1716461608085713954
+Time taken: 78936
+Sent pre-request at 1716461608085729844
+Time sleep: 182
+Sent request at 1716461608086059695
+Read reply: 1716461608086150357
+Time taken: 91889
+Sent pre-request at 1716461608086165811
+Time sleep: 139
+Sent request at 1716461608086451481
+Read reply: 1716461608086522462
+Time taken: 72950
+Sent pre-request at 1716461608086538006
+Time sleep: 90
+Sent request at 1716461608086774589
+Read reply: 1716461608086845187
+Time taken: 72223
+Sent pre-request at 1716461608086860512
+Time sleep: 116
+Sent request at 1716461608087123664
+Read reply: 1716461608087206512
+Time taken: 84007
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608087305437
+Read reply: 1716461608087383464
+Time taken: 75675
+Sent pre-request at 1716461608087398773
+Time sleep: 196
+Sent request at 1716461608087741323
+Read reply: 1716461608087813464
+Time taken: 73884
+Sent pre-request at 1716461608087828894
+Time sleep: 590
+Sent request at 1716461608088565841
+Read reply: 1716461608088727872
+Time taken: 163022
+Sent pre-request at 1716461608088743254
+Time sleep: 197
+Sent request at 1716461608089086843
+Read reply: 1716461608089160993
+Time taken: 75881
+Sent pre-request at 1716461608089176344
+Time sleep: 60
+Sent request at 1716461608089382992
+Read reply: 1716461608089456402
+Time taken: 74932
+Sent pre-request at 1716461608089472018
+Time sleep: 235
+Sent request at 1716461608089864403
+Read reply: 1716461608089939564
+Time taken: 76053
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608090047513
+Read reply: 1716461608090119354
+Time taken: 72251
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608090244934
+Read reply: 1716461608090316316
+Time taken: 72291
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Sent request at 1716461608090428348
+Read reply: 1716461608090499365
+Time taken: 71685
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608090617574
+Read reply: 1716461608090688855
+Time taken: 71981
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608090812044
+Read reply: 1716461608090883345
+Time taken: 71860
+Sent pre-request at 1716461608090898658
+Time sleep: 117
+Sent request at 1716461608091163054
+Read reply: 1716461608091253364
+Time taken: 92465
+Sent pre-request at 1716461608091269147
+Time sleep: 148
+Sent request at 1716461608091564744
+Read reply: 1716461608091637449
+Time taken: 74557
+Sent pre-request at 1716461608091652996
+Time sleep: 79
+Sent request at 1716461608091878739
+Read reply: 1716461608091951854
+Time taken: 73988
+Sent pre-request at 1716461608091967273
+Time sleep: 72
+Sent request at 1716461608092185909
+Read reply: 1716461608092256883
+Time taken: 72506
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608092370660
+Read reply: 1716461608092443137
+Time taken: 72801
+Sent pre-request at 1716461608092458393
+Time sleep: 85
+Sent request at 1716461608092690371
+Read reply: 1716461608092762907
+Time taken: 73435
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608092878064
+Read reply: 1716461608092949354
+Time taken: 72054
+Sent pre-request at 1716461608092964804
+Time sleep: 71
+Sent request at 1716461608093182462
+Read reply: 1716461608093253439
+Time taken: 72629
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Sent request at 1716461608093384066
+Read reply: 1716461608093454727
+Time taken: 71651
+Sent pre-request at 1716461608093470112
+Time sleep: 175
+Sent request at 1716461608093807631
+Read reply: 1716461608093882972
+Time taken: 76220
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608093991890
+Read reply: 1716461608094067660
+Time taken: 76344
+Sent pre-request at 1716461608094083104
+Time sleep: 164
+Sent request at 1716461608094394451
+Read reply: 1716461608094469276
+Time taken: 76432
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608094577863
+Read reply: 1716461608094649799
+Time taken: 72539
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Sent request at 1716461608094767891
+Read reply: 1716461608094840101
+Time taken: 72954
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608094927373
+Read reply: 1716461608095000250
+Time taken: 73814
+Sent pre-request at 1716461608095015574
+Time sleep: 150
+Sent request at 1716461608095312302
+Read reply: 1716461608095393799
+Time taken: 83243
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608095489567
+Read reply: 1716461608095569889
+Time taken: 76030
+Sent pre-request at 1716461608095585178
+Time sleep: 144
+Sent request at 1716461608095876040
+Read reply: 1716461608095948381
+Time taken: 74081
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608096080685
+Read reply: 1716461608096152293
+Time taken: 73501
+Sent pre-request at 1716461608096167699
+Time sleep: 150
+Sent request at 1716461608096465498
+Read reply: 1716461608096539815
+Time taken: 75982
+Sent pre-request at 1716461608096555176
+Time sleep: 212
+Sent request at 1716461608096914095
+Read reply: 1716461608096986282
+Time taken: 73871
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608097102318
+Read reply: 1716461608097173979
+Time taken: 72251
+Sent pre-request at 1716461608097189286
+Time sleep: 148
+Sent request at 1716461608097484183
+Read reply: 1716461608097555230
+Time taken: 72721
+Sent pre-request at 1716461608097570594
+Time sleep: 135
+Sent request at 1716461608097853349
+Read reply: 1716461608097926926
+Time taken: 75108
+Sent pre-request at 1716461608097942290
+Time sleep: 115
+Sent request at 1716461608098204990
+Read reply: 1716461608098276328
+Time taken: 73141
+Sent pre-request at 1716461608098291861
+Time sleep: 113
+Sent request at 1716461608098551652
+Read reply: 1716461608098622522
+Time taken: 73236
+Sent pre-request at 1716461608098638385
+Time sleep: 227
+Sent request at 1716461608099012535
+Read reply: 1716461608099109402
+Time taken: 98825
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608099196880
+Read reply: 1716461608099272266
+Time taken: 77049
+Sent pre-request at 1716461608099287344
+Time sleep: 216
+Sent request at 1716461608099650144
+Read reply: 1716461608099722636
+Time taken: 74069
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608099826503
+Read reply: 1716461608099903151
+Time taken: 74294
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608100027669
+Read reply: 1716461608100099007
+Time taken: 72957
+Sent pre-request at 1716461608100114283
+Time sleep: 85
+Sent request at 1716461608100346074
+Read reply: 1716461608100418947
+Time taken: 73765
+Sent pre-request at 1716461608100434468
+Time sleep: 286
+Sent request at 1716461608100867818
+Read reply: 1716461608100940726
+Time taken: 73871
+Sent pre-request at 1716461608100955959
+Time sleep: 202
+Sent request at 1716461608101304748
+Read reply: 1716461608101375919
+Time taken: 72852
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608101471766
+Read reply: 1716461608101545752
+Time taken: 75667
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608101605537
+Read reply: 1716461608101723264
+Time taken: 122647
+Sent pre-request at 1716461608101738796
+Time sleep: 58
+Sent request at 1716461608101944608
+Read reply: 1716461608102016449
+Time taken: 73518
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608102139096
+Read reply: 1716461608102210751
+Time taken: 72454
+Sent pre-request at 1716461608102226127
+Time sleep: 107
+Sent request at 1716461608102480242
+Read reply: 1716461608102550876
+Time taken: 72336
+Sent pre-request at 1716461608102566173
+Time sleep: 161
+Sent request at 1716461608102874451
+Read reply: 1716461608102946584
+Time taken: 73035
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608103047878
+Read reply: 1716461608103132417
+Time taken: 82966
+Sent pre-request at 1716461608103148361
+Time sleep: 182
+Sent request at 1716461608103477519
+Read reply: 1716461608103550520
+Time taken: 74447
+Sent pre-request at 1716461608103565516
+Time sleep: 94
+Sent request at 1716461608103806476
+Read reply: 1716461608103877941
+Time taken: 73219
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608104002854
+Read reply: 1716461608104075715
+Time taken: 74526
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608104170755
+Read reply: 1716461608104248991
+Time taken: 75610
+Sent pre-request at 1716461608104264850
+Time sleep: 96
+Sent request at 1716461608104507541
+Read reply: 1716461608104579175
+Time taken: 73496
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608104674393
+Read reply: 1716461608104749843
+Time taken: 77162
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608104854895
+Read reply: 1716461608104929972
+Time taken: 72420
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Sent request at 1716461608105064252
+Read reply: 1716461608105135103
+Time taken: 72977
+Sent pre-request at 1716461608105150846
+Time sleep: 61
+Sent request at 1716461608105358382
+Read reply: 1716461608105429038
+Time taken: 72180
+Sent pre-request at 1716461608105444760
+Time sleep: 312
+Sent request at 1716461608105903514
+Read reply: 1716461608105977572
+Time taken: 74780
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Sent request at 1716461608106096183
+Read reply: 1716461608106167974
+Time taken: 72605
+Sent pre-request at 1716461608106183445
+Time sleep: 117
+Sent request at 1716461608106447529
+Read reply: 1716461608106518630
+Time taken: 73548
+Sent pre-request at 1716461608106534414
+Time sleep: 131
+Sent request at 1716461608106812487
+Read reply: 1716461608106883573
+Time taken: 73636
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608106970590
+Read reply: 1716461608107041803
+Time taken: 72881
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608107175219
+Read reply: 1716461608107256489
+Time taken: 83652
+Sent pre-request at 1716461608107272333
+Time sleep: 52
+Sent request at 1716461608107471639
+Read reply: 1716461608107544318
+Time taken: 74289
+Sent pre-request at 1716461608107559685
+Time sleep: 234
+Sent request at 1716461608107940394
+Read reply: 1716461608108012036
+Time taken: 73129
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608108145726
+Read reply: 1716461608108216538
+Time taken: 72709
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608108335891
+Read reply: 1716461608108408666
+Time taken: 73551
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608108501892
+Read reply: 1716461608108577272
+Time taken: 76991
+Sent pre-request at 1716461608108592699
+Time sleep: 119
+Sent request at 1716461608108858523
+Read reply: 1716461608108930018
+Time taken: 73382
+Sent pre-request at 1716461608108945144
+Time sleep: 203
+Sent request at 1716461608109295489
+Read reply: 1716461608109367043
+Time taken: 73091
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608109454545
+Read reply: 1716461608109524298
+Time taken: 71336
+Sent pre-request at 1716461608109540085
+Time sleep: 83
+Sent request at 1716461608109770785
+Read reply: 1716461608109845566
+Time taken: 76518
+Sent pre-request at 1716461608109860663
+Time sleep: 323
+Sent request at 1716461608110331657
+Read reply: 1716461608110404084
+Time taken: 73422
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608110513612
+Read reply: 1716461608110584813
+Time taken: 71855
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608110672058
+Read reply: 1716461608110741489
+Time taken: 70851
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608110860441
+Read reply: 1716461608110931566
+Time taken: 71863
+Sent pre-request at 1716461608110946962
+Time sleep: 173
+Sent request at 1716461608111267283
+Read reply: 1716461608111349622
+Time taken: 84222
+Sent pre-request at 1716461608111365675
+Time sleep: 167
+Sent request at 1716461608111679373
+Read reply: 1716461608111751375
+Time taken: 73474
+Sent pre-request at 1716461608111766563
+Time sleep: 53
+Sent request at 1716461608111966591
+Read reply: 1716461608112038668
+Time taken: 73934
+Sent pre-request at 1716461608112054167
+Time sleep: 108
+Sent request at 1716461608112309428
+Read reply: 1716461608112384326
+Time taken: 75758
+Sent pre-request at 1716461608112399819
+Time sleep: 54
+Sent request at 1716461608112600837
+Read reply: 1716461608112671878
+Time taken: 72752
+Sent pre-request at 1716461608112687268
+Time sleep: 129
+Sent request at 1716461608112962962
+Read reply: 1716461608113035132
+Time taken: 73926
+Sent pre-request at 1716461608113050467
+Time sleep: 139
+Sent request at 1716461608113336656
+Read reply: 1716461608113409092
+Time taken: 73475
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608113499142
+Read reply: 1716461608113571860
+Time taken: 74293
+Sent pre-request at 1716461608113587031
+Time sleep: 167
+Sent request at 1716461608113912312
+Read reply: 1716461608113985060
+Time taken: 74504
+Sent pre-request at 1716461608114000091
+Time sleep: 265
+Sent request at 1716461608114412538
+Read reply: 1716461608114485504
+Time taken: 73974
+Sent pre-request at 1716461608114500790
+Time sleep: 55
+Sent request at 1716461608114702767
+Read reply: 1716461608114775337
+Time taken: 73418
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608114895375
+Read reply: 1716461608114966550
+Time taken: 71766
+Sent pre-request at 1716461608114981831
+Time sleep: 217
+Sent request at 1716461608115345516
+Read reply: 1716461608115423337
+Time taken: 79487
+Sent pre-request at 1716461608115438628
+Time sleep: 117
+Sent request at 1716461608115702461
+Read reply: 1716461608115774226
+Time taken: 74348
+Sent pre-request at 1716461608115790953
+Time sleep: 336
+Sent request at 1716461608116273662
+Read reply: 1716461608116344871
+Time taken: 72817
+Sent pre-request at 1716461608116360071
+Time sleep: 95
+Sent request at 1716461608116603187
+Read reply: 1716461608116675188
+Time taken: 73514
+Sent pre-request at 1716461608116690375
+Time sleep: 119
+Sent request at 1716461608116956272
+Read reply: 1716461608117027046
+Time taken: 72644
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Sent request at 1716461608117155326
+Read reply: 1716461608117225752
+Time taken: 72897
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608117315154
+Read reply: 1716461608117389362
+Time taken: 75478
+Sent pre-request at 1716461608117404646
+Time sleep: 92
+Sent request at 1716461608117605338
+Read reply: 1716461608117679629
+Time taken: 75166
+Sent pre-request at 1716461608117694834
+Time sleep: 128
+Sent request at 1716461608117969814
+Read reply: 1716461608118041048
+Time taken: 72982
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608118165890
+Read reply: 1716461608118236454
+Time taken: 72113
+Sent pre-request at 1716461608118251862
+Time sleep: 112
+Sent request at 1716461608118511138
+Read reply: 1716461608118581943
+Time taken: 72782
+Sent pre-request at 1716461608118597439
+Time sleep: 54
+Sent request at 1716461608118798422
+Read reply: 1716461608118897441
+Time taken: 100748
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Sent request at 1716461608119008558
+Read reply: 1716461608119127903
+Time taken: 119921
+Sent pre-request at 1716461608119143365
+Time sleep: 117
+Sent request at 1716461608119407404
+Read reply: 1716461608119479354
+Time taken: 74247
+Sent pre-request at 1716461608119495345
+Time sleep: 461
+Sent request at 1716461608120105055
+Read reply: 1716461608120176999
+Time taken: 73514
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608120279291
+Read reply: 1716461608120353734
+Time taken: 72024
+Sent pre-request at 1716461608120369205
+Time sleep: 193
+Sent request at 1716461608120709652
+Read reply: 1716461608120781834
+Time taken: 73165
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608120868459
+Read reply: 1716461608120939769
+Time taken: 72226
+Sent pre-request at 1716461608120955192
+Time sleep: 55
+Sent request at 1716461608121157420
+Read reply: 1716461608121228550
+Time taken: 73496
+Sent pre-request at 1716461608121244801
+Time sleep: 113
+Sent request at 1716461608121504719
+Read reply: 1716461608121575925
+Time taken: 72920
+Sent pre-request at 1716461608121601035
+Time sleep: 167
+Sent request at 1716461608121917787
+Read reply: 1716461608121990446
+Time taken: 74410
+Sent pre-request at 1716461608122005825
+Time sleep: 184
+Sent request at 1716461608122336840
+Read reply: 1716461608122407782
+Time taken: 72846
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608122535173
+Read reply: 1716461608122605740
+Time taken: 72210
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608122722096
+Read reply: 1716461608122793659
+Time taken: 72159
+Sent pre-request at 1716461608122809156
+Time sleep: 84
+Sent request at 1716461608123040302
+Read reply: 1716461608123125565
+Time taken: 86896
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608123221740
+Read reply: 1716461608123299500
+Time taken: 74061
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608123417381
+Read reply: 1716461608123489983
+Time taken: 73253
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608123623172
+Read reply: 1716461608123695232
+Time taken: 73601
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608123784094
+Read reply: 1716461608123860535
+Time taken: 76642
+Sent pre-request at 1716461608123876003
+Time sleep: 121
+Sent request at 1716461608124144026
+Read reply: 1716461608124216479
+Time taken: 74323
+Sent pre-request at 1716461608124232033
+Time sleep: 106
+Sent request at 1716461608124484911
+Read reply: 1716461608124556738
+Time taken: 73332
+Sent pre-request at 1716461608124572027
+Time sleep: 237
+Sent request at 1716461608124956398
+Read reply: 1716461608125029161
+Time taken: 73664
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Sent request at 1716461608125164461
+Read reply: 1716461608125235138
+Time taken: 72191
+Sent pre-request at 1716461608125262317
+Time sleep: 96
+Sent request at 1716461608125505799
+Read reply: 1716461608125577103
+Time taken: 72996
+Sent pre-request at 1716461608125601480
+Time sleep: 74
+Sent request at 1716461608125823771
+Read reply: 1716461608125897924
+Time taken: 74721
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608125993275
+Read reply: 1716461608126068354
+Time taken: 72551
+Sent pre-request at 1716461608126083864
+Time sleep: 330
+Sent request at 1716461608126560654
+Read reply: 1716461608126631878
+Time taken: 73006
+Sent pre-request at 1716461608126647588
+Time sleep: 79
+Sent request at 1716461608126873415
+Read reply: 1716461608126946032
+Time taken: 73421
+Sent pre-request at 1716461608126961439
+Time sleep: 117
+Sent request at 1716461608127225237
+Read reply: 1716461608127306387
+Time taken: 82817
+Sent pre-request at 1716461608127321572
+Time sleep: 116
+Sent request at 1716461608127584528
+Read reply: 1716461608127656339
+Time taken: 73511
+Sent pre-request at 1716461608127671877
+Time sleep: 204
+Sent request at 1716461608128023379
+Read reply: 1716461608128097152
+Time taken: 74662
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608128228394
+Read reply: 1716461608128300159
+Time taken: 73484
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608128397553
+Read reply: 1716461608128473461
+Time taken: 73309
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608128566885
+Read reply: 1716461608128642028
+Time taken: 76869
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608128733264
+Read reply: 1716461608128804523
+Time taken: 72121
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608128900735
+Read reply: 1716461608128975031
+Time taken: 71815
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608129088654
+Read reply: 1716461608129161354
+Time taken: 73191
+Sent pre-request at 1716461608129176892
+Time sleep: 243
+Sent request at 1716461608129566920
+Read reply: 1716461608129640186
+Time taken: 71601
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608129733143
+Read reply: 1716461608129800968
+Time taken: 73425
+Sent pre-request at 1716461608129816634
+Time sleep: 101
+Sent request at 1716461608130065484
+Read reply: 1716461608130135435
+Time taken: 71556
+Sent pre-request at 1716461608130150935
+Time sleep: 89
+Sent request at 1716461608130387625
+Read reply: 1716461608130457567
+Time taken: 71470
+Sent pre-request at 1716461608130473044
+Time sleep: 245
+Sent request at 1716461608130865398
+Read reply: 1716461608130935119
+Time taken: 71412
+Sent pre-request at 1716461608130950540
+Time sleep: 65
+Sent request at 1716461608131163257
+Read reply: 1716461608131241158
+Time taken: 78738
+Sent pre-request at 1716461608131256619
+Time sleep: 266
+Sent request at 1716461608131670044
+Read reply: 1716461608131740782
+Time taken: 72335
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608131842877
+Read reply: 1716461608131911908
+Time taken: 70765
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608132002186
+Read reply: 1716461608132071462
+Time taken: 70271
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608132159571
+Read reply: 1716461608132230008
+Time taken: 71481
+Sent pre-request at 1716461608132245563
+Time sleep: 55
+Sent request at 1716461608132448108
+Read reply: 1716461608132518227
+Time taken: 74047
+Sent pre-request at 1716461608132536136
+Time sleep: 56
+Sent request at 1716461608132739987
+Read reply: 1716461608132811521
+Time taken: 72301
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608132901554
+Read reply: 1716461608132970325
+Time taken: 69801
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Sent request at 1716461608133069740
+Read reply: 1716461608133137851
+Time taken: 69825
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608133232637
+Read reply: 1716461608133301707
+Time taken: 69932
+Sent pre-request at 1716461608133317160
+Time sleep: 298
+Sent request at 1716461608133762799
+Read reply: 1716461608133834480
+Time taken: 72893
+Sent pre-request at 1716461608133850206
+Time sleep: 73
+Sent request at 1716461608134071358
+Read reply: 1716461608134140610
+Time taken: 71097
+Sent pre-request at 1716461608134156636
+Time sleep: 121
+Sent request at 1716461608134426123
+Read reply: 1716461608134496810
+Time taken: 72464
+Sent pre-request at 1716461608134512161
+Time sleep: 64
+Sent request at 1716461608134723870
+Read reply: 1716461608134794920
+Time taken: 72127
+Sent pre-request at 1716461608134811249
+Time sleep: 93
+Sent request at 1716461608135051809
+Read reply: 1716461608135126770
+Time taken: 76628
+Sent pre-request at 1716461608135142334
+Time sleep: 109
+Sent request at 1716461608135399170
+Read reply: 1716461608135470664
+Time taken: 73076
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608135558717
+Read reply: 1716461608135654444
+Time taken: 97321
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608135776439
+Read reply: 1716461608135846336
+Time taken: 71521
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Sent request at 1716461608135975469
+Read reply: 1716461608136043883
+Time taken: 69972
+Sent pre-request at 1716461608136059274
+Time sleep: 223
+Sent request at 1716461608136430348
+Read reply: 1716461608136502753
+Time taken: 73354
+Sent pre-request at 1716461608136518384
+Time sleep: 110
+Sent request at 1716461608136775828
+Read reply: 1716461608136845421
+Time taken: 71077
+Sent pre-request at 1716461608136860718
+Time sleep: 62
+Sent request at 1716461608137070252
+Read reply: 1716461608137141615
+Time taken: 72113
+Sent pre-request at 1716461608137157133
+Time sleep: 307
+Sent request at 1716461608137604785
+Read reply: 1716461608137678697
+Time taken: 73952
+Sent pre-request at 1716461608137694351
+Time sleep: 129
+Sent request at 1716461608137971441
+Read reply: 1716461608138041398
+Time taken: 71415
+Sent pre-request at 1716461608138056699
+Time sleep: 83
+Sent request at 1716461608138287639
+Read reply: 1716461608138357350
+Time taken: 70685
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608138461567
+Read reply: 1716461608138531079
+Time taken: 70431
+Sent pre-request at 1716461608138546609
+Time sleep: 101
+Sent request at 1716461608138794991
+Read reply: 1716461608138864594
+Time taken: 71316
+Sent pre-request at 1716461608138880103
+Time sleep: 109
+Sent request at 1716461608139136462
+Read reply: 1716461608139214279
+Time taken: 79486
+Sent pre-request at 1716461608139229425
+Time sleep: 162
+Sent request at 1716461608139539207
+Read reply: 1716461608139610575
+Time taken: 72236
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608139722326
+Read reply: 1716461608139791520
+Time taken: 70752
+Sent pre-request at 1716461608139806728
+Time sleep: 86
+Sent request at 1716461608140040060
+Read reply: 1716461608140109005
+Time taken: 70589
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Sent request at 1716461608140228090
+Read reply: 1716461608140296194
+Time taken: 69724
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Sent request at 1716461608140399140
+Read reply: 1716461608140467286
+Time taken: 69854
+Sent pre-request at 1716461608140482563
+Time sleep: 130
+Sent request at 1716461608140760927
+Read reply: 1716461608140830499
+Time taken: 72062
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Sent request at 1716461608140957221
+Read reply: 1716461608141025329
+Time taken: 69837
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608141130783
+Read reply: 1716461608141199473
+Time taken: 70365
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608141301759
+Read reply: 1716461608141370147
+Time taken: 69884
+Sent pre-request at 1716461608141385600
+Time sleep: 143
+Sent request at 1716461608141683218
+Read reply: 1716461608141758095
+Time taken: 75281
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608141869150
+Read reply: 1716461608141937618
+Time taken: 70013
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608142055416
+Read reply: 1716461608142123721
+Time taken: 70081
+Sent pre-request at 1716461608142139127
+Time sleep: 186
+Sent request at 1716461608142472799
+Read reply: 1716461608142542176
+Time taken: 71130
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608142646614
+Read reply: 1716461608142715206
+Time taken: 70214
+Sent pre-request at 1716461608142730615
+Time sleep: 160
+Sent request at 1716461608143038054
+Read reply: 1716461608143116208
+Time taken: 79942
+Sent pre-request at 1716461608143131494
+Time sleep: 79
+Sent request at 1716461608143357904
+Read reply: 1716461608143428799
+Time taken: 72415
+Sent pre-request at 1716461608143444190
+Time sleep: 103
+Sent request at 1716461608143694529
+Read reply: 1716461608143766617
+Time taken: 73648
+Sent pre-request at 1716461608143781795
+Time sleep: 52
+Sent request at 1716461608143981377
+Read reply: 1716461608144050541
+Time taken: 70862
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608144160204
+Read reply: 1716461608144228335
+Time taken: 69625
+Sent pre-request at 1716461608144243581
+Time sleep: 109
+Sent request at 1716461608144499832
+Read reply: 1716461608144568916
+Time taken: 70612
+Sent pre-request at 1716461608144584349
+Time sleep: 123
+Sent request at 1716461608144855113
+Read reply: 1716461608144924821
+Time taken: 71281
+Sent pre-request at 1716461608144939891
+Time sleep: 83
+Sent request at 1716461608145170161
+Read reply: 1716461608145239286
+Time taken: 70655
+Sent pre-request at 1716461608145254839
+Time sleep: 82
+Sent request at 1716461608145484153
+Read reply: 1716461608145553216
+Time taken: 70491
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608145687721
+Read reply: 1716461608145760050
+Time taken: 73106
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608145849998
+Read reply: 1716461608145919088
+Time taken: 70541
+Sent pre-request at 1716461608145934546
+Time sleep: 72
+Sent request at 1716461608146154354
+Read reply: 1716461608146223479
+Time taken: 70587
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608146319517
+Read reply: 1716461608146387441
+Time taken: 69585
+Sent pre-request at 1716461608146402713
+Time sleep: 90
+Sent request at 1716461608146640099
+Read reply: 1716461608146709212
+Time taken: 70825
+Sent pre-request at 1716461608146724607
+Time sleep: 113
+Sent request at 1716461608146985440
+Read reply: 1716461608147055122
+Time taken: 71257
+Sent pre-request at 1716461608147070812
+Time sleep: 134
+Sent request at 1716461608147360800
+Read reply: 1716461608147436577
+Time taken: 77051
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Sent request at 1716461608147552672
+Read reply: 1716461608147620829
+Time taken: 69981
+Sent pre-request at 1716461608147636437
+Time sleep: 66
+Sent request at 1716461608147849887
+Read reply: 1716461608147919521
+Time taken: 71366
+Sent pre-request at 1716461608147935125
+Time sleep: 342
+Sent request at 1716461608148424610
+Read reply: 1716461608148494262
+Time taken: 71170
+Sent pre-request at 1716461608148509553
+Time sleep: 183
+Sent request at 1716461608148840108
+Read reply: 1716461608148909171
+Time taken: 70757
+Sent pre-request at 1716461608148924683
+Time sleep: 145
+Sent request at 1716461608149217769
+Read reply: 1716461608149287577
+Time taken: 71453
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Sent request at 1716461608149386885
+Read reply: 1716461608149454932
+Time taken: 69761
+Sent pre-request at 1716461608149470570
+Time sleep: 84
+Sent request at 1716461608149707684
+Read reply: 1716461608149778069
+Time taken: 72097
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608149874029
+Read reply: 1716461608149942279
+Time taken: 69897
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608150064979
+Read reply: 1716461608150133625
+Time taken: 70272
+Sent pre-request at 1716461608150149100
+Time sleep: 127
+Sent request at 1716461608150423856
+Read reply: 1716461608150493261
+Time taken: 71124
+Sent pre-request at 1716461608150508817
+Time sleep: 196
+Sent request at 1716461608150853112
+Read reply: 1716461608150922284
+Time taken: 70861
+Sent pre-request at 1716461608150937766
+Time sleep: 74
+Sent request at 1716461608151160324
+Read reply: 1716461608151237392
+Time taken: 78727
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608151323766
+Read reply: 1716461608151394348
+Time taken: 71380
+Sent pre-request at 1716461608151409647
+Time sleep: 122
+Sent request at 1716461608151678988
+Read reply: 1716461608151749183
+Time taken: 71746
+Sent pre-request at 1716461608151764645
+Time sleep: 119
+Sent request at 1716461608152030902
+Read reply: 1716461608152099998
+Time taken: 70838
+Sent pre-request at 1716461608152115248
+Time sleep: 160
+Sent request at 1716461608152422867
+Read reply: 1716461608152522401
+Time taken: 101102
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608152637956
+Read reply: 1716461608152707533
+Time taken: 71288
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608152834885
+Read reply: 1716461608152903749
+Time taken: 70595
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608153013008
+Read reply: 1716461608153081439
+Time taken: 70137
+Sent pre-request at 1716461608153096934
+Time sleep: 62
+Sent request at 1716461608153306995
+Read reply: 1716461608153377283
+Time taken: 72001
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608153463790
+Read reply: 1716461608153532935
+Time taken: 69897
+Sent pre-request at 1716461608153548322
+Time sleep: 245
+Sent request at 1716461608153941475
+Read reply: 1716461608154012161
+Time taken: 72131
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608154101067
+Read reply: 1716461608154170074
+Time taken: 69952
+Sent pre-request at 1716461608154185253
+Time sleep: 84
+Sent request at 1716461608154417343
+Read reply: 1716461608154488989
+Time taken: 72286
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608154608804
+Read reply: 1716461608154676997
+Time taken: 69888
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608154768863
+Read reply: 1716461608154837462
+Time taken: 69829
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608154931474
+Read reply: 1716461608154999619
+Time taken: 69775
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Sent request at 1716461608155135677
+Read reply: 1716461608155209518
+Time taken: 76511
+Sent pre-request at 1716461608155225710
+Time sleep: 106
+Sent request at 1716461608155479302
+Read reply: 1716461608155549848
+Time taken: 72443
+Sent pre-request at 1716461608155565724
+Time sleep: 144
+Sent request at 1716461608155857344
+Read reply: 1716461608155927170
+Time taken: 71528
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608156027401
+Read reply: 1716461608156095438
+Time taken: 69747
+Sent pre-request at 1716461608156110968
+Time sleep: 247
+Sent request at 1716461608156506126
+Read reply: 1716461608156576418
+Time taken: 72016
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Sent request at 1716461608156690674
+Read reply: 1716461608156759182
+Time taken: 70043
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608156855273
+Read reply: 1716461608156924154
+Time taken: 70481
+Sent pre-request at 1716461608156939763
+Time sleep: 141
+Sent request at 1716461608157228057
+Read reply: 1716461608157297465
+Time taken: 70961
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608157385099
+Read reply: 1716461608157454671
+Time taken: 70478
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608157565947
+Read reply: 1716461608157635998
+Time taken: 72997
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608157762946
+Read reply: 1716461608157832140
+Time taken: 70551
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608157930008
+Read reply: 1716461608157998719
+Time taken: 70261
+Sent pre-request at 1716461608158014250
+Time sleep: 75
+Sent request at 1716461608158237106
+Read reply: 1716461608158307459
+Time taken: 71467
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608158398215
+Read reply: 1716461608158468076
+Time taken: 70225
+Sent pre-request at 1716461608158483606
+Time sleep: 364
+Sent request at 1716461608158995209
+Read reply: 1716461608159078510
+Time taken: 84913
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608159169632
+Read reply: 1716461608159241567
+Time taken: 73664
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608159332214
+Read reply: 1716461608159400705
+Time taken: 70161
+Sent pre-request at 1716461608159416140
+Time sleep: 113
+Sent request at 1716461608159676723
+Read reply: 1716461608159747615
+Time taken: 72571
+Sent pre-request at 1716461608159762968
+Time sleep: 140
+Sent request at 1716461608160050144
+Read reply: 1716461608160119205
+Time taken: 70610
+Sent pre-request at 1716461608160134458
+Time sleep: 185
+Sent request at 1716461608160467018
+Read reply: 1716461608160555006
+Time taken: 89681
+Sent pre-request at 1716461608160570810
+Time sleep: 267
+Sent request at 1716461608160985065
+Read reply: 1716461608161054493
+Time taken: 70923
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608161150793
+Read reply: 1716461608161218981
+Time taken: 69796
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608161310246
+Read reply: 1716461608161378567
+Time taken: 69942
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Sent request at 1716461608161514724
+Read reply: 1716461608161582839
+Time taken: 78448
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608161688662
+Read reply: 1716461608161762513
+Time taken: 75170
+Sent pre-request at 1716461608161777409
+Time sleep: 331
+Sent request at 1716461608162256567
+Read reply: 1716461608162325462
+Time taken: 70524
+Sent pre-request at 1716461608162340677
+Time sleep: 55
+Sent request at 1716461608162543093
+Read reply: 1716461608162615574
+Time taken: 73186
+Sent pre-request at 1716461608162630809
+Time sleep: 111
+Sent request at 1716461608162889069
+Read reply: 1716461608162958401
+Time taken: 71165
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608163073826
+Read reply: 1716461608163154776
+Time taken: 82659
+Sent pre-request at 1716461608163169773
+Time sleep: 67
+Sent request at 1716461608163383896
+Read reply: 1716461608163457093
+Time taken: 74858
+Sent pre-request at 1716461608163472568
+Time sleep: 141
+Sent request at 1716461608163761338
+Read reply: 1716461608163834422
+Time taken: 74710
+Sent pre-request at 1716461608163849346
+Time sleep: 104
+Sent request at 1716461608164100750
+Read reply: 1716461608164169887
+Time taken: 70598
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608164270803
+Read reply: 1716461608164341346
+Time taken: 72315
+Sent pre-request at 1716461608164356510
+Time sleep: 73
+Sent request at 1716461608164576804
+Read reply: 1716461608164647740
+Time taken: 71885
+Sent pre-request at 1716461608164662815
+Time sleep: 152
+Sent request at 1716461608164961926
+Read reply: 1716461608165031323
+Time taken: 70944
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608165123404
+Read reply: 1716461608165191578
+Time taken: 69852
+Sent pre-request at 1716461608165206672
+Time sleep: 145
+Sent request at 1716461608165499086
+Read reply: 1716461608165568473
+Time taken: 71077
+Sent pre-request at 1716461608165583818
+Time sleep: 216
+Sent request at 1716461608165958027
+Read reply: 1716461608166028924
+Time taken: 72829
+Sent pre-request at 1716461608166044228
+Time sleep: 169
+Sent request at 1716461608166360683
+Read reply: 1716461608166429964
+Time taken: 70917
+Sent pre-request at 1716461608166445476
+Time sleep: 152
+Sent request at 1716461608166745220
+Read reply: 1716461608166815095
+Time taken: 71445
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608166912121
+Read reply: 1716461608166980812
+Time taken: 70390
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608167081779
+Read reply: 1716461608167162357
+Time taken: 81690
+Sent pre-request at 1716461608167177794
+Time sleep: 225
+Sent request at 1716461608167550359
+Read reply: 1716461608167621291
+Time taken: 72596
+Sent pre-request at 1716461608167636797
+Time sleep: 102
+Sent request at 1716461608167887060
+Read reply: 1716461608167958169
+Time taken: 72677
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608168064267
+Read reply: 1716461608168134287
+Time taken: 71072
+Sent pre-request at 1716461608168149644
+Time sleep: 203
+Sent request at 1716461608168499909
+Read reply: 1716461608168596841
+Time taken: 98714
+Sent pre-request at 1716461608168612174
+Time sleep: 120
+Sent request at 1716461608168880098
+Read reply: 1716461608168950707
+Time taken: 71630
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608169063072
+Read reply: 1716461608169133249
+Time taken: 71891
+Sent pre-request at 1716461608169148946
+Time sleep: 79
+Sent request at 1716461608169375253
+Read reply: 1716461608169445093
+Time taken: 70727
+Sent pre-request at 1716461608169460413
+Time sleep: 60
+Sent request at 1716461608169677186
+Read reply: 1716461608169748794
+Time taken: 72355
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608169841765
+Read reply: 1716461608169910757
+Time taken: 69987
+Sent pre-request at 1716461608169926113
+Time sleep: 65
+Sent request at 1716461608170138996
+Read reply: 1716461608170209210
+Time taken: 71148
+Sent pre-request at 1716461608170224460
+Time sleep: 79
+Sent request at 1716461608170451227
+Read reply: 1716461608170521042
+Time taken: 71432
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Sent request at 1716461608170620460
+Read reply: 1716461608170689497
+Time taken: 69744
+Sent pre-request at 1716461608170704692
+Time sleep: 208
+Sent request at 1716461608171060730
+Read reply: 1716461608171144438
+Time taken: 85512
+Sent pre-request at 1716461608171160404
+Time sleep: 105
+Sent request at 1716461608171413227
+Read reply: 1716461608171486896
+Time taken: 75454
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608171582450
+Read reply: 1716461608171654234
+Time taken: 72791
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608171776267
+Read reply: 1716461608171845837
+Time taken: 71068
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608171970943
+Read reply: 1716461608172040330
+Time taken: 70935
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 42
+Time sleep: 42
+Sent request at 1716461608172168363
+Read reply: 1716461608172237217
+Time taken: 70578
+Sent pre-request at 1716461608172252523
+Time sleep: 156
+Sent request at 1716461608172556168
+Read reply: 1716461608172625425
+Time taken: 71013
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608172719879
+Read reply: 1716461608172789358
+Time taken: 70437
+Sent pre-request at 1716461608172804722
+Time sleep: 490
+Sent request at 1716461608173442755
+Read reply: 1716461608173513361
+Time taken: 71603
+Sent pre-request at 1716461608173528796
+Time sleep: 274
+Sent request at 1716461608173950648
+Read reply: 1716461608174023936
+Time taken: 74681
+Sent pre-request at 1716461608174038833
+Time sleep: 92
+Sent request at 1716461608174280367
+Read reply: 1716461608174349937
+Time taken: 71197
+Sent pre-request at 1716461608174365478
+Time sleep: 149
+Sent request at 1716461608174662021
+Read reply: 1716461608174731148
+Time taken: 70853
+Sent pre-request at 1716461608174746499
+Time sleep: 539
+Sent request at 1716461608175433520
+Read reply: 1716461608175514234
+Time taken: 81735
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608175646573
+Read reply: 1716461608175718983
+Time taken: 74137
+Sent pre-request at 1716461608175734364
+Time sleep: 108
+Sent request at 1716461608175989837
+Read reply: 1716461608176059699
+Time taken: 71640
+Sent pre-request at 1716461608176075202
+Time sleep: 166
+Sent request at 1716461608176388799
+Read reply: 1716461608176459504
+Time taken: 72340
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608176561841
+Read reply: 1716461608176630307
+Time taken: 70003
+Sent pre-request at 1716461608176645643
+Time sleep: 147
+Sent request at 1716461608176940235
+Read reply: 1716461608177012052
+Time taken: 73477
+Sent pre-request at 1716461608177027322
+Time sleep: 303
+Sent request at 1716461608177478342
+Read reply: 1716461608177550070
+Time taken: 72730
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608177604216
+Read reply: 1716461608177675336
+Time taken: 72365
+Sent pre-request at 1716461608177686681
+Time sleep: 53
+Sent request at 1716461608177887784
+Read reply: 1716461608177957512
+Time taken: 71408
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608178057507
+Read reply: 1716461608178125964
+Time taken: 70149
+Sent pre-request at 1716461608178141468
+Time sleep: 250
+Sent request at 1716461608178539570
+Read reply: 1716461608178610421
+Time taken: 72445
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608178707840
+Read reply: 1716461608178776886
+Time taken: 69930
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608178908833
+Read reply: 1716461608178977316
+Time taken: 70092
+Sent pre-request at 1716461608178992516
+Time sleep: 62
+Sent request at 1716461608179202063
+Read reply: 1716461608179278271
+Time taken: 77561
+Sent pre-request at 1716461608179293819
+Time sleep: 83
+Sent request at 1716461608179525389
+Read reply: 1716461608179595799
+Time taken: 71988
+Sent pre-request at 1716461608179611280
+Time sleep: 58
+Sent request at 1716461608179816856
+Read reply: 1716461608179885973
+Time taken: 73295
+Sent pre-request at 1716461608179904020
+Time sleep: 291
+Sent request at 1716461608180342550
+Read reply: 1716461608180411735
+Time taken: 70767
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608180509951
+Read reply: 1716461608180579004
+Time taken: 70901
+Sent pre-request at 1716461608180594883
+Time sleep: 83
+Sent request at 1716461608180825430
+Read reply: 1716461608180895878
+Time taken: 72105
+Sent pre-request at 1716461608180911275
+Time sleep: 172
+Sent request at 1716461608181230787
+Read reply: 1716461608181300241
+Time taken: 71159
+Sent pre-request at 1716461608181315841
+Time sleep: 145
+Sent request at 1716461608181603584
+Read reply: 1716461608181676073
+Time taken: 73561
+Sent pre-request at 1716461608181691419
+Time sleep: 106
+Sent request at 1716461608181945253
+Read reply: 1716461608182014764
+Time taken: 71128
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Sent request at 1716461608182113951
+Read reply: 1716461608182182996
+Time taken: 69961
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608182278215
+Read reply: 1716461608182346599
+Time taken: 70458
+Sent pre-request at 1716461608182362479
+Time sleep: 735
+Sent request at 1716461608183245018
+Read reply: 1716461608183325713
+Time taken: 82261
+Sent pre-request at 1716461608183341119
+Time sleep: 248
+Sent request at 1716461608183736992
+Read reply: 1716461608183808038
+Time taken: 71978
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608183913252
+Read reply: 1716461608183982253
+Time taken: 70230
+Sent pre-request at 1716461608183997756
+Time sleep: 482
+Sent request at 1716461608184627796
+Read reply: 1716461608184697406
+Time taken: 70756
+Sent pre-request at 1716461608184712947
+Time sleep: 191
+Sent request at 1716461608185051148
+Read reply: 1716461608185120345
+Time taken: 71008
+Sent pre-request at 1716461608185135888
+Time sleep: 152
+Sent request at 1716461608185435319
+Read reply: 1716461608185506078
+Time taken: 72248
+Sent pre-request at 1716461608185521505
+Time sleep: 146
+Sent request at 1716461608185773478
+Read reply: 1716461608185845433
+Time taken: 73238
+Sent pre-request at 1716461608185860873
+Time sleep: 188
+Sent request at 1716461608186196627
+Read reply: 1716461608186266881
+Time taken: 72170
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608186369256
+Read reply: 1716461608186438342
+Time taken: 70090
+Sent pre-request at 1716461608186453878
+Time sleep: 55
+Sent request at 1716461608186656501
+Read reply: 1716461608186726261
+Time taken: 73532
+Sent pre-request at 1716461608186744186
+Time sleep: 107
+Sent request at 1716461608186998511
+Read reply: 1716461608187082093
+Time taken: 85222
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608187204687
+Read reply: 1716461608187304180
+Time taken: 101151
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Sent request at 1716461608187412448
+Read reply: 1716461608187482317
+Time taken: 71721
+Sent pre-request at 1716461608187497757
+Time sleep: 94
+Sent request at 1716461608187739390
+Read reply: 1716461608187809183
+Time taken: 71402
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Sent request at 1716461608187939443
+Read reply: 1716461608188008320
+Time taken: 70657
+Sent pre-request at 1716461608188024006
+Time sleep: 95
+Sent request at 1716461608188267022
+Read reply: 1716461608188336361
+Time taken: 70996
+Sent pre-request at 1716461608188351841
+Time sleep: 138
+Sent request at 1716461608188637318
+Read reply: 1716461608188706899
+Time taken: 71230
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608188825505
+Read reply: 1716461608188894797
+Time taken: 70327
+Sent pre-request at 1716461608188910270
+Time sleep: 129
+Sent request at 1716461608189186927
+Read reply: 1716461608189256147
+Time taken: 71025
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608189354245
+Read reply: 1716461608189422980
+Time taken: 70385
+Sent pre-request at 1716461608189438936
+Time sleep: 135
+Sent request at 1716461608189722118
+Read reply: 1716461608189792990
+Time taken: 72431
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608189913988
+Read reply: 1716461608189983334
+Time taken: 70995
+Sent pre-request at 1716461608189998722
+Time sleep: 82
+Sent request at 1716461608190228970
+Read reply: 1716461608190298486
+Time taken: 71390
+Sent pre-request at 1716461608190314197
+Time sleep: 116
+Sent request at 1716461608190577641
+Read reply: 1716461608190647074
+Time taken: 71120
+Sent pre-request at 1716461608190662552
+Time sleep: 52
+Sent request at 1716461608190862247
+Read reply: 1716461608190933851
+Time taken: 74672
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Sent request at 1716461608191034853
+Read reply: 1716461608191109741
+Time taken: 76012
+Sent pre-request at 1716461608191125254
+Time sleep: 71
+Sent request at 1716461608191343985
+Read reply: 1716461608191417626
+Time taken: 75471
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608191522936
+Read reply: 1716461608191593257
+Time taken: 71252
+Sent pre-request at 1716461608191608686
+Time sleep: 154
+Sent request at 1716461608191910309
+Read reply: 1716461608191980394
+Time taken: 71868
+Sent pre-request at 1716461608191995843
+Time sleep: 100
+Sent request at 1716461608192243177
+Read reply: 1716461608192312915
+Time taken: 71339
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608192430077
+Read reply: 1716461608192501803
+Time taken: 73138
+Sent pre-request at 1716461608192517495
+Time sleep: 153
+Sent request at 1716461608192818158
+Read reply: 1716461608192888666
+Time taken: 72108
+Sent pre-request at 1716461608192904220
+Time sleep: 79
+Sent request at 1716461608193132094
+Read reply: 1716461608193202750
+Time taken: 72437
+Sent pre-request at 1716461608193218301
+Time sleep: 59
+Sent request at 1716461608193424974
+Read reply: 1716461608193494048
+Time taken: 67795
+Sent pre-request at 1716461608193506269
+Time sleep: 150
+Sent request at 1716461608193776541
+Read reply: 1716461608193847422
+Time taken: 72531
+Sent pre-request at 1716461608193862981
+Time sleep: 51
+Sent request at 1716461608194062500
+Read reply: 1716461608194132128
+Time taken: 72867
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608194245268
+Read reply: 1716461608194313829
+Time taken: 70297
+Sent pre-request at 1716461608194329109
+Time sleep: 78
+Sent request at 1716461608194555031
+Read reply: 1716461608194625268
+Time taken: 71114
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Sent request at 1716461608194739550
+Read reply: 1716461608194807927
+Time taken: 69926
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Sent request at 1716461608194942069
+Read reply: 1716461608195010401
+Time taken: 70023
+Sent pre-request at 1716461608195025830
+Time sleep: 364
+Sent request at 1716461608195538607
+Read reply: 1716461608195614095
+Time taken: 77208
+Sent pre-request at 1716461608195629646
+Time sleep: 239
+Sent request at 1716461608196016185
+Read reply: 1716461608196085609
+Time taken: 71073
+Sent pre-request at 1716461608196101072
+Time sleep: 117
+Sent request at 1716461608196366093
+Read reply: 1716461608196437551
+Time taken: 73135
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608196542842
+Read reply: 1716461608196612908
+Time taken: 71251
+Sent pre-request at 1716461608196628433
+Time sleep: 73
+Sent request at 1716461608196849087
+Read reply: 1716461608196920427
+Time taken: 72215
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608197010695
+Read reply: 1716461608197079366
+Time taken: 70421
+Sent pre-request at 1716461608197095236
+Time sleep: 155
+Sent request at 1716461608197398975
+Read reply: 1716461608197469760
+Time taken: 72468
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 31
+Time sleep: 31
+Sent request at 1716461608197586994
+Read reply: 1716461608197667316
+Time taken: 72902
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608197791585
+Read reply: 1716461608197859920
+Time taken: 70223
+Sent pre-request at 1716461608197875252
+Time sleep: 72
+Sent request at 1716461608198095729
+Read reply: 1716461608198166365
+Time taken: 71391
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Sent request at 1716461608198301408
+Read reply: 1716461608198370715
+Time taken: 66907
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608198458554
+Read reply: 1716461608198528281
+Time taken: 66597
+Sent pre-request at 1716461608198539492
+Time sleep: 165
+Sent request at 1716461608198851840
+Read reply: 1716461608198921481
+Time taken: 71401
+Sent pre-request at 1716461608198937057
+Time sleep: 296
+Sent request at 1716461608199381273
+Read reply: 1716461608199462120
+Time taken: 81803
+Sent pre-request at 1716461608199477538
+Time sleep: 138
+Sent request at 1716461608199762998
+Read reply: 1716461608199833894
+Time taken: 72457
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Sent request at 1716461608199944261
+Read reply: 1716461608200013549
+Time taken: 71092
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608200107650
+Read reply: 1716461608200176621
+Time taken: 70734
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608200291571
+Read reply: 1716461608200360511
+Time taken: 70745
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Sent request at 1716461608200495575
+Read reply: 1716461608200563919
+Time taken: 69886
+Sent pre-request at 1716461608200579175
+Time sleep: 199
+Sent request at 1716461608200926399
+Read reply: 1716461608200995880
+Time taken: 71062
+Sent pre-request at 1716461608201011351
+Time sleep: 221
+Sent request at 1716461608201379851
+Read reply: 1716461608201450734
+Time taken: 71525
+Sent pre-request at 1716461608201466144
+Time sleep: 108
+Sent request at 1716461608201728673
+Read reply: 1716461608201799737
+Time taken: 72574
+Sent pre-request at 1716461608201815008
+Time sleep: 104
+Sent request at 1716461608202066712
+Read reply: 1716461608202135673
+Time taken: 70845
+Sent pre-request at 1716461608202151096
+Time sleep: 58
+Sent request at 1716461608202356682
+Read reply: 1716461608202425648
+Time taken: 71331
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608202523483
+Read reply: 1716461608202592320
+Time taken: 70414
+Sent pre-request at 1716461608202607604
+Time sleep: 55
+Sent request at 1716461608202810212
+Read reply: 1716461608202880170
+Time taken: 71636
+Sent pre-request at 1716461608202895353
+Time sleep: 184
+Sent request at 1716461608203227089
+Read reply: 1716461608203302739
+Time taken: 77460
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608203429920
+Read reply: 1716461608203503360
+Time taken: 75095
+Sent pre-request at 1716461608203518703
+Time sleep: 360
+Sent request at 1716461608204026083
+Read reply: 1716461608204122361
+Time taken: 97873
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608204217863
+Read reply: 1716461608204289784
+Time taken: 73481
+Sent pre-request at 1716461608204305234
+Time sleep: 127
+Sent request at 1716461608204580291
+Read reply: 1716461608204650852
+Time taken: 71681
+Sent pre-request at 1716461608204666493
+Time sleep: 292
+Sent request at 1716461608205105863
+Read reply: 1716461608205178007
+Time taken: 73797
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608205264307
+Read reply: 1716461608205333553
+Time taken: 70766
+Sent pre-request at 1716461608205348822
+Time sleep: 52
+Sent request at 1716461608205548692
+Read reply: 1716461608205621946
+Time taken: 71245
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608205716619
+Read reply: 1716461608205786076
+Time taken: 71039
+Sent pre-request at 1716461608205801450
+Time sleep: 73
+Sent request at 1716461608206022459
+Read reply: 1716461608206091793
+Time taken: 70986
+Sent pre-request at 1716461608206107124
+Time sleep: 60
+Sent request at 1716461608206314927
+Read reply: 1716461608206385415
+Time taken: 71209
+Sent pre-request at 1716461608206400763
+Time sleep: 239
+Sent request at 1716461608206787810
+Read reply: 1716461608206858315
+Time taken: 71708
+Sent pre-request at 1716461608206873695
+Time sleep: 155
+Sent request at 1716461608207176332
+Read reply: 1716461608207255821
+Time taken: 81342
+Sent pre-request at 1716461608207271330
+Time sleep: 150
+Sent request at 1716461608207568557
+Read reply: 1716461608207649408
+Time taken: 75288
+Sent pre-request at 1716461608207664947
+Time sleep: 55
+Sent request at 1716461608207867605
+Read reply: 1716461608207939077
+Time taken: 73066
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608208044412
+Read reply: 1716461608208112565
+Time taken: 65893
+Sent pre-request at 1716461608208123748
+Time sleep: 182
+Sent request at 1716461608208452753
+Read reply: 1716461608208522091
+Time taken: 71112
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608208634531
+Read reply: 1716461608208705543
+Time taken: 72547
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 13
+Time sleep: 13
+Sent request at 1716461608208804649
+Read reply: 1716461608208874726
+Time taken: 71804
+Sent pre-request at 1716461608208890094
+Time sleep: 88
+Sent request at 1716461608209126348
+Read reply: 1716461608209195478
+Time taken: 70848
+Sent pre-request at 1716461608209210878
+Time sleep: 59
+Sent request at 1716461608209417218
+Read reply: 1716461608209486358
+Time taken: 70661
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Sent request at 1716461608209599967
+Read reply: 1716461608209673165
+Time taken: 74375
+Sent pre-request at 1716461608209688490
+Time sleep: 186
+Sent request at 1716461608210023381
+Read reply: 1716461608210093576
+Time taken: 72076
+Sent pre-request at 1716461608210108922
+Time sleep: 185
+Sent request at 1716461608210441482
+Read reply: 1716461608210510333
+Time taken: 70567
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608210603142
+Read reply: 1716461608210671230
+Time taken: 69841
+Sent pre-request at 1716461608210686576
+Time sleep: 133
+Sent request at 1716461608210968331
+Read reply: 1716461608211038264
+Time taken: 71488
+Sent pre-request at 1716461608211053635
+Time sleep: 70
+Sent request at 1716461608211271054
+Read reply: 1716461608211348010
+Time taken: 79210
+Sent pre-request at 1716461608211363776
+Time sleep: 125
+Sent request at 1716461608211636489
+Read reply: 1716461608211707041
+Time taken: 72139
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608211812856
+Read reply: 1716461608211881547
+Time taken: 70330
+Sent pre-request at 1716461608211896988
+Time sleep: 95
+Sent request at 1716461608212140196
+Read reply: 1716461608212209732
+Time taken: 71157
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608212311154
+Read reply: 1716461608212382489
+Time taken: 72918
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608212469496
+Read reply: 1716461608212538903
+Time taken: 70921
+Sent pre-request at 1716461608212554170
+Time sleep: 303
+Sent request at 1716461608213005093
+Read reply: 1716461608213076901
+Time taken: 72585
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608213174982
+Read reply: 1716461608213244089
+Time taken: 70661
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608213341510
+Read reply: 1716461608213409655
+Time taken: 69643
+Sent pre-request at 1716461608213424846
+Time sleep: 111
+Sent request at 1716461608213683569
+Read reply: 1716461608213757046
+Time taken: 74365
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608213849282
+Read reply: 1716461608213917151
+Time taken: 69809
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608214014951
+Read reply: 1716461608214083839
+Time taken: 70461
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608214177850
+Read reply: 1716461608214245834
+Time taken: 69471
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608214351552
+Read reply: 1716461608214419689
+Time taken: 69737
+Sent pre-request at 1716461608214435146
+Time sleep: 99
+Sent request at 1716461608214682127
+Read reply: 1716461608214752614
+Time taken: 72325
+Sent pre-request at 1716461608214767925
+Time sleep: 77
+Sent request at 1716461608214992321
+Read reply: 1716461608215071065
+Time taken: 80260
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608215166251
+Read reply: 1716461608215239452
+Time taken: 74809
+Sent pre-request at 1716461608215254706
+Time sleep: 54
+Sent request at 1716461608215456888
+Read reply: 1716461608215526511
+Time taken: 71341
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608215649530
+Read reply: 1716461608215717792
+Time taken: 69884
+Sent pre-request at 1716461608215733144
+Time sleep: 72
+Sent request at 1716461608215952511
+Read reply: 1716461608216021707
+Time taken: 70929
+Sent pre-request at 1716461608216037136
+Time sleep: 90
+Sent request at 1716461608216275317
+Read reply: 1716461608216345478
+Time taken: 71812
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608216447633
+Read reply: 1716461608216515765
+Time taken: 69799
+Sent pre-request at 1716461608216531108
+Time sleep: 139
+Sent request at 1716461608216817450
+Read reply: 1716461608216886708
+Time taken: 71137
+Sent pre-request at 1716461608216902105
+Time sleep: 126
+Sent request at 1716461608217176169
+Read reply: 1716461608217254033
+Time taken: 71816
+Sent pre-request at 1716461608217269713
+Time sleep: 135
+Sent request at 1716461608217552408
+Read reply: 1716461608217635535
+Time taken: 84085
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 22
+Time sleep: 22
+Sent request at 1716461608217743531
+Read reply: 1716461608217818007
+Time taken: 75894
+Sent pre-request at 1716461608217833732
+Time sleep: 250
+Sent request at 1716461608218232674
+Read reply: 1716461608218306865
+Time taken: 75455
+Sent pre-request at 1716461608218322346
+Time sleep: 88
+Sent request at 1716461608218558355
+Read reply: 1716461608218627584
+Time taken: 70841
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608218717934
+Read reply: 1716461608218786208
+Time taken: 70066
+Sent pre-request at 1716461608218801615
+Time sleep: 415
+Sent request at 1716461608219364594
+Read reply: 1716461608219447842
+Time taken: 84414
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608219573247
+Read reply: 1716461608219644228
+Time taken: 72690
+Sent pre-request at 1716461608219659734
+Time sleep: 79
+Sent request at 1716461608219886372
+Read reply: 1716461608219956628
+Time taken: 71915
+Sent pre-request at 1716461608219972170
+Time sleep: 120
+Sent request at 1716461608220240649
+Read reply: 1716461608220311314
+Time taken: 72157
+Sent pre-request at 1716461608220326517
+Time sleep: 69
+Sent request at 1716461608220543097
+Read reply: 1716461608220643385
+Time taken: 101811
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Sent request at 1716461608220746767
+Read reply: 1716461608220818435
+Time taken: 72517
+Sent pre-request at 1716461608220834107
+Time sleep: 185
+Sent request at 1716461608221166510
+Read reply: 1716461608221236414
+Time taken: 71656
+Sent pre-request at 1716461608221251863
+Time sleep: 72
+Sent request at 1716461608221472597
+Read reply: 1716461608221542721
+Time taken: 71521
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608221604939
+Read reply: 1716461608221682453
+Time taken: 83217
+Sent pre-request at 1716461608221698283
+Time sleep: 320
+Sent request at 1716461608222166344
+Read reply: 1716461608222235709
+Time taken: 71215
+Sent pre-request at 1716461608222251272
+Time sleep: 98
+Sent request at 1716461608222498325
+Read reply: 1716461608222568501
+Time taken: 71878
+Sent pre-request at 1716461608222583837
+Time sleep: 155
+Sent request at 1716461608222886732
+Read reply: 1716461608222956232
+Time taken: 71216
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608223044322
+Read reply: 1716461608223126794
+Time taken: 83612
+Sent pre-request at 1716461608223142619
+Time sleep: 134
+Sent request at 1716461608223424383
+Read reply: 1716461608223498003
+Time taken: 74664
+Sent pre-request at 1716461608223513114
+Time sleep: 205
+Sent request at 1716461608223865476
+Read reply: 1716461608223936240
+Time taken: 72504
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608224045507
+Read reply: 1716461608224114537
+Time taken: 70656
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608224247285
+Read reply: 1716461608224315611
+Time taken: 70158
+Sent pre-request at 1716461608224331542
+Time sleep: 52
+Sent request at 1716461608224532045
+Read reply: 1716461608224603175
+Time taken: 72128
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608224724781
+Read reply: 1716461608224792782
+Time taken: 69787
+Sent pre-request at 1716461608224808519
+Time sleep: 155
+Sent request at 1716461608225111494
+Read reply: 1716461608225180644
+Time taken: 71052
+Sent pre-request at 1716461608225196175
+Time sleep: 129
+Sent request at 1716461608225472444
+Read reply: 1716461608225541890
+Time taken: 71097
+Sent pre-request at 1716461608225557254
+Time sleep: 169
+Sent request at 1716461608225874594
+Read reply: 1716461608225945726
+Time taken: 72863
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Sent request at 1716461608226079947
+Read reply: 1716461608226148098
+Time taken: 69955
+Sent pre-request at 1716461608226163429
+Time sleep: 212
+Sent request at 1716461608226523557
+Read reply: 1716461608226592968
+Time taken: 71095
+Sent pre-request at 1716461608226608411
+Time sleep: 83
+Sent request at 1716461608226839074
+Read reply: 1716461608226908379
+Time taken: 70991
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608227004444
+Read reply: 1716461608227081971
+Time taken: 79223
+Sent pre-request at 1716461608227097362
+Time sleep: 97
+Sent request at 1716461608227341862
+Read reply: 1716461608227420717
+Time taken: 81116
+Sent pre-request at 1716461608227436487
+Time sleep: 146
+Sent request at 1716461608227730509
+Read reply: 1716461608227800202
+Time taken: 71255
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608227887503
+Read reply: 1716461608227955808
+Time taken: 69313
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 23
+Time sleep: 23
+Sent request at 1716461608228064954
+Read reply: 1716461608228133077
+Time taken: 69659
+Sent pre-request at 1716461608228148487
+Time sleep: 168
+Sent request at 1716461608228463867
+Read reply: 1716461608228532912
+Time taken: 70676
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608228619449
+Read reply: 1716461608228687659
+Time taken: 69756
+Sent pre-request at 1716461608228702811
+Time sleep: 76
+Sent request at 1716461608228926248
+Read reply: 1716461608228995475
+Time taken: 70794
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608229126540
+Read reply: 1716461608229194541
+Time taken: 69742
+Sent pre-request at 1716461608229210072
+Time sleep: 121
+Sent request at 1716461608229478416
+Read reply: 1716461608229547326
+Time taken: 70628
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608229603724
+Read reply: 1716461608229675709
+Time taken: 76871
+Sent pre-request at 1716461608229690816
+Time sleep: 75
+Sent request at 1716461608229914021
+Read reply: 1716461608229983736
+Time taken: 71391
+Sent pre-request at 1716461608229998999
+Time sleep: 78
+Sent request at 1716461608230224723
+Read reply: 1716461608230294077
+Time taken: 71077
+Sent pre-request at 1716461608230309621
+Time sleep: 79
+Sent request at 1716461608230536995
+Read reply: 1716461608230606013
+Time taken: 70611
+Sent pre-request at 1716461608230621391
+Time sleep: 103
+Sent request at 1716461608230873060
+Read reply: 1716461608230942937
+Time taken: 71527
+Sent pre-request at 1716461608230958253
+Time sleep: 70
+Sent request at 1716461608231176494
+Read reply: 1716461608231251631
+Time taken: 76111
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608231357013
+Read reply: 1716461608231425803
+Time taken: 70428
+Sent pre-request at 1716461608231441485
+Time sleep: 56
+Sent request at 1716461608231644858
+Read reply: 1716461608231714462
+Time taken: 71070
+Sent pre-request at 1716461608231730045
+Time sleep: 75
+Sent request at 1716461608231954008
+Read reply: 1716461608232025846
+Time taken: 72716
+Sent pre-request at 1716461608232041343
+Time sleep: 248
+Sent request at 1716461608232436932
+Read reply: 1716461608232506079
+Time taken: 70747
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 36
+Time sleep: 36
+Sent request at 1716461608232628351
+Read reply: 1716461608232696746
+Time taken: 69961
+Sent pre-request at 1716461608232712256
+Time sleep: 132
+Sent request at 1716461608232992566
+Read reply: 1716461608233062522
+Time taken: 72204
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 33
+Time sleep: 33
+Sent request at 1716461608233182449
+Read reply: 1716461608233250663
+Time taken: 70100
+Sent pre-request at 1716461608233266321
+Time sleep: 125
+Sent request at 1716461608233538848
+Read reply: 1716461608233616370
+Time taken: 79855
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608233706281
+Read reply: 1716461608233774927
+Time taken: 70121
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608233868392
+Read reply: 1716461608233936416
+Time taken: 70424
+Sent pre-request at 1716461608233952321
+Time sleep: 58
+Sent request at 1716461608234158534
+Read reply: 1716461608234228174
+Time taken: 71486
+Sent pre-request at 1716461608234244064
+Time sleep: 188
+Sent request at 1716461608234579602
+Read reply: 1716461608234648980
+Time taken: 71001
+Sent pre-request at 1716461608234664586
+Time sleep: 60
+Sent request at 1716461608234872659
+Read reply: 1716461608234942248
+Time taken: 71846
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608235068213
+Read reply: 1716461608235147548
+Time taken: 80966
+Sent pre-request at 1716461608235162954
+Time sleep: 53
+Sent request at 1716461608235363525
+Read reply: 1716461608235436326
+Time taken: 74388
+Sent pre-request at 1716461608235451906
+Time sleep: 81
+Sent request at 1716461608235681255
+Read reply: 1716461608235751840
+Time taken: 72081
+Sent pre-request at 1716461608235767282
+Time sleep: 292
+Sent request at 1716461608236207379
+Read reply: 1716461608236278098
+Time taken: 71640
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608236384335
+Read reply: 1716461608236455580
+Time taken: 72805
+Sent pre-request at 1716461608236471113
+Time sleep: 85
+Sent request at 1716461608236704513
+Read reply: 1716461608236774678
+Time taken: 71807
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Sent request at 1716461608236877961
+Read reply: 1716461608236947413
+Time taken: 71226
+Sent pre-request at 1716461608236962983
+Time sleep: 619
+Sent request at 1716461608237730911
+Read reply: 1716461608237854777
+Time taken: 124637
+Sent pre-request at 1716461608237870083
+Time sleep: 85
+Sent request at 1716461608238103689
+Read reply: 1716461608238173831
+Time taken: 71352
+Sent pre-request at 1716461608238189361
+Time sleep: 117
+Sent request at 1716461608238454091
+Read reply: 1716461608238523586
+Time taken: 71143
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608238654872
+Read reply: 1716461608238727135
+Time taken: 74032
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608238845681
+Read reply: 1716461608238916016
+Time taken: 72246
+Sent pre-request at 1716461608238931766
+Time sleep: 128
+Sent request at 1716461608239208850
+Read reply: 1716461608239291110
+Time taken: 83224
+Sent pre-request at 1716461608239306507
+Time sleep: 221
+Sent request at 1716461608239675226
+Read reply: 1716461608239745669
+Time taken: 72027
+Sent pre-request at 1716461608239761138
+Time sleep: 174
+Sent request at 1716461608240082792
+Read reply: 1716461608240154566
+Time taken: 73651
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608240273051
+Read reply: 1716461608240343258
+Time taken: 72011
+Sent pre-request at 1716461608240358942
+Time sleep: 76
+Sent request at 1716461608240582485
+Read reply: 1716461608240654697
+Time taken: 73788
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Sent request at 1716461608240780912
+Read reply: 1716461608240849340
+Time taken: 69891
+Sent pre-request at 1716461608240864809
+Time sleep: 60
+Sent request at 1716461608241072478
+Read reply: 1716461608241142194
+Time taken: 71319
+Sent pre-request at 1716461608241158188
+Time sleep: 352
+Sent request at 1716461608241659005
+Read reply: 1716461608241731750
+Time taken: 73643
+Sent pre-request at 1716461608241747065
+Time sleep: 196
+Sent request at 1716461608242091070
+Read reply: 1716461608242160342
+Time taken: 71217
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608242293179
+Read reply: 1716461608242362230
+Time taken: 70131
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608242480492
+Read reply: 1716461608242548933
+Time taken: 70150
+Sent pre-request at 1716461608242564390
+Time sleep: 89
+Sent request at 1716461608242801077
+Read reply: 1716461608242870538
+Time taken: 71010
+Sent pre-request at 1716461608242885918
+Time sleep: 106
+Sent request at 1716461608243140241
+Read reply: 1716461608243220189
+Time taken: 81953
+Sent pre-request at 1716461608243235686
+Time sleep: 486
+Sent request at 1716461608243870212
+Read reply: 1716461608243941074
+Time taken: 72370
+Sent pre-request at 1716461608243956678
+Time sleep: 98
+Sent request at 1716461608244202617
+Read reply: 1716461608244272604
+Time taken: 71564
+Sent pre-request at 1716461608244288084
+Time sleep: 130
+Sent request at 1716461608244566631
+Read reply: 1716461608244637863
+Time taken: 72801
+Sent pre-request at 1716461608244653360
+Time sleep: 56
+Sent request at 1716461608244857223
+Read reply: 1716461608244927344
+Time taken: 71766
+Sent pre-request at 1716461608244942827
+Time sleep: 64
+Sent request at 1716461608245154270
+Read reply: 1716461608245224866
+Time taken: 72301
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608245331088
+Read reply: 1716461608245400198
+Time taken: 70921
+Sent pre-request at 1716461608245415834
+Time sleep: 141
+Sent request at 1716461608245704802
+Read reply: 1716461608245777130
+Time taken: 73578
+Sent pre-request at 1716461608245792689
+Time sleep: 219
+Sent request at 1716461608246159525
+Read reply: 1716461608246230396
+Time taken: 72590
+Sent pre-request at 1716461608246245953
+Time sleep: 135
+Sent request at 1716461608246530085
+Read reply: 1716461608246600742
+Time taken: 72001
+Sent pre-request at 1716461608246616722
+Time sleep: 121
+Sent request at 1716461608246885440
+Read reply: 1716461608246954780
+Time taken: 71017
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608247048149
+Read reply: 1716461608247126653
+Time taken: 80036
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608247249812
+Read reply: 1716461608247323429
+Time taken: 75281
+Sent pre-request at 1716461608247338826
+Time sleep: 197
+Sent request at 1716461608247684554
+Read reply: 1716461608247758075
+Time taken: 75022
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608247851324
+Read reply: 1716461608247923987
+Time taken: 73576
+Sent pre-request at 1716461608247939335
+Time sleep: 222
+Sent request at 1716461608248308782
+Read reply: 1716461608248377897
+Time taken: 70761
+Sent pre-request at 1716461608248393423
+Time sleep: 80
+Sent request at 1716461608248622295
+Read reply: 1716461608248694692
+Time taken: 74076
+Sent pre-request at 1716461608248710186
+Time sleep: 56
+Sent request at 1716461608248913871
+Read reply: 1716461608248983726
+Time taken: 71281
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608249088067
+Read reply: 1716461608249155895
+Time taken: 69586
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608249274276
+Read reply: 1716461608249342820
+Time taken: 70161
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608249468039
+Read reply: 1716461608249536250
+Time taken: 70066
+Sent pre-request at 1716461608249551828
+Time sleep: 587
+Sent request at 1716461608250289011
+Read reply: 1716461608250360516
+Time taken: 73352
+Sent pre-request at 1716461608250375930
+Time sleep: 80
+Sent request at 1716461608250604158
+Read reply: 1716461608250674119
+Time taken: 71516
+Sent pre-request at 1716461608250689605
+Time sleep: 196
+Sent request at 1716461608251033651
+Read reply: 1716461608251120903
+Time taken: 88785
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608251246213
+Read reply: 1716461608251316795
+Time taken: 72288
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608251403204
+Read reply: 1716461608251472721
+Time taken: 71357
+Sent pre-request at 1716461608251488473
+Time sleep: 177
+Sent request at 1716461608251813574
+Read reply: 1716461608251885277
+Time taken: 72948
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608251991785
+Read reply: 1716461608252059870
+Time taken: 65837
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608252189116
+Read reply: 1716461608252260833
+Time taken: 73796
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 11
+Time sleep: 11
+Sent request at 1716461608252358789
+Read reply: 1716461608252428742
+Time taken: 71106
+Sent pre-request at 1716461608252444586
+Time sleep: 151
+Sent request at 1716461608252743456
+Read reply: 1716461608252812992
+Time taken: 71142
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 3
+Time sleep: 3
+Sent request at 1716461608252902262
+Read reply: 1716461608252971072
+Time taken: 70507
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608253067329
+Read reply: 1716461608253135720
+Time taken: 70165
+Sent pre-request at 1716461608253151582
+Time sleep: 52
+Sent request at 1716461608253351103
+Read reply: 1716461608253420278
+Time taken: 70714
+Sent pre-request at 1716461608253436061
+Time sleep: 143
+Sent request at 1716461608253727098
+Read reply: 1716461608253798242
+Time taken: 72585
+Sent pre-request at 1716461608253813490
+Time sleep: 76
+Sent request at 1716461608254037623
+Read reply: 1716461608254107523
+Time taken: 71430
+Sent pre-request at 1716461608254122809
+Time sleep: 212
+Sent request at 1716461608254482281
+Read reply: 1716461608254551346
+Time taken: 70714
+Sent pre-request at 1716461608254566655
+Time sleep: 292
+Sent request at 1716461608255007392
+Read reply: 1716461608255093604
+Time taken: 87122
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608255213864
+Read reply: 1716461608255292025
+Time taken: 80188
+Sent pre-request at 1716461608255307797
+Time sleep: 146
+Sent request at 1716461608255601282
+Read reply: 1716461608255670636
+Time taken: 71094
+Sent pre-request at 1716461608255686177
+Time sleep: 116
+Sent request at 1716461608255950995
+Read reply: 1716461608256048458
+Time taken: 98614
+Sent pre-request at 1716461608256063964
+Time sleep: 529
+Sent request at 1716461608256740408
+Read reply: 1716461608256843263
+Time taken: 104405
+Sent pre-request at 1716461608256858755
+Time sleep: 183
+Sent request at 1716461608257190375
+Read reply: 1716461608257261616
+Time taken: 72915
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 0
+Time sleep: 0
+Sent request at 1716461608257348072
+Read reply: 1716461608257418731
+Time taken: 71582
+Sent pre-request at 1716461608257434362
+Time sleep: 194
+Sent request at 1716461608257776362
+Read reply: 1716461608257848769
+Time taken: 73485
+Sent pre-request at 1716461608257864234
+Time sleep: 240
+Sent request at 1716461608258252219
+Read reply: 1716461608258322634
+Time taken: 72163
+Sent pre-request at 1716461608258338140
+Time sleep: 226
+Sent request at 1716461608258711996
+Read reply: 1716461608258781867
+Time taken: 71332
+Sent pre-request at 1716461608258797181
+Time sleep: 52
+Sent request at 1716461608258997374
+Read reply: 1716461608259080207
+Time taken: 84491
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 41
+Time sleep: 41
+Sent request at 1716461608259207556
+Read reply: 1716461608259281384
+Time taken: 75461
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608259374616
+Read reply: 1716461608259443217
+Time taken: 70989
+Sent pre-request at 1716461608259459426
+Time sleep: 116
+Sent request at 1716461608259722884
+Read reply: 1716461608259792671
+Time taken: 71389
+Sent pre-request at 1716461608259808172
+Time sleep: 109
+Sent request at 1716461608260065276
+Read reply: 1716461608260135402
+Time taken: 71672
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608260227731
+Read reply: 1716461608260296363
+Time taken: 71744
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Sent request at 1716461608260410911
+Read reply: 1716461608260479260
+Time taken: 70170
+Sent pre-request at 1716461608260494796
+Time sleep: 74
+Sent request at 1716461608260716231
+Read reply: 1716461608260786179
+Time taken: 71661
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Sent request at 1716461608260922585
+Read reply: 1716461608260990867
+Time taken: 69924
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 28
+Time sleep: 28
+Sent request at 1716461608261105036
+Read reply: 1716461608261174312
+Time taken: 71057
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Sent request at 1716461608261304617
+Read reply: 1716461608261373535
+Time taken: 70571
+Sent pre-request at 1716461608261389375
+Time sleep: 87
+Sent request at 1716461608261600311
+Read reply: 1716461608261672409
+Time taken: 73579
+Sent pre-request at 1716461608261688978
+Time sleep: 97
+Sent request at 1716461608261933796
+Read reply: 1716461608262002993
+Time taken: 70887
+Sent pre-request at 1716461608262018374
+Time sleep: 62
+Sent request at 1716461608262228991
+Read reply: 1716461608262298464
+Time taken: 71161
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608262429814
+Read reply: 1716461608262498404
+Time taken: 70267
+Sent pre-request at 1716461608262513901
+Time sleep: 106
+Sent request at 1716461608262767434
+Read reply: 1716461608262836779
+Time taken: 70970
+Sent pre-request at 1716461608262852025
+Time sleep: 82
+Sent request at 1716461608263082445
+Read reply: 1716461608263158419
+Time taken: 76700
+Sent pre-request at 1716461608263173844
+Time sleep: 146
+Sent request at 1716461608263468719
+Read reply: 1716461608263543775
+Time taken: 76534
+Sent pre-request at 1716461608263559170
+Time sleep: 53
+Sent request at 1716461608263760203
+Read reply: 1716461608263830814
+Time taken: 72502
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608263927341
+Read reply: 1716461608264002116
+Time taken: 76413
+Sent pre-request at 1716461608264017833
+Time sleep: 104
+Sent request at 1716461608264269522
+Read reply: 1716461608264342421
+Time taken: 75110
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 44
+Time sleep: 44
+Sent request at 1716461608264473203
+Read reply: 1716461608264542197
+Time taken: 70664
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Sent request at 1716461608264677538
+Read reply: 1716461608264746163
+Time taken: 70202
+Sent pre-request at 1716461608264761663
+Time sleep: 54
+Sent request at 1716461608264963292
+Read reply: 1716461608265032586
+Time taken: 71083
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608265124029
+Read reply: 1716461608265192955
+Time taken: 69801
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Sent request at 1716461608265327012
+Read reply: 1716461608265395333
+Time taken: 70127
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608265510640
+Read reply: 1716461608265579528
+Time taken: 81021
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608265682982
+Read reply: 1716461608265755787
+Time taken: 67861
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Sent request at 1716461608265865269
+Read reply: 1716461608265933360
+Time taken: 69941
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608266037592
+Read reply: 1716461608266106061
+Time taken: 70061
+Sent pre-request at 1716461608266121612
+Time sleep: 297
+Sent request at 1716461608266567288
+Read reply: 1716461608266638474
+Time taken: 72159
+Sent pre-request at 1716461608266653823
+Time sleep: 104
+Sent request at 1716461608266905498
+Read reply: 1716461608266974604
+Time taken: 70890
+Sent pre-request at 1716461608266989849
+Time sleep: 71
+Sent request at 1716461608267209224
+Read reply: 1716461608267284560
+Time taken: 76248
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608267371761
+Read reply: 1716461608267440240
+Time taken: 70712
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Sent request at 1716461608267566840
+Read reply: 1716461608267635637
+Time taken: 70463
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608267740776
+Read reply: 1716461608267809136
+Time taken: 69947
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608267903344
+Read reply: 1716461608267972389
+Time taken: 70215
+Sent pre-request at 1716461608267988168
+Time sleep: 85
+Sent request at 1716461608268220642
+Read reply: 1716461608268290138
+Time taken: 71195
+Sent pre-request at 1716461608268305590
+Time sleep: 121
+Sent request at 1716461608268575583
+Read reply: 1716461608268645633
+Time taken: 72488
+Sent pre-request at 1716461608268661635
+Time sleep: 64
+Sent request at 1716461608268873352
+Read reply: 1716461608268943837
+Time taken: 72161
+Sent pre-request at 1716461608268959343
+Time sleep: 172
+Sent request at 1716461608269279167
+Read reply: 1716461608269348834
+Time taken: 71159
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 6
+Time sleep: 6
+Sent request at 1716461608269441070
+Read reply: 1716461608269510211
+Time taken: 70241
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 5
+Time sleep: 5
+Sent request at 1716461608269603189
+Read reply: 1716461608269697472
+Time taken: 94910
+Sent pre-request at 1716461608269712703
+Time sleep: 58
+Sent request at 1716461608269918537
+Read reply: 1716461608269989111
+Time taken: 71337
+Sent pre-request at 1716461608270004595
+Time sleep: 74
+Sent request at 1716461608270233311
+Read reply: 1716461608270302448
+Time taken: 70848
+Sent pre-request at 1716461608270317723
+Time sleep: 54
+Sent request at 1716461608270519106
+Read reply: 1716461608270588500
+Time taken: 71444
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 10
+Time sleep: 10
+Sent request at 1716461608270685274
+Read reply: 1716461608270754089
+Time taken: 70392
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608270849123
+Read reply: 1716461608270917177
+Time taken: 69941
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608271023373
+Read reply: 1716461608271101598
+Time taken: 80493
+Sent pre-request at 1716461608271117367
+Time sleep: 71
+Sent request at 1716461608271335818
+Read reply: 1716461608271409644
+Time taken: 75526
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608271515866
+Read reply: 1716461608271618397
+Time taken: 105175
+Sent pre-request at 1716461608271634502
+Time sleep: 182
+Sent request at 1716461608271963859
+Read reply: 1716461608272033991
+Time taken: 71699
+Sent pre-request at 1716461608272049171
+Time sleep: 205
+Sent request at 1716461608272401852
+Read reply: 1716461608272471072
+Time taken: 70858
+Sent pre-request at 1716461608272486333
+Time sleep: 84
+Sent request at 1716461608272718194
+Read reply: 1716461608272790191
+Time taken: 72951
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608272905614
+Read reply: 1716461608272975127
+Time taken: 71218
+Sent pre-request at 1716461608272990415
+Time sleep: 253
+Sent request at 1716461608273391707
+Read reply: 1716461608273461281
+Time taken: 71171
+Sent pre-request at 1716461608273476612
+Time sleep: 310
+Sent request at 1716461608273937248
+Read reply: 1716461608274009905
+Time taken: 73281
+Sent pre-request at 1716461608274025100
+Time sleep: 72
+Sent request at 1716461608274245343
+Read reply: 1716461608274315230
+Time taken: 71238
+Sent pre-request at 1716461608274330760
+Time sleep: 363
+Sent request at 1716461608274842028
+Read reply: 1716461608274916603
+Time taken: 71974
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Sent request at 1716461608275023776
+Read reply: 1716461608275102567
+Time taken: 80579
+Sent pre-request at 1716461608275117752
+Time sleep: 114
+Sent request at 1716461608275379379
+Read reply: 1716461608275452670
+Time taken: 75310
+Sent pre-request at 1716461608275468381
+Time sleep: 255
+Sent request at 1716461608275871286
+Read reply: 1716461608275951214
+Time taken: 81856
+Sent pre-request at 1716461608275967304
+Time sleep: 185
+Sent request at 1716461608276300373
+Read reply: 1716461608276372043
+Time taken: 73251
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Sent request at 1716461608276479172
+Read reply: 1716461608276550262
+Time taken: 72881
+Sent pre-request at 1716461608276565673
+Time sleep: 279
+Sent request at 1716461608276992548
+Read reply: 1716461608277064400
+Time taken: 72805
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 19
+Time sleep: 19
+Sent request at 1716461608277169731
+Read reply: 1716461608277239193
+Time taken: 71101
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 46
+Time sleep: 46
+Sent request at 1716461608277371208
+Read reply: 1716461608277439662
+Time taken: 70011
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 2
+Time sleep: 2
+Sent request at 1716461608277527585
+Read reply: 1716461608277611748
+Time taken: 86267
+Sent pre-request at 1716461608277627642
+Time sleep: 140
+Sent request at 1716461608277916376
+Read reply: 1716461608277986997
+Time taken: 72352
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608278080018
+Read reply: 1716461608278156889
+Time taken: 70533
+Sent pre-request at 1716461608278172131
+Time sleep: 68
+Sent request at 1716461608278388019
+Read reply: 1716461608278457598
+Time taken: 71035
+Sent pre-request at 1716461608278473078
+Time sleep: 85
+Sent request at 1716461608278705989
+Read reply: 1716461608278775255
+Time taken: 70912
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608278876062
+Read reply: 1716461608278944021
+Time taken: 69736
+Sent pre-request at 1716461608278959706
+Time sleep: 80
+Sent request at 1716461608279187207
+Read reply: 1716461608279267675
+Time taken: 83018
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608279355952
+Read reply: 1716461608279425349
+Time taken: 70948
+Sent pre-request at 1716461608279440583
+Time sleep: 106
+Sent request at 1716461608279694107
+Read reply: 1716461608279763332
+Time taken: 71016
+Sent pre-request at 1716461608279778723
+Time sleep: 357
+Sent request at 1716461608280283946
+Read reply: 1716461608280354256
+Time taken: 77593
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608280459414
+Read reply: 1716461608280530123
+Time taken: 72335
+Sent pre-request at 1716461608280545670
+Time sleep: 135
+Sent request at 1716461608280828543
+Read reply: 1716461608280898521
+Time taken: 71747
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Sent request at 1716461608281001920
+Read reply: 1716461608281072041
+Time taken: 72418
+Sent pre-request at 1716461608281088292
+Time sleep: 98
+Sent request at 1716461608281334074
+Read reply: 1716461608281404235
+Time taken: 71910
+Sent pre-request at 1716461608281420098
+Time sleep: 260
+Sent request at 1716461608281828874
+Read reply: 1716461608281900839
+Time taken: 73144
+Sent pre-request at 1716461608281916460
+Time sleep: 658
+Sent request at 1716461608282723235
+Read reply: 1716461608282794381
+Time taken: 72048
+Sent pre-request at 1716461608282809846
+Time sleep: 69
+Sent request at 1716461608283027846
+Read reply: 1716461608283115563
+Time taken: 88876
+Sent pre-request at 1716461608283131121
+Time sleep: 68
+Sent request at 1716461608283347627
+Read reply: 1716461608283421411
+Time taken: 75464
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608283536767
+Read reply: 1716461608283606333
+Time taken: 71117
+Sent pre-request at 1716461608283621888
+Time sleep: 54
+Sent request at 1716461608283823917
+Read reply: 1716461608283893156
+Time taken: 70963
+Sent pre-request at 1716461608283909022
+Time sleep: 60
+Sent request at 1716461608284116674
+Read reply: 1716461608284186252
+Time taken: 71318
+Sent pre-request at 1716461608284202062
+Time sleep: 146
+Sent request at 1716461608284496772
+Read reply: 1716461608284566372
+Time taken: 71317
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Sent request at 1716461608284702695
+Read reply: 1716461608284771075
+Time taken: 69952
+Sent pre-request at 1716461608284786585
+Time sleep: 104
+Sent request at 1716461608285038920
+Read reply: 1716461608285108461
+Time taken: 71222
+Sent pre-request at 1716461608285123910
+Time sleep: 59
+Sent request at 1716461608285331259
+Read reply: 1716461608285401293
+Time taken: 71869
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608285526441
+Read reply: 1716461608285602676
+Time taken: 78712
+Sent pre-request at 1716461608285619233
+Time sleep: 67
+Sent request at 1716461608285835186
+Read reply: 1716461608285905740
+Time taken: 72187
+Sent pre-request at 1716461608285921087
+Time sleep: 103
+Sent request at 1716461608286172109
+Read reply: 1716461608286241201
+Time taken: 70720
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608286357163
+Read reply: 1716461608286426484
+Time taken: 70401
+Sent pre-request at 1716461608286442009
+Time sleep: 110
+Sent request at 1716461608286699519
+Read reply: 1716461608286770518
+Time taken: 73540
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608286858651
+Read reply: 1716461608286927346
+Time taken: 70016
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 32
+Time sleep: 32
+Sent request at 1716461608287045527
+Read reply: 1716461608287125117
+Time taken: 81276
+Sent pre-request at 1716461608287140665
+Time sleep: 55
+Sent request at 1716461608287343512
+Read reply: 1716461608287416613
+Time taken: 74881
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 9
+Time sleep: 9
+Sent request at 1716461608287512134
+Read reply: 1716461608287583310
+Time taken: 71694
+Sent pre-request at 1716461608287598797
+Time sleep: 147
+Sent request at 1716461608287893435
+Read reply: 1716461608287963952
+Time taken: 72185
+Sent pre-request at 1716461608287979561
+Time sleep: 809
+Sent request at 1716461608288937434
+Read reply: 1716461608289008428
+Time taken: 71903
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 24
+Time sleep: 24
+Sent request at 1716461608289118710
+Read reply: 1716461608289189393
+Time taken: 72428
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 39
+Time sleep: 39
+Sent request at 1716461608289314560
+Read reply: 1716461608289384066
+Time taken: 71144
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608289471662
+Read reply: 1716461608289540743
+Time taken: 71208
+Sent pre-request at 1716461608289557655
+Time sleep: 206
+Sent request at 1716461608289911723
+Read reply: 1716461608289982682
+Time taken: 72437
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608290103711
+Read reply: 1716461608290199274
+Time taken: 97575
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 14
+Time sleep: 14
+Sent request at 1716461608290299510
+Read reply: 1716461608290369457
+Time taken: 71341
+Sent pre-request at 1716461608290384875
+Time sleep: 95
+Sent request at 1716461608290629728
+Read reply: 1716461608290700156
+Time taken: 72093
+Sent pre-request at 1716461608290715656
+Time sleep: 61
+Sent request at 1716461608290924336
+Read reply: 1716461608290993969
+Time taken: 71041
+Sent pre-request at 1716461608291009560
+Time sleep: 143
+Sent request at 1716461608291300878
+Read reply: 1716461608291375298
+Time taken: 75944
+Sent pre-request at 1716461608291390920
+Time sleep: 78
+Sent request at 1716461608291616925
+Read reply: 1716461608291688634
+Time taken: 73319
+Sent pre-request at 1716461608291704070
+Time sleep: 60
+Sent request at 1716461608291912397
+Read reply: 1716461608291981620
+Time taken: 71021
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 30
+Time sleep: 30
+Sent request at 1716461608292098085
+Read reply: 1716461608292165990
+Time taken: 69654
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608292256384
+Read reply: 1716461608292325335
+Time taken: 70057
+Sent pre-request at 1716461608292341005
+Time sleep: 124
+Sent request at 1716461608292612916
+Read reply: 1716461608292684244
+Time taken: 72339
+Sent pre-request at 1716461608292700005
+Time sleep: 114
+Sent request at 1716461608292962692
+Read reply: 1716461608293032829
+Time taken: 71679
+Sent pre-request at 1716461608293048099
+Time sleep: 67
+Sent request at 1716461608293263338
+Read reply: 1716461608293332823
+Time taken: 71367
+Sent pre-request at 1716461608293348454
+Time sleep: 65
+Sent request at 1716461608293561680
+Read reply: 1716461608293633502
+Time taken: 69606
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 7
+Time sleep: 7
+Sent request at 1716461608293723483
+Read reply: 1716461608293792476
+Time taken: 70932
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608293893578
+Read reply: 1716461608293961981
+Time taken: 69956
+Sent pre-request at 1716461608293977556
+Time sleep: 266
+Sent request at 1716461608294391269
+Read reply: 1716461608294460795
+Time taken: 71062
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 49
+Time sleep: 49
+Sent request at 1716461608294596041
+Read reply: 1716461608294665126
+Time taken: 70577
+Sent pre-request at 1716461608294680593
+Time sleep: 99
+Sent request at 1716461608294927922
+Read reply: 1716461608294997617
+Time taken: 71495
+Sent pre-request at 1716461608295013154
+Time sleep: 85
+Sent request at 1716461608295245594
+Read reply: 1716461608295325106
+Time taken: 81128
+Sent pre-request at 1716461608295340492
+Time sleep: 103
+Sent request at 1716461608295591305
+Read reply: 1716461608295660582
+Time taken: 71039
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 35
+Time sleep: 35
+Sent request at 1716461608295782388
+Read reply: 1716461608295853505
+Time taken: 72191
+Sent pre-request at 1716461608295869219
+Time sleep: 88
+Sent request at 1716461608296104837
+Read reply: 1716461608296174424
+Time taken: 71190
+Sent pre-request at 1716461608296189905
+Time sleep: 255
+Sent request at 1716461608296592630
+Read reply: 1716461608296664851
+Time taken: 73754
+Sent pre-request at 1716461608296680205
+Time sleep: 129
+Sent request at 1716461608296957664
+Read reply: 1716461608297028430
+Time taken: 72397
+Sent pre-request at 1716461608297043832
+Time sleep: 112
+Sent request at 1716461608297303663
+Read reply: 1716461608297373477
+Time taken: 71511
+Sent pre-request at 1716461608297388936
+Time sleep: 118
+Sent request at 1716461608297654531
+Read reply: 1716461608297726157
+Time taken: 72687
+Sent pre-request at 1716461608297741561
+Time sleep: 129
+Sent request at 1716461608298020106
+Read reply: 1716461608298089931
+Time taken: 71582
+Sent pre-request at 1716461608298105520
+Time sleep: 223
+Sent request at 1716461608298476098
+Read reply: 1716461608298545672
+Time taken: 71104
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608298632780
+Read reply: 1716461608298700636
+Time taken: 69544
+Sent pre-request at 1716461608298716204
+Time sleep: 136
+Sent request at 1716461608299000189
+Read reply: 1716461608299079725
+Time taken: 81226
+Sent pre-request at 1716461608299095190
+Time sleep: 145
+Sent request at 1716461608299387510
+Read reply: 1716461608299461835
+Time taken: 75801
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 38
+Time sleep: 38
+Sent request at 1716461608299586193
+Read reply: 1716461608299654410
+Time taken: 70026
+Sent pre-request at 1716461608299669857
+Time sleep: 210
+Sent request at 1716461608300027828
+Read reply: 1716461608300099544
+Time taken: 72794
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 48
+Time sleep: 48
+Sent request at 1716461608300233796
+Read reply: 1716461608300304119
+Time taken: 71956
+Sent pre-request at 1716461608300319467
+Time sleep: 148
+Sent request at 1716461608300614944
+Read reply: 1716461608300685345
+Time taken: 71915
+Sent pre-request at 1716461608300700690
+Time sleep: 102
+Sent request at 1716461608300950529
+Read reply: 1716461608301020130
+Time taken: 71299
+Sent pre-request at 1716461608301035637
+Time sleep: 257
+Sent request at 1716461608301439950
+Read reply: 1716461608301509637
+Time taken: 71195
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608301604731
+Read reply: 1716461608301675507
+Time taken: 72211
+Sent pre-request at 1716461608301691233
+Time sleep: 230
+Sent request at 1716461608302069652
+Read reply: 1716461608302139497
+Time taken: 71245
+Sent pre-request at 1716461608302155059
+Time sleep: 330
+Sent request at 1716461608302632551
+Read reply: 1716461608302702141
+Time taken: 71345
+Sent pre-request at 1716461608302717778
+Time sleep: 283
+Sent request at 1716461608303149478
+Read reply: 1716461608303230996
+Time taken: 82354
+Sent pre-request at 1716461608303246332
+Time sleep: 87
+Sent request at 1716461608303480703
+Read reply: 1716461608303551306
+Time taken: 72296
+Sent pre-request at 1716461608303566860
+Time sleep: 60
+Sent request at 1716461608303774477
+Read reply: 1716461608303845434
+Time taken: 72872
+Sent pre-request at 1716461608303861374
+Time sleep: 54
+Sent request at 1716461608304062932
+Read reply: 1716461608304132388
+Time taken: 71482
+Sent pre-request at 1716461608304148418
+Time sleep: 106
+Sent request at 1716461608304402752
+Read reply: 1716461608304472863
+Time taken: 71667
+Sent pre-request at 1716461608304488440
+Time sleep: 90
+Sent request at 1716461608304725901
+Read reply: 1716461608304795482
+Time taken: 71179
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 43
+Time sleep: 43
+Sent request at 1716461608304924709
+Read reply: 1716461608304992541
+Time taken: 69491
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608305082743
+Read reply: 1716461608305151593
+Time taken: 70561
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 25
+Time sleep: 25
+Sent request at 1716461608305263743
+Read reply: 1716461608305332446
+Time taken: 70405
+Sent pre-request at 1716461608305347899
+Time sleep: 261
+Sent request at 1716461608305756572
+Read reply: 1716461608305829722
+Time taken: 74147
+Sent pre-request at 1716461608305844979
+Time sleep: 118
+Sent request at 1716461608306111537
+Read reply: 1716461608306181035
+Time taken: 71386
+Sent pre-request at 1716461608306196742
+Time sleep: 75
+Sent request at 1716461608306420655
+Read reply: 1716461608306492601
+Time taken: 72937
+Sent pre-request at 1716461608306508259
+Time sleep: 72
+Sent request at 1716461608306728112
+Read reply: 1716461608306797827
+Time taken: 71278
+Sent pre-request at 1716461608306813411
+Time sleep: 95
+Sent request at 1716461608307056640
+Read reply: 1716461608307136868
+Time taken: 81997
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 29
+Time sleep: 29
+Sent request at 1716461608307252159
+Read reply: 1716461608307322968
+Time taken: 72576
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 21
+Time sleep: 21
+Sent request at 1716461608307430169
+Read reply: 1716461608307500283
+Time taken: 71870
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 37
+Time sleep: 37
+Sent request at 1716461608307623358
+Read reply: 1716461608307693064
+Time taken: 71568
+Sent pre-request at 1716461608307708526
+Time sleep: 394
+Sent request at 1716461608308250208
+Read reply: 1716461608308355539
+Time taken: 107598
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608308450424
+Read reply: 1716461608308521012
+Time taken: 72280
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 40
+Time sleep: 40
+Sent request at 1716461608308647150
+Read reply: 1716461608308716193
+Time taken: 70681
+Sent pre-request at 1716461608308731604
+Time sleep: 128
+Sent request at 1716461608309007019
+Read reply: 1716461608309076464
+Time taken: 71969
+Sent pre-request at 1716461608309092758
+Time sleep: 189
+Sent request at 1716461608309429734
+Read reply: 1716461608309500239
+Time taken: 71487
+Sent pre-request at 1716461608309515565
+Time sleep: 104
+Sent request at 1716461608309729913
+Read reply: 1716461608309801434
+Time taken: 72907
+Sent pre-request at 1716461608309816734
+Time sleep: 92
+Sent request at 1716461608310056398
+Read reply: 1716461608310125932
+Time taken: 71144
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 26
+Time sleep: 26
+Sent request at 1716461608310238182
+Read reply: 1716461608310306810
+Time taken: 70133
+Sent pre-request at 1716461608310322313
+Time sleep: 54
+Sent request at 1716461608310525050
+Read reply: 1716461608310594778
+Time taken: 71530
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 27
+Time sleep: 27
+Sent request at 1716461608310708267
+Read reply: 1716461608310776737
+Time taken: 70277
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 16
+Time sleep: 16
+Sent request at 1716461608310879015
+Read reply: 1716461608310948042
+Time taken: 70117
+Sent pre-request at 1716461608310963791
+Time sleep: 105
+Sent request at 1716461608311216420
+Read reply: 1716461608311294117
+Time taken: 79601
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 15
+Time sleep: 15
+Sent request at 1716461608311395552
+Read reply: 1716461608311463938
+Time taken: 70019
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608311562241
+Read reply: 1716461608311632515
+Time taken: 71783
+Sent pre-request at 1716461608311648051
+Time sleep: 90
+Sent request at 1716461608311885473
+Read reply: 1716461608311955207
+Time taken: 71554
+Sent pre-request at 1716461608311970760
+Time sleep: 128
+Sent request at 1716461608312245986
+Read reply: 1716461608312319316
+Time taken: 74841
+Sent pre-request at 1716461608312334765
+Time sleep: 85
+Sent request at 1716461608312567968
+Read reply: 1716461608312639345
+Time taken: 72281
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 1
+Time sleep: 1
+Sent request at 1716461608312726556
+Read reply: 1716461608312795419
+Time taken: 71218
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 47
+Time sleep: 47
+Sent request at 1716461608312929711
+Read reply: 1716461608312997935
+Time taken: 69919
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 18
+Time sleep: 18
+Sent request at 1716461608313102118
+Read reply: 1716461608313170815
+Time taken: 70387
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 45
+Time sleep: 45
+Sent request at 1716461608313302414
+Read reply: 1716461608313370935
+Time taken: 70221
+Sent pre-request at 1716461608313386508
+Time sleep: 55
+Sent request at 1716461608313598839
+Read reply: 1716461608313671383
+Time taken: 72821
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 50
+Time sleep: 50
+Sent request at 1716461608313807607
+Read reply: 1716461608313876478
+Time taken: 70359
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 34
+Time sleep: 34
+Sent request at 1716461608313996606
+Read reply: 1716461608314065057
+Time taken: 69948
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 12
+Time sleep: 12
+Sent request at 1716461608314163310
+Read reply: 1716461608314232210
+Time taken: 70600
+Sent pre-request at 1716461608314247713
+Time sleep: 263
+Sent request at 1716461608314659304
+Read reply: 1716461608314729638
+Time taken: 71348
+Sent pre-request at 1716461608314745151
+Time sleep: 165
+Sent request at 1716461608315057519
+Read reply: 1716461608315134807
+Time taken: 78974
+Sent pre-request at 1716461608315150341
+Time sleep: 133
+Sent request at 1716461608315430684
+Read reply: 1716461608315501708
+Time taken: 72750
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 20
+Time sleep: 20
+Sent request at 1716461608315607994
+Read reply: 1716461608315677199
+Time taken: 71483
+Sent pre-request at 1716461608315693189
+Time sleep: 616
+Sent request at 1716461608316456735
+Read reply: 1716461608316526211
+Time taken: 71104
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 4
+Time sleep: 4
+Sent request at 1716461608316616421
+Read reply: 1716461608316684849
+Time taken: 70147
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 17
+Time sleep: 17
+Sent request at 1716461608316788664
+Read reply: 1716461608316860726
+Time taken: 73688
+Did not sleep because the pre request interval is greater than sleep. Pre: 50, Actual: 8
+Time sleep: 8
+Sent request at 1716461608316954973
+Read reply: 1716461608317023333
+Time taken: 70114

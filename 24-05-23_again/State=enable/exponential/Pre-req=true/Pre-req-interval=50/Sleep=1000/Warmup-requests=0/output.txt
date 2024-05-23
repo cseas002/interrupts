@@ -1,0 +1,13 @@
+Parameters:
+Server IP address: 10.10.1.1
+Sleep microseconds: 1000
+Repetitions: 10000
+Send Pre request: 1
+Pre-Request interval: 50
+Distribution: Exponential
+Warmup Requests: 0
+
+
+Total time taken: 1510921647
+Average Latency: 151092.16 microseconds
+99th Percentile Latency: 242128 microseconds
